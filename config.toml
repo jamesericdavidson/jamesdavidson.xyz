@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "gitlab"
-    url = "https://gitlab.com"
+    url = "https://gitlab.com/jamesericdavidson"
     weight = 2
 
     pre = "<span data-feather='gitlab'></span>"
