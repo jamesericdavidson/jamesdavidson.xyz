@@ -34,7 +34,7 @@ enableRobotsTXT = true
 
 [params]
   # Description to display on homepage
-  description = "Cybersecurity student and Certified Scrum Master"
+  description = "Cybersecurity student"
 
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
