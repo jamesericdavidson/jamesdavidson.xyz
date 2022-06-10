@@ -1,0 +1,2 @@
+# Ignore lock when running a local hugo server
+.hugo_build.lock
