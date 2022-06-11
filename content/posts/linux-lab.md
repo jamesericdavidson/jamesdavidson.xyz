@@ -1,9 +1,8 @@
 ---
 title: "Linux Lab"
-date: 2022-06-10T16:54:19+01:00
-description: ""
+date: 2022-06-11
+description: "A tutorial for beginners"
 type: "post"
-draft: true
 ---
 
 # Introduction
