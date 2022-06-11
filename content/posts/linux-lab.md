@@ -50,7 +50,7 @@ All documentation text and source code related to the Linux Lab (prior to Versio
 
 ## Version History
 
-* Version 1.2.0 - 10/06/2022
+* Version 1.2.0 - 11/06/2022
     * Replaced Pandoc YAML
     * Added Introduction
     * Updated copyright year
