@@ -62,12 +62,12 @@ All documentation text and source code related to the Linux Lab (prior to Versio
     * Added missing code fencing
 
 * Version 1.1.0 - 17/06/2020
-	* Changed fonts to [Liberation](https://en.wikipedia.org/wiki/Liberation_fonts) (PDF version only)
-	* Added more Tasks
-	* Added Presentation contents
+    * Changed fonts to [Liberation](https://en.wikipedia.org/wiki/Liberation_fonts) (PDF version only)
+    * Added more Tasks
+    * Added Presentation contents
 
 * Version 1.0.0 - 11/01/2020
-	* Initial release
+    * Initial release
 
 # Basic shell commands
 
