@@ -28,10 +28,6 @@ All of that said, enjoy.
 
 I would like to thank the Debian maintainers, past and present, for their work in making a rock solid GNU/Linux distribution. Without which, this tutorial would never have been made.
 
-# Table of Contents
-
-{{< toc >}}
-
 # Copyright and Licence Notices
 
 	Copyright (C)  2020, 2022  James Davidson
@@ -54,6 +50,7 @@ All documentation text and source code related to the Linux Lab (prior to Versio
 * Version 1.2.0 - 10/06/2022
     * Replaced Pandoc YAML
     * Added Introduction
+    * Removed Table of Contents
     * Updated copyright year
     * Removed references to 'series of tutorials' and future labs
     * Clarified that the `linux-lab` repository contains prior versions
