@@ -1,5 +1,5 @@
 ---
-title: "Linux Lab"
+title: "The Linux Lab"
 date: 2022-06-11
 description: "A tutorial for beginners"
 type: "post"
