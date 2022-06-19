@@ -48,7 +48,7 @@ The Linux Lab is tutorial designed for beginners; it aims to be comprehensive an
 
 There are no requirements to undertake the Linux Lab, with the exception of installing a Linux distribution to practice on.
 
-All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are available via Git: <https://gitlab.com/jdxyz/linux-lab>
+All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are [available via Git](https://gitlab.com/jamesericdavidson/linux-lab).
 
 ## Version History
 
