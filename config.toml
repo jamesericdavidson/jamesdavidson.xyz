@@ -34,7 +34,7 @@ enableRobotsTXT = true
 
 [params]
   # Description to display on homepage
-  description = "Linux and Cybersecurity"
+  description = "GNU/Linux, Cyber Security and Digital Privacy"
 
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
@@ -43,4 +43,3 @@ enableRobotsTXT = true
 
   # Footer text
   footer = "James Davidson"
-
