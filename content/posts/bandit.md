@@ -1,5 +1,5 @@
 ---
-title: "Solutions to the Bandit wargame"
+title: "Bandit Walkthrough"
 date: 2022-03-29
 description: "Spoilers within!"
 type: "post"
