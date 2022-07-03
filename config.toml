@@ -34,7 +34,7 @@ enableRobotsTXT = true
 
 [params]
   # Description to display on homepage
-  description = "GNU/Linux, Cyber Security and Digital Privacy"
+  description = "GNU/Linux, Cyber Security, Digital Privacy and more!"
 
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
