@@ -68,3 +68,7 @@ Tumbleweed ticks all the boxes, to name a few:
 Not covered above, but you should make use of Wayland and LUKS for more security and privacy.
 
 That's all for now, bye!
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

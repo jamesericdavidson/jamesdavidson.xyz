@@ -70,3 +70,7 @@ Alas, sometimes you have no choice but to use a webpage, form or ticketing syste
 If you don't need an account, don't make one.
 
 [Data breaches are accelerating](https://www.idtheftcenter.org/post/identity-theft-resource-center-2021-annual-data-breach-report-sets-new-record-for-number-of-compromises/) - reduce your attack surface by deleting accounts.
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

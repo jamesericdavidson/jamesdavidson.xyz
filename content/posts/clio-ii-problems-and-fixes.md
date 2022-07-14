@@ -93,3 +93,7 @@ Beware: non-OEM replacement parts may not fit.
 3. Pop the inner plastic out of the new handle
 4. Push the new handle inward and sideways to install
 5. Push the inner plastic back inside the new handle to secure it into the seat
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
