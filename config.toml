@@ -46,6 +46,12 @@ pygmentsStyle = "vim"
     weight = 2
     pre = "<span data-feather='book'></span>"
 
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+    pre = "<span data-feather='tag'></span>"
+
 [markup]
   [markup.tableOfContents]
     startLevel = 1

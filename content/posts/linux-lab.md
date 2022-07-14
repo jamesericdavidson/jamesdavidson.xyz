@@ -1,5 +1,6 @@
 ---
 title: "The Linux Lab"
+tags: ["linux", "tutorial", "ubuntu"]
 date: 2022-06-11
 description: "A tutorial for beginners"
 type: "post"

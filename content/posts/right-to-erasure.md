@@ -1,5 +1,6 @@
 ---
 title: "Exercising the right to erasure"
+tags: ["privacy", "gdpr"]
 date: 2022-06-20
 description: "Organisations hate this one weird trick! 😠"
 type: "post"
