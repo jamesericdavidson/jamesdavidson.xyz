@@ -1,48 +1,50 @@
 baseURL = "https://jamesdavidson.xyz/"
 defaultContentLanguage = "en"
 languageCode = "en"
-
-title = "James Davidson"
-
 theme = "gokarna"
+
+# String that appears at the top of the Home page
+title = "James Davidson"
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
+# Syntax highlighting style
+pygmentsStyle = "vim"
+
+[params]
+
+  showPostsOnHomePage = "recent"
+
+  # SEO keywords
+  metaKeywords = ["linux", "privacy", "cybersecurity"]
+
+  # String that appears on the Home page, below the Title
+  description = "GNU/Linux, Cyber Security, Digital Privacy and more!"
+
+  # Icons that appear on the Home page, below the Description
+  socialIcons = [
+    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
+    {name = "gitlab", url = "https://gitlab.com/jamesericdavidson"},
+  ]
+
+  # String that appears at the bottom of the Home page
+  footer = "James Davidson"
+
 [menu]
 
   [[menu.main]]
-    identifier = "mail"
-    url = "mailto:james@jamesdavidson.xyz"
+    name = "Home"
+    url = "/"
     weight = 1
-
-    pre = "<span data-feather='mail'></span>"
+    pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    identifier = "gitlab"
-    url = "https://gitlab.com/jamesericdavidson"
+    name = "All Posts"
+    url = "/posts/"
     weight = 2
-
-    pre = "<span data-feather='gitlab'></span>"
-
-  [[menu.main]]
-    identifier = "linkedin"
-    url = "https://www.linkedin.com/in/jamesericdavidson/"
-    weight = 3
-    
-    pre = "<span data-feather='linkedin'></span>"
-
-[params]
-  # Description to display on homepage
-  description = "GNU/Linux, Cyber Security, Digital Privacy and more!"
-
-  # If you want to display posts on the homepage, the options are
-  # "popular" (order posts by weight), "recent" (order posts by date)
-  # or "" (do not display, default option)
-  showPostsOnHomePage = "recent"
-
-  # Footer text
-  footer = "James Davidson"
+    pre = "<span data-feather='book'></span>"
 
 [markup]
   [markup.tableOfContents]
