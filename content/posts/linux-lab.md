@@ -3,6 +3,7 @@ title: "The Linux Lab"
 date: 2022-06-11
 description: "A tutorial for beginners"
 type: "post"
+showTableOfContents: true
 ---
 
 # Introduction
@@ -25,13 +26,7 @@ All of that said, enjoy.
 
 # Acknowledgements
 
-[//]: # (Emulate the PDF flow by placing Acknowledgements after the Title, Date and Author)
-
 I would like to thank the Debian maintainers, past and present, for their work in making a rock solid GNU/Linux distribution. Without which, this tutorial would never have been made.
-
-# Table of Contents
-
-{{< toc >}}
 
 # Copyright and Licence Notices
 
