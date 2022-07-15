@@ -56,3 +56,7 @@ To win the game, the user must have five correct answers on the scoreboard.
 I'm gradually making more projects public on GitLab!
 
 *Next up: [Mastermind](https://gitlab.com/jamesericdavidson/soft164-mastermind)*.
+
+---
+
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
