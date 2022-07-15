@@ -41,15 +41,21 @@ pygmentsStyle = "vim"
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
+    name = "Software Projects"
+    url = "/software-projects/"
+    weight = 2
+    pre = "<span data-feather='code'></span>"
+
+  [[menu.main]]
     name = "All Posts"
     url = "/posts/"
-    weight = 2
+    weight = 3
     pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 3
+    weight = 4
     pre = "<span data-feather='tag'></span>"
 
 [markup]
