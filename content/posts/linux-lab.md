@@ -5,6 +5,7 @@ date: 2022-06-11
 description: "A tutorial for beginners"
 type: "post"
 showTableOfContents: true
+weight: 1
 ---
 
 # Introduction

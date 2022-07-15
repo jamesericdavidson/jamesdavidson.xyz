@@ -4,6 +4,7 @@ tags: ["hacking", "linux", "security", "walkthrough"]
 date: 2022-03-29
 description: "Spoilers within!"
 type: "post"
+weight: 1
 ---
 
 # Introduction
