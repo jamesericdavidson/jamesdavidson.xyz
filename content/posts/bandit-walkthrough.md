@@ -5,6 +5,7 @@ date: 2022-03-29
 description: "Spoilers within!"
 type: "post"
 weight: 1
+showTableOfContents: true
 ---
 
 # Introduction
