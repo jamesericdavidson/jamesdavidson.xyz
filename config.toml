@@ -38,7 +38,7 @@ pygmentsStyle = "vim"
     name = "Contact Me"
     url = "/contact-me/"
     weight = 1
-    pre = "<span data-feather='message-square'></span>"
+    pre = "<span data-feather='message-circle'></span>"
 
   [[menu.main]]
     name = "Home"
