@@ -5,21 +5,27 @@ showTableOfContents: true
 date: 2022-07-16
 ---
 
-This is a portfolio of my software projects, including links, screenshots and comments about them.
+This is a portfolio of my noteworthy software projects.
+
+I provide comments on what the project is, when it was written, how and why it uses certain logic.
+
+All of the projects below are [available on GitLab](https://gitlab.com/jamesericdavidson).
+
+# University projects
 
 Most of my University projects are licensed using the Apache License 2.0, as [recommended by the GNU Project](https://www.gnu.org/licenses/license-recommendations.html#small).
 
-# Map Symbols
+## Map Symbols
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
-[View the source code here](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/Game.html).
-
-## How it works
+[View the source code](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/Game.html).
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
+
+### Comments
 
 To win the game, the user must have five correct answers on the scoreboard.
 
