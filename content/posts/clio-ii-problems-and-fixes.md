@@ -4,6 +4,7 @@ date: 2022-07-03
 description: "Sacré bleu"
 type: "post"
 weight: 99
+showTableOfContents: true
 ---
 
 # Introduction
