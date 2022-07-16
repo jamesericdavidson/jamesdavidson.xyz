@@ -2,6 +2,7 @@
 title: "Software Projects"
 type: "page"
 showTableOfContents: true
+date: 2022-07-16
 ---
 
 This is a portfolio of my software projects, including links, screenshots and comments about them.

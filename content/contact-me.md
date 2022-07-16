@@ -1,6 +1,7 @@
 ---
 title: "Contact Me"
 type: "page"
+date: 2022-07-16
 ---
 
 *Psst, all of my links are available as icons on [the Home page](/)*. *👀*
