@@ -29,7 +29,7 @@ The goal of the game is to match the Ordnance Survey map symbol shown to the cor
 
 To win the game, the user must have five correct answers on the scoreboard.
 
-* The symbol shown must be psuedo-randomly generated 
+* The symbol shown must be pseudo-randomly generated
 
     The `Math.Random()` function is used to assign a number between `1` and `10` to `Num`, which is used to select a symbol from `imgArray`.
 
