@@ -36,7 +36,7 @@ pygmentsStyle = "vim"
 
   [[menu.main]]
     name = "Contact Me"
-    url = "/contact-me"
+    url = "/contact-me/"
     weight = 1
     pre = "<span data-feather='message-square'></span>"
 
@@ -63,6 +63,12 @@ pygmentsStyle = "vim"
     url = "/tags/"
     weight = 5
     pre = "<span data-feather='tag'></span>"
+
+  [[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 6
+    pre = "<span data-feather='rss'></span>"
 
 [markup]
   [markup.tableOfContents]
