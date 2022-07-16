@@ -110,15 +110,16 @@ Most of my University projects are licensed using the Apache License 2.0, as [re
 
 ## Map Symbols
 
-My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
-The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
+### Synopsis
+
+My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
 [View the source code](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/Game.html).
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
 
-### Comments
+### Retrospective
 
 To win the game, the user must have five correct answers on the scoreboard.
 
@@ -150,6 +151,10 @@ To win the game, the user must have five correct answers on the scoreboard.
     ![The message "The correct answer is..." is displayed](/images/soft051-incorrect.png)
     
     The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
+
+### Credits
+
+The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
 # More projects coming soon...
 
