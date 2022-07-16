@@ -11,6 +11,99 @@ I provide comments on what the project is, when it was written, how and why it u
 
 All of the projects below are [available on GitLab](https://gitlab.com/jamesericdavidson).
 
+# Personal projects
+
+## dotfiles
+
+### Synopsis
+
+dotfiles was the latest incarnation of my 'configuration files and scripts for Debian GNU/Linux systems'.
+
+It was designed to accompany a network install of Debian with all `tasksel` items de-selected.
+
+The project encompasses two years of development in 2020 and 2021, though prior incarnations were available in 2018 and 2019 respectively.
+
+It is licensed using the GNU Public Licence version 3 only.
+
+[View the source code](https://gitlab.com/jamesericdavidson/dotfiles).
+
+### Retrospective
+
+dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/opensuse-security).
+
+dotfiles was a moving target throughout development, as I changed tools, improved my understanding of the operating system, best practices within it, et cetera.
+
+#### Branching
+
+I learned to use three types of branches for dotfiles: main, development, and \<feature>.
+
+- main
+    
+    Once a milestone had been met, and the files had been tested, a release would be tagged. The tag would then be pushed to main.
+
+- development
+
+    Add complete features (see below) and bug fixes as atomic commits, ensuring they are trivial to revert.
+
+- \<feature>
+
+    Features were merged into the development branch using the `--squash` option.
+
+    In the past, I had experienced broken files after committing incomplete features to the development branch. This was problematic, as I lived on the development branch.
+
+    Adopting feature branches largely cured this error in judgement.
+
+#### Code quality
+
+I endeavoured to make files easy to understand, portable across machines, and use programmatic logic.
+
+As a case study, I will refer to [this Polybar launch script](https://wiki.archlinux.org/index.php?title=Polybar&oldid=578417#Running_with_WM) from the ArchWiki.
+
+The script performs a naive check to see if the `polybar` process has been killed:
+
+```bash
+# Terminate already running bar instances
+killall -q polybar
+
+# Wait until the processes have been shut down
+while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
+```
+
+What does this script do, and how can it be improved?
+
+* Perform a command to search for the string `polybar` amongst processes running on the system
+    - Use a bash-specific variable to check that the process was launched by the current user
+* If the command exits successfully (i.e. the process is still running), wait for one second before issuing the same command again
+* When the command eventually fails, assume that this means the string was not found, and that `polybar` is no longer running
+
+```bash
+if pgrep --euid "$(id --user --name)" --exact polybar
+then
+    # Kill existing polybar processes
+    killall --quiet polybar
+    # Wait for the processes to die
+    wait $!
+fi
+```
+
+* Improve readability by using GNU long options
+* Check the user id by using a POSIX-compliant command
+* Programmatically wait for the previous command to finish executing
+
+Using the `wait` built-in solves the problems present in the `do-while` loop. The `if` statement can be exited immediately, and there is no reliance on nebulous parsing of another program's output.
+
+There are many reasons not to parse human-readable output to a script, for example if `pgrep`:
+
+* Experiences API or ABI changes
+* Is not installed on the system
+* Has been modified by the distribution maintainer
+
+### Credits
+
+dotfiles was integral to my learning process for GNU/Linux.
+
+I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
+
 # University projects
 
 Most of my University projects are licensed using the Apache License 2.0, as [recommended by the GNU Project](https://www.gnu.org/licenses/license-recommendations.html#small).
