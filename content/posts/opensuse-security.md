@@ -1,7 +1,7 @@
 ---
 title: "Security in openSUSE Tumbleweed"
 tags: ["opensuse", "linux", "security"]
-date: 2022-05-24T13:32:33+01:00
+date: 2022-05-24
 description: "What you can expect after booting the installation media"
 type: "post"
 weight: 2
