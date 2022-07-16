@@ -10,7 +10,7 @@ title = "James Davidson"
 enableRobotsTXT = true
 
 # Syntax highlighting style
-pygmentsStyle = "vim"
+pygmentsStyle = "dracula"
 
 [params]
 
