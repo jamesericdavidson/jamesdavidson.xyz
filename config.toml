@@ -3,6 +3,10 @@ defaultContentLanguage = "en"
 languageCode = "en"
 theme = "gokarna"
 
+# Enable emoji shortcodes
+# https://gohugo.io/functions/emojify/
+enableEmoji = "true"
+
 # String that appears at the top of the Home page
 title = "James Davidson"
 
