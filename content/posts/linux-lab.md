@@ -630,8 +630,6 @@ Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
 
-[comment]: # Use Subheading 3 and below, as to not populate the Table of Contents with licence chapters
-
 ### 0. PREAMBLE
 
 The purpose of this License is to make a manual, textbook, or other
