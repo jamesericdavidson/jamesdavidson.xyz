@@ -2,7 +2,7 @@
 title: "Exercising the right to erasure"
 tags: ["privacy", "gdpr"]
 date: 2022-06-20
-description: "Organisations hate this one weird trick! 😠"
+description: "Organisations hate this one weird trick!"
 type: "post"
 weight: 3
 ---
@@ -13,7 +13,7 @@ The right to erasure can be difficult to exercise.
 
 Beginning the process is a challenge unto itself: deletion dialogues are not standard, nor are the means to contact an organisation's data controller.
 
-*Keep reading until the end for one way to make it easier! 😌*
+*Keep reading until the end for one way to make it easier!*
 
 # How to begin
 
