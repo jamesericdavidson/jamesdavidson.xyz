@@ -1,7 +1,7 @@
 ---
 title: "The Linux Lab"
 tags: ["linux", "tutorial", "ubuntu"]
-date: 2022-06-11
+date: 2022-07-17
 description: "A tutorial for beginners"
 type: "post"
 showTableOfContents: true
@@ -48,6 +48,19 @@ There are no requirements to undertake the Linux Lab, with the exception of inst
 All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are [available via Git](https://gitlab.com/jamesericdavidson/linux-lab).
 
 ## Version History {#version-history}
+
+### Version 4
+
+Released on 17/07/2022.
+
+| Added | Changed | Removed | Fixed |
+| ----- | ------- | ------- | ----- |
+| Description: "*A tutorial for beginners*" | Title: From "*Linux Lab*" to "*The Linux Lab*" | [Introduction](#introduction): Text denoting an update occured after Version 1.2.0 | [About](#about-the-linux-lab): Link to GitLab repository |
+| [Introduction](#introduction): Explanation of GNUs role in the Linux operating system | [Semantic versioning](https://semver.org/) to incrementing whole numbers | | |
+| YAML: SEO tags | Table of Contents: Hugo shortcode to Gokarna YAML | |
+| YAML: Weight for post popularity | [GNU Free Documentation License](#gnu-free-documentation-license): Licence text from Markdown to plain text | |
+| Heading IDs (see links in this table) | [GNU Free Documentation License](#gnu-free-documentation-license): Heading from "Licence Text" to "GNU Free Documentation License" | |
+| | Date: To coincide with this release | |
 
 * Version 1.2.0 - 11/06/2022
     * Replaced Pandoc YAML
