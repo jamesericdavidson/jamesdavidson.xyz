@@ -618,7 +618,7 @@ On motherboards made in the last decade, this is likely UEFI.
 
 Debian offers a resilient installer, which deftly automates the boring elements of installation. Chiefly, this relates to partitioning (traditional volumes or Logical Volume Manager) and encryption (LUKS).
 
-# Licence Text {#licence-text}
+# GNU Free Documentation License {#gnu-free-documentation-license}
 
 
                 GNU Free Documentation License
