@@ -22,7 +22,7 @@ Finally, I would like to clarify that the contents and advice herein don't neces
 
 All of that said, enjoy.
 
-**Update (19/06/2022)**: Please note that I refer to the operating system as "Linux" for the sake of brevity. [It may be more pertinent to say GNU/Linux](https://www.gnu.org/gnu/gnu-linux-faq.html) for most distributions.
+Please note that I refer to the operating system as "Linux" for the sake of brevity. [It may be more pertinent to say GNU/Linux](https://www.gnu.org/gnu/gnu-linux-faq.html) for most distributions.
 
 ---
 
