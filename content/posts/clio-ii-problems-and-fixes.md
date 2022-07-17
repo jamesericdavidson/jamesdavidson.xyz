@@ -7,7 +7,7 @@ weight: 99
 showTableOfContents: true
 ---
 
-# Introduction
+# Introduction {#introduction}
 
 The steps below are accurate for a right-hand drive Phase 2 model (June 2001 - 2005), otherwise known as the Facelift.
 
@@ -17,7 +17,7 @@ The forums can be a good source of information. I prefer the [Clio Sport](https:
 
 Refer to the Owner's Handbook or Haynes Manual if you have them.
 
-# The windscreen washer jets do not work
+# The windscreen washer jets do not work {#the-windscreen-washer-jets-do-not-work}
 
 The windscreen washer pump and/or seal to the washer bottle has broken.
 
@@ -48,7 +48,7 @@ The windscreen washer pump and/or seal to the washer bottle has broken.
 
 Test the front and rear washer jets after topping up with washer fluid. Check for leaks.
 
-# The airbag and SERV light are illuminated
+# The airbag and SERV light are illuminated {#the-airbag-and-serv-light-are-illuminated}
 
 Likely caused by the connectors underneath the passenger's seat, as this seat is often moved backwards and forwards.
 
@@ -68,13 +68,13 @@ To avoid going through all of the steps, use an OBD reader capable of reading Re
 	3. Underneath the driver's seat
 	4. On the side of the passenger's seat (the thoracic airbag)
 
-## Related videos
+## Related videos {#the-airbag-and-serv-light-are-illuminated-related-videos}
 
 * [Airbag light Fix!](https://www.youtube.com/watch?v=FU-dZWktG2s)
 
 * [Renault Clio 1.2 Airbag And Service Light On [Causes And Fixes]](https://www.youtube.com/watch?v=1t2FLp23JdQ)
 
-# The handbrake lever is wobbly
+# The handbrake lever is wobbly {#the-handbrake-lever-is-wobbly}
 
 1. To access the screws on the rear of the trim, push the front seats as far forward as they will go
 2. Use a T20 head to remove the screws on the left and right-hand side of the trim
@@ -84,7 +84,7 @@ To avoid going through all of the steps, use an OBD reader capable of reading Re
     2. To get clearance for the forward nut: Engage the handbrake 
 5. Reverse the process to re-assemble
 
-# The front seat recline handle does not work
+# The front seat recline handle does not work {#the-front-seat-recline-handle-does-not-work}
 
 The inner plastic clips have broken.
 

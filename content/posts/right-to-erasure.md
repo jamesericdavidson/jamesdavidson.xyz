@@ -8,7 +8,7 @@ weight: 3
 showTableOfContents: true
 ---
 
-# Introduction
+# Introduction {#introduction}
 
 The right to erasure can be difficult to exercise.
 
@@ -16,7 +16,7 @@ Beginning the process is a challenge unto itself: deletion dialogues are not sta
 
 *Keep reading until the end for one way to make it easier!*
 
-# How to begin
+# How to begin {#how-to-begin}
 
 The [PrivacyGuides page on account deletion](https://www.privacyguides.org/basics/account-deletion/) is a good reference.
 
@@ -54,7 +54,7 @@ The [PrivacyGuides page on account deletion](https://www.privacyguides.org/basic
 
 	[JustDeleteMe](https://justdeleteme.xyz/) catalogue the process and difficulty of deleting an account with a given service.
 
-# The shortcut
+# The shortcut {#the-shortcut}
 
 Read the privacy policy!
 
@@ -67,7 +67,7 @@ With any luck, you'll find an email address where you can make a request. From h
 
 Alas, sometimes you have no choice but to use a webpage, form or ticketing system.
 
-# Conclusion
+# Conclusion {#conclusion}
 
 If you don't need an account, don't make one.
 

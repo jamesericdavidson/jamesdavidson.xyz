@@ -8,13 +8,13 @@ weight: 2
 showTableOfContents: true
 ---
 
-# Introduction
+# Introduction {#introduction}
 
 Note that this article is about Tumbleweed on the desktop - not Leap, MicroOS or Kubic.
 
 For most users, everything you need is configured during installation, and manually in YasT.
 
-# Installer
+# Installer {#installer}
 
 The Tumbleweed installer is the best I've seen, security features notwithstanding. This praise extends to GeckoLinux, [an openSUSE spin](https://geckolinux.github.io/#how-different).
 
@@ -22,11 +22,11 @@ Out of the box, it can configure Secure Boot and encrypted swap. Moreover, Secur
 
 AppArmor, microcode and firewalld are included too. Though AppArmor has few profiles, and firewalld is not installed by default on GeckoLinux.
 
-# YasT
+# YasT {#yast}
 
 Works as intended, with a couple of pitfalls.
 
-## Pitfalls
+## Pitfalls {#pitfalls}
 
 1. Flatpak throws `fusermount` errors with secure file permissions
 
@@ -42,7 +42,7 @@ The service doesn't like to be disabled, and you might be tempted to `systemctl 
 
 Leave the service enabled.
 
-## Recommendations
+## Recommendations {#recommendations}
 
 Make these changes to maximise the benefits of the features configured by the installer:
 
@@ -55,11 +55,11 @@ Note that the GRUB user is `root`.
 
 In tandem, you should password protect the BIOS/UEFI to [prevent an attacker from disabling Secure Boot](https://www.privacyguides.org/linux-desktop/hardening/#secure-boot).
 
-### GeckoLinux
+### GeckoLinux {#geckolinux}
 
 * [Remove `/etc/gdm/custom.conf` to start the Wayland session](https://github.com/geckolinux/geckolinux-project/issues/191#issuecomment-772202462)
 
-# Conclusion
+# Conclusion {#conclusion}
 
 Tumbleweed ticks all the boxes, to name a few:
 

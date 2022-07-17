@@ -11,11 +11,11 @@ I provide comments on what the project is, when it was written, how and why it u
 
 All of the projects below are [available on GitLab](https://gitlab.com/jamesericdavidson).
 
-# Personal projects
+# Personal projects {#personal-projects}
 
-## dotfiles
+## dotfiles {#dotfiles}
 
-### Synopsis
+### Synopsis {#dotfiles-synopsis}
 
 dotfiles was the latest incarnation of my 'configuration files and scripts for Debian GNU/Linux systems'.
 
@@ -27,13 +27,13 @@ It is licensed using the GNU Public Licence version 3 only.
 
 [View the source code](https://gitlab.com/jamesericdavidson/dotfiles).
 
-### Retrospective
+### Retrospective {#dotfiles-retrospective}
 
 dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/opensuse-security).
 
 dotfiles was a moving target throughout development, as I changed tools, improved my understanding of the operating system, best practices within it, et cetera.
 
-#### Branching
+#### Branching {#dotfiles-retrospective-branching}
 
 I learned to use three types of branches for dotfiles: main, development, and \<feature>.
 
@@ -53,7 +53,7 @@ I learned to use three types of branches for dotfiles: main, development, and \<
 
     Adopting feature branches largely cured this error in judgement.
 
-#### Code quality
+#### Code quality {#dotfiles-retrospective-code-quality}
 
 I endeavoured to make files easy to understand, portable across machines, and use programmatic logic.
 
@@ -98,20 +98,19 @@ There are many reasons not to parse human-readable output to a script, for examp
 * Is not installed on the system
 * Has been modified by the distribution maintainer
 
-### Credits
+### Credits {#dotfiles-retrospective-credits}
 
 dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-# University projects
+# University projects {#university-projects}
 
 Most of my University projects are licensed using the Apache License 2.0, as [recommended by the GNU Project](https://www.gnu.org/licenses/license-recommendations.html#small).
 
-## Map Symbols
+## Map Symbols {#map-symbols}
 
-
-### Synopsis
+### Synopsis {#map-symbols-synopsis}
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
@@ -119,7 +118,7 @@ My first project, written in the Autumn semester of the 2016/17 academic year. I
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
 
-### Retrospective
+### Retrospective {#map-symbols-retrospective}
 
 To win the game, the user must have five correct answers on the scoreboard.
 
@@ -152,7 +151,7 @@ To win the game, the user must have five correct answers on the scoreboard.
     
     The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
 
-### Credits
+### Credits {#map-symbols-credits}
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
