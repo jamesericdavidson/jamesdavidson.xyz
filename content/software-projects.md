@@ -98,7 +98,7 @@ There are many reasons not to parse human-readable output to a script, for examp
 * Is not installed on the system
 * Has been modified by the distribution maintainer
 
-### Credits {#dotfiles-retrospective-credits}
+### Credits {#dotfiles-credits}
 
 dotfiles was integral to my learning process for GNU/Linux.
 
