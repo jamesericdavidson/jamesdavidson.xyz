@@ -118,6 +118,14 @@ My first project, written in the Autumn semester of the 2016/17 academic year. I
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
 
+### Demonstration {#map-symbols-demonstration}
+
+Why not play from the browser and see for yourself?
+
+| [Play Map Symbols](/demos/soft051-map-symbols/Game.html) |
+| ----------- |
+| [![Screenshot of Map Symbols](/images/soft051-demo.png)](/demos/soft051-map-symbols/Game.html) |
+
 ### Retrospective {#map-symbols-retrospective}
 
 To win the game, the user must have five correct answers on the scoreboard.

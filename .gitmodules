@@ -1,3 +1,7 @@
 [submodule "themes/gokarna"]
 	path = themes/gokarna
 	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "static/demos/soft051-map-symbols"]
+	path = static/demos/soft051-map-symbols
+	url = git@gitlab.com:jamesericdavidson/soft051-map-symbols.git
+	branch = jamesdavidson.xyz
