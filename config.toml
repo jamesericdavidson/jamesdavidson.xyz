@@ -2,6 +2,7 @@ baseURL = "https://jamesdavidson.xyz/"
 defaultContentLanguage = "en"
 languageCode = "en"
 theme = "gokarna"
+enableGitInfo= "true"
 
 # Enable emoji shortcodes
 # https://gohugo.io/functions/emojify/
@@ -24,7 +25,7 @@ pygmentsStyle = "dracula"
   metaKeywords = ["linux", "privacy", "cybersecurity"]
 
   # String that appears on the Home page, below the Title
-  description = "GNU/Linux, Cyber Security, Digital Privacy and more!"
+  description = "I write about software, Linux, cybersecurity and privacy."
 
   # Icons that appear on the Home page, below the Description
   socialIcons = [
