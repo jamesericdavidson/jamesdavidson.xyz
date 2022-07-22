@@ -167,8 +167,6 @@ The respective module was taught by Mark Dixon and Liz Stuart, whose approach to
 
 I'm gradually making more projects public on GitLab!
 
-*Next up: [Mastermind](https://gitlab.com/jamesericdavidson/soft164-mastermind)*.
-
 ---
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
