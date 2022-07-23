@@ -104,6 +104,73 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
+## Guild Wars 2 Pip Calculator {#guild-wars-2-pip-calculator}
+
+![A screenshot of Guild Wars 2, depicting three players in the World versus World game mode](/images/guild-wars-2.jpg "This is how cool you can look when you have no life! I would know, my character looks like this.")
+
+### Synopsis {#guild-wars-2-pip-calculator-synopsis}
+
+For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
+
+A reward system was introduced into the game, which awarded player "pips" at five minutes intervals. The more pips a player receives, the faster they chip away at the total number of pips required to complete a tier.
+
+The calculator estimates how long it would take a player to receive the rewards given upon the completion of a tier.
+
+I was motivated to develop the tool as:
+
+1. I wanted to use the functionality, and be able to share it with my friends
+
+    It turns out that doing these calculations manually is boring. Who knew?
+
+2. A similar tool had not yet been publicly announced
+
+    Since that time, at least two comparable tools are available. See the [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Special:RunQuery/WvW_skirmish_pip_query?) and [LimitlessFX](https://gw2.limitlessfx.com/wvw/pips.php).
+
+Much like [Map Symbols](#map-symbols-synopsis), this project was written using HTML, CSS and JavaScript.
+
+[View the source code](https://gitlab.com/jamesericdavidson/pip-calculator).
+
+### Demonstration {#guild-wars-2-pip-calculator-demonstration}
+
+Try it, directly in the browser.
+
+| [Calculate Pips](/demos/pip-calculator) |
+| --------------------------------------- |
+| [![Screenshot of the Pip Calculator](/images/pip-calculator-demo.png "9 hours and 46 minutes? Ain't nobody got time for that!")](/demos/pip-calculator) |
+
+### Retrospective {#guild-wars-2-pip-calculator-retrospective}
+
+#### Appearance
+
+Pip Calculator is functional, but not beautiful.
+
+It is naively responsive, using the `viewport` meta tag, and `max-width` body property.
+
+#### Functionality
+
+The user enters a number of pips, optionally selects a tier to stop at, and is presented with the results.
+
+Input is sanitised:
+
+- `isNumberKey()`: The keys pressed must be between 0 and 9
+- `isNumberAllowed()`: The value must be between 3 and 19
+
+To ensure hours and minutes are displayed with or without plurals as appropriate, the `getCaseSwitch()` function is used to determine which strings should be used, using the values of `hours` and `minutes`.
+
+#### Flaws
+
+The total time given is not equal to the additive time of each tier.
+
+Tiers are presented with floored hours and rounded minutes. However, the decimal values of each tier are retained when adding `timeToTier` to `totalTime`.
+
+Only after every tier is calculated does `totalTime` have its hours floored and minutes rounded. This results in the total time being longer.
+
+### Credits {#guild-wars-2-pip-calculator-credits}
+
+Thanks [ArenaNet](https://www.guildwars2.com/en/media/screenshots/) and [NCSoft](#copyright-notices-ncsoft-corporation) for use of the [above screenshot](#guild-wars-2-pip-calculator).
+
+After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks again, ArenaNet!
+
 # University projects {#university-projects}
 
 Most of my University projects are licensed using the Apache License 2.0, as [recommended by the GNU Project](https://www.gnu.org/licenses/license-recommendations.html#small).
@@ -167,6 +234,14 @@ The respective module was taught by Mark Dixon and Liz Stuart, whose approach to
 
 I'm gradually making more projects public on GitLab!
 
----
+# Copyright Notices {#copyright-notices}
+
+## James Davidson {#copyright-notices-james-davidson}
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
+
+## NCSOFT Corporation {#copyright-notices-ncsoft-corporation}
+
+<https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use>
+
+© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners. 

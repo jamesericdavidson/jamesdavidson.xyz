@@ -5,3 +5,6 @@
 	path = static/demos/soft051-map-symbols
 	url = https://gitlab.com/jamesericdavidson/soft051-map-symbols.git
 	branch = jamesdavidson.xyz
+[submodule "static/demos/pip-calculator"]
+	path = static/demos/pip-calculator
+	url = https://gitlab.com/jamesericdavidson/pip-calculator.git
