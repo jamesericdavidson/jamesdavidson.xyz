@@ -128,6 +128,8 @@ I was motivated to develop the tool as:
 
 Much like [Map Symbols](#map-symbols-synopsis), this project was written using HTML, CSS and JavaScript.
 
+It is licensed using the Apache License 2.0.
+
 [View the source code](https://gitlab.com/jamesericdavidson/pip-calculator).
 
 ### Demonstration {#guild-wars-2-pip-calculator-demonstration}
