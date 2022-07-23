@@ -20,6 +20,8 @@ Not all of my projects are public yet, or discussed on this page. So stay tuned 
 
 # Map Symbols (2016) {#map-symbols}
 
+![Photograph depicting Ordnance Survey maps](/images/ordnance-survey-maps.jpg)
+
 ## Synopsis {#map-symbols-synopsis}
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
@@ -74,6 +76,8 @@ To win the game, the user must have five correct answers on the scoreboard.
 ## Credits {#map-symbols-credits}
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
+
+Thank you to Drew Collins for use of the [above photograph](#map-symbols).
 
 # Guild Wars 2 Pip Calculator (2018) {#guild-wars-2-pip-calculator}
 
@@ -241,11 +245,17 @@ I'm grateful to every single person who collaborated on the documentation I scou
 
 Thanks to Iwan Gabovitch for use of the [above Tux Flat artwork](#dotfiles).
 
-# Copyright Notices {#copyright-notices}
+# Copyright Notices and Attribution {#copyright-notices-and-attribution}
 
 ## James Davidson {#copyright-notices-james-davidson}
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
+
+## Drew Collins
+
+<https://unsplash.com/photos/Nfgy5Jbbrf8>
+
+Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey).
 
 ## NCSOFT Corporation {#copyright-notices-ncsoft-corporation}
 
