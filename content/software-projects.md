@@ -5,6 +5,8 @@ showTableOfContents: true
 date: 2022-07-16
 ---
 
+# Introduction {#introduction}
+
 This is a portfolio of my noteworthy software projects, in chronological order.
 
 I provide comments on what the project is, when it was written, how and why it uses certain logic.
