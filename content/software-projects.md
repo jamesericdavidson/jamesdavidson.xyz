@@ -77,7 +77,7 @@ To win the game, the user must have five correct answers on the scoreboard.
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
-Thank you to Drew Collins for use of the [above photograph](#map-symbols).
+[Thanks to Drew Collins](#drew-collins) for use of the [above photograph](#map-symbols).
 
 # Guild Wars 2 Pip Calculator (2018) {#guild-wars-2-pip-calculator}
 
@@ -146,9 +146,9 @@ Only after every tier is calculated does `totalTime` have its hours floored and 
 
 ## Credits {#guild-wars-2-pip-calculator-credits}
 
-Thanks [ArenaNet](https://www.guildwars2.com/en/media/screenshots/) and [NCSoft](#copyright-notices-ncsoft-corporation) for use of the [above screenshot](#guild-wars-2-pip-calculator).
-
 After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks again, ArenaNet!
+
+Thanks to [ArenaNet](https://www.guildwars2.com/en/media/screenshots/) (external link) and [NCSoft](#ncsoft-corporation) for use of the [above screenshot](#guild-wars-2-pip-calculator).
 
 # dotfiles (2020) {#dotfiles}
 
@@ -243,27 +243,27 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-Thanks to Iwan Gabovitch for use of the [above Tux Flat artwork](#dotfiles).
+[Thanks to Iwan Gabovitch](#iwan-gabovitch) for use of the [above Tux Flat artwork](#dotfiles).
 
 # Copyright Notices and Attribution {#copyright-notices-and-attribution}
 
-## James Davidson {#copyright-notices-james-davidson}
+## James Davidson {#james-davidson}
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
 
-## Drew Collins
+## Drew Collins {#drew-collins}
 
 <https://unsplash.com/photos/Nfgy5Jbbrf8>
 
 Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey).
 
-## NCSOFT Corporation {#copyright-notices-ncsoft-corporation}
+## NCSOFT Corporation {#ncsoft-corporation}
 
 <https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use>
 
 © 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners. 
 
-## Iwan Gabovitch (qubodup)
+## Iwan Gabovitch (qubodup) {#iwan-gabovitch}
 
 <https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623>
 
