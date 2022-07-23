@@ -7,13 +7,16 @@ date: 2022-07-23
 
 # Introduction {#introduction}
 
-This is a portfolio of my noteworthy software projects, in chronological order.
+This is a portfolio of [my software projects](https://gitlab.com/jamesericdavidson), presented in chronological order.
 
-I provide comments on what the project is, when it was written, how and why it uses certain logic.
+I provide comments on:
 
-All of the projects below are [available on GitLab](https://gitlab.com/jamesericdavidson).
+- What the project accomplishes
+- When it was written
+- How it functions
+- And why it uses certain logic
 
-I'm making more of my projects public. Stay tuned!
+Not all of my projects are public yet, or discussed on this page. So stay tuned for more!
 
 # Map Symbols (2016) {#map-symbols}
 
