@@ -5,13 +5,13 @@ showTableOfContents: true
 date: 2022-07-16
 ---
 
-This is a portfolio of my noteworthy software projects.
+This is a portfolio of my noteworthy software projects, in chronological order.
 
 I provide comments on what the project is, when it was written, how and why it uses certain logic.
 
 All of the projects below are [available on GitLab](https://gitlab.com/jamesericdavidson).
 
-# Personal projects {#personal-projects}
+I'm making more of my projects public. Stay tuned!
 
 ## dotfiles {#dotfiles}
 
@@ -231,10 +231,6 @@ To win the game, the user must have five correct answers on the scoreboard.
 ### Credits {#map-symbols-credits}
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
-
-# More projects coming soon...
-
-I'm gradually making more projects public on GitLab!
 
 # Copyright Notices {#copyright-notices}
 
