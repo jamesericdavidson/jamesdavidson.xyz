@@ -10,7 +10,7 @@ showTableOfContents: true
 
 # Try it! {#try-it}
 
-My first software project [Map Symbols](/demos/soft051-map-symbols/Game.html) is now playable from the browser.
+My first software project [Map Symbols](/demos/map-symbols) is now playable from the browser.
 
 [Read more about the project](/software-projects/#map-symbols), [including a retrospective](/software-projects/#map-symbols-retrospective).
 
