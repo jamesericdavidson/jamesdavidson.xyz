@@ -12,6 +12,8 @@ showTableOfContents: true
 
 My first software project [Map Symbols](/demos/map-symbols) is now playable from the browser.
 
+[![Screenshot of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols)
+
 [Read more about the project](/software-projects/#map-symbols), [including a retrospective](/software-projects/#map-symbols-retrospective).
 
 # How to use HTML, CSS and JavaScript on Hugo {#how-to-use-html-css-and-javascript-on-hugo}
