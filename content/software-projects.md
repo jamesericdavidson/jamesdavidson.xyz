@@ -189,9 +189,9 @@ The goal of the game is to match the Ordnance Survey map symbol shown to the cor
 
 Why not play from the browser and see for yourself?
 
-| [Play Map Symbols](/demos/soft051-map-symbols/Game.html) |
+| [Play Map Symbols](/demos/map-symbols) |
 | ----------- |
-| [![Screenshot of Map Symbols](/images/soft051-demo.png)](/demos/soft051-map-symbols/Game.html) |
+| [![Screenshot of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols) |
 
 ### Retrospective {#map-symbols-retrospective}
 
@@ -218,11 +218,11 @@ To win the game, the user must have five correct answers on the scoreboard.
 
     Example of a correct answer:
 
-    ![The message "Well done!" is displayed](/images/soft051-correct.png)
+    ![The message "Well done!" is displayed](/images/map-symbols-correct.png)
 
     Example of an incorrect answer:
 
-    ![The message "The correct answer is..." is displayed](/images/soft051-incorrect.png)
+    ![The message "The correct answer is..." is displayed](/images/map-symbols-incorrect.png)
     
     The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
 
