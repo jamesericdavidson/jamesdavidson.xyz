@@ -148,6 +148,8 @@ After playing Guild Wars 2 for thousands of hours, I have something to show for 
 
 # dotfiles (2020) {#dotfiles}
 
+![Artwork depicting the Linux mascot "Tux"](/images/tux-flat.png)
+
 ## Synopsis {#dotfiles-synopsis}
 
 dotfiles was the latest incarnation of my 'configuration files and scripts for Debian GNU/Linux systems'.
@@ -237,6 +239,8 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
+Thanks to Iwan Gabovitch for use of the [above Tux Flat artwork](#dotfiles).
+
 # Copyright Notices {#copyright-notices}
 
 ## James Davidson {#copyright-notices-james-davidson}
@@ -248,3 +252,9 @@ This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 In
 <https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use>
 
 © 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners. 
+
+## Iwan Gabovitch (qubodup)
+
+<https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623>
+
+Tux Flat is licensed under the GNU General Public License v2.0 or later.
