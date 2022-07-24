@@ -245,6 +245,57 @@ I'm grateful to every single person who collaborated on the documentation I scou
 
 [Thanks to Iwan Gabovitch](#iwan-gabovitch) for use of the [above Tux Flat artwork](#dotfiles).
 
+# jamesdavidson.xyz (2022) {#jamesdavidson.xyz}
+
+![A photograph of Gokarna in India](/images/gokarna.jpg)
+
+## Synopsis {#jamesdavidson.xyz-synopsis}
+
+jamesdavidson.xyz is the latest iteration of my personal website. It is being actively developed - or perhaps more accurately, [being configured](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz/-/blob/main/config.toml) and [having content added](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz/-/tree/main/content) to it.
+
+The project uses the [Hugo static site generator](https://gohugo.io/) (SSG).
+
+[View the source code](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz).
+
+Most [page content](#james-davidson) is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), with the exception of [The Linux Lab](/posts/linux-lab/#gnu-free-documentation-license).
+
+## Retrospective {#jamesdavidson.xyz-retrospective}
+
+### Why choose Hugo?
+
+Hugo was chosen for two reasons:
+
+1. To abstract the design process
+2. To simplify content creation
+
+A content management system such as WordPress is feature-rich, but complex. To my mind WordPress focuses on the following:
+
+1. Providing a graphical user interface for the user and administrator
+2. Enabling third-party developers to create themes, extensions and frameworks
+
+For my purposes, I only require a theme. The fewer dependencies and code complexity, the better.
+
+It just so happens that Hugo is among the most popular static site generators, alongside Jekyll and their ilk. Ergo, the third-party support, documentation and user-led discussion is readily available. 
+
+### Choosing a theme
+
+Many Hugo themes attempt to extend Hugo's humble aspirations as an SSG. Hence, a non-starter for my purposes.
+
+I eventually stumbled onto [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is:
+
+- Minimalistic
+- Responsive
+- Available in light and dark themes
+- Configurable
+
+Which suits my needs exactly. Most importantly, being a minimal theme, most "pure" Hugo documentation is applicable.
+
+## Credits {#jamesdavidson.xyz-credits}
+
+Thanks to [Yash Mehrotra and Avijit Gupta](#yash-mehrotra-and-avijit-gupta) for developing Gokarna.
+
+Thanks to [Raman Choudhary](#raman-choudhary) for the use of [the above photograph](#jamesdavidson.xyz).
+
 # Copyright Notices and Attribution {#copyright-notices-and-attribution}
 
 ## James Davidson {#james-davidson}
@@ -268,3 +319,15 @@ Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](htt
 <https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623>
 
 Tux Flat is licensed under the GNU General Public License v2.0 or later.
+
+## Raman Choudhary {#raman-choudhary}
+
+<https://unsplash.com/photos/MyCKTYn9A78>
+
+Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna).
+
+## Yash Mehrotra and Avijit Gupta {#yash-mehrotra-and-avijit-gupta}
+
+<https://github.com/526avijitgupta/gokarna>
+
+Gokarna is licensed under the GNU General Public License v3.0 only.
