@@ -298,35 +298,35 @@ Thanks to [Raman Choudhary](#raman-choudhary) for the use of [the above photogra
 
 # Copyright Notices and Attribution {#copyright-notices-and-attribution}
 
-## James Davidson {#james-davidson}
+#### James Davidson {#james-davidson}
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
 
-## Drew Collins {#drew-collins}
+#### Drew Collins {#drew-collins}
 
 <https://unsplash.com/photos/Nfgy5Jbbrf8>
 
 Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey).
 
-## NCSOFT Corporation {#ncsoft-corporation}
+#### NCSOFT Corporation {#ncsoft-corporation}
 
 <https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use>
 
 © 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners. 
 
-## Iwan Gabovitch (qubodup) {#iwan-gabovitch}
+#### Iwan Gabovitch (qubodup) {#iwan-gabovitch}
 
 <https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623>
 
 Tux Flat is licensed under the GNU General Public License v2.0 or later.
 
-## Raman Choudhary {#raman-choudhary}
+#### Raman Choudhary {#raman-choudhary}
 
 <https://unsplash.com/photos/MyCKTYn9A78>
 
 Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna).
 
-## Yash Mehrotra and Avijit Gupta {#yash-mehrotra-and-avijit-gupta}
+#### Yash Mehrotra and Avijit Gupta {#yash-mehrotra-and-avijit-gupta}
 
 <https://github.com/526avijitgupta/gokarna>
 
