@@ -18,6 +18,14 @@ I provide comments on:
 
 Not all of my projects are public yet, or discussed on this page. So stay tuned for more!
 
+# Demos
+
+Try the demos from the browser.
+
+| Map Symbols | Pip Calculator |
+| ----------- | -------------- |
+| [![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols/) | [![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.png)](/demos/pip-calculator/) |
+
 # Map Symbols (2016) {#map-symbols}
 
 ![Photograph depicting Ordnance Survey maps](/images/ordnance-survey-maps.jpg)
