@@ -14,7 +14,7 @@ title = "James Davidson"
 enableRobotsTXT = true
 
 # Syntax highlighting style
-pygmentsStyle = "solarized-light"
+pygmentsStyle = "dracula"
 
 [params]
 
