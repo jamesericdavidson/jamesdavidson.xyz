@@ -18,13 +18,13 @@ Typically, there is more than one solution to a level.
 
 ## Level 0 {#level-0}
 
-```
+```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
 ## Level 1 {#level-1}
 
-```
+```bash
 cat readme
 ```
 
@@ -34,7 +34,7 @@ The `-` character is interpreted as standard input by the shell.
 
 Use redirection to read the file.
 
-```
+```bash
 cat < -
 ```
 
@@ -42,7 +42,7 @@ cat < -
 
 Encapsulate the file name with quotation marks or backslashes.
 
-```
+```bash
 cat 'spaces in this filename'
 cat spaces\ in\ this\ filename
 ```
@@ -51,7 +51,7 @@ cat spaces\ in\ this\ filename
 
 Hidden files are prefixed by the `.` character.
 
-```
+```bash
 ls -A inhere/
 
 cat inhere/.hidden
@@ -61,7 +61,7 @@ cat inhere/.hidden
 
 Iterate through the file numbers.
 
-```
+```bash
 cat < -file07
 ```
 
@@ -71,13 +71,13 @@ List all entries (`-A`) recursively (`-R`), including permission bits and file s
 
 The subdirectory isn't visible when using `grep`, so output is piped to `less`.
 
-```
+```bash
 ls -lAR inhere/ | less
 ```
 
 Search for `1033`.
 
-```
+```bash
 cat inhere/maybehere07/.file2
 ```
 
@@ -85,13 +85,13 @@ cat inhere/maybehere07/.file2
 
 Redirect standard error to discard **Permission denied** messages.
 
-```
+```bash
 find / -user bandit7 -group bandit6 -size 33c 2> /dev/null
 ```
 
 ## Level 8 {#level-8}
 
-```
+```bash
 grep millionth data.txt
 ```
 
@@ -99,7 +99,7 @@ grep millionth data.txt
 
 Strings must be sorted alphabetically before being searched for unique lines.
 
-```
+```bash
 sort -d data.txt | uniq -u
 ```
 
@@ -107,13 +107,13 @@ sort -d data.txt | uniq -u
 
 Search for character sequences amongst the binary garbage.
 
-```
+```bash
 strings data.txt | grep ==
 ```
 
 ## Level 11 {#level-11}
 
-```
+```bash
 base64 -d data.txt 
 ```
 
@@ -121,7 +121,7 @@ base64 -d data.txt
 
 The ROT13 cipher is encrypted and decrypted the same way, by shifting the characters 13 places.
 
-```
+```bash
 cat data.txt | tr 'N-ZA-Mn-za-m' 'A-Za-z' 
 ```
 
@@ -129,7 +129,7 @@ cat data.txt | tr 'N-ZA-Mn-za-m' 'A-Za-z'
 
 * Convert the hexdump into binary
 
-```
+```bash
 xxd -r data.txt binary.txt
 ```
 
@@ -137,7 +137,7 @@ xxd -r data.txt binary.txt
 * Rename the file to include the extension
 * Decompress the archives
 
-```
+```bash
 file binary.txt 
 
 mv binary.txt binary.txt.gz
@@ -155,7 +155,7 @@ Copy the private key to the client machine.
 * Modify file permissions
 * Use the private key for public key authentication
 
-```
+```bash
 chmod 400 /path/to/sshkey.private
 ssh -p 2220 -i /path/to/sshkey.private bandit14@bandit.labs.overthewire.org
 ```
@@ -164,7 +164,7 @@ ssh -p 2220 -i /path/to/sshkey.private bandit14@bandit.labs.overthewire.org
 
 Connect and provide the password.
 
-```
+```bash
 cat /etc/bandit_pass/bandit14 
 
 telnet localhost 30000
@@ -174,7 +174,7 @@ telnet localhost 30000
 
 Connect and provide the password.
 
-```
+```bash
 openssl s_client -connect localhost:30001
 ```
 
@@ -184,7 +184,7 @@ openssl s_client -connect localhost:30001
 * Probe for service information to find the SSL ports
 * Connect and provide the password
 
-```
+```bash
 nmap -p 31000-32000 localhost
 
 nmap -T5 -sV -p 31046,31518,31691,31790,31960 localhost
@@ -194,7 +194,7 @@ openssl s_client -connect localhost:31790
 
 ## Level 18 {#level-18}
 
-```
+```bash
 diff passwords.old passwords.new
 ```
 
@@ -202,7 +202,7 @@ diff passwords.old passwords.new
 
 Issue a command when connecting to find the password.
 
-```
+```bash
 ssh -p 2220 bandit18@bandit.labs.overthewire.org cat readme
 ```
 
@@ -210,7 +210,7 @@ ssh -p 2220 bandit18@bandit.labs.overthewire.org cat readme
 
 Files in `/etc/bandit_pass` are owned by their respective user.
 
-```
+```bash
 ./bandit20-do cat /etc/bandit_pass/bandit20 
 ```
 
@@ -218,7 +218,7 @@ Files in `/etc/bandit_pass` are owned by their respective user.
 
 The user's `crontab` writes the contents of their password file to a file readable by everyone in `/tmp`.
 
-```
+```bash
 cat /etc/cron.d/cronjob_bandit22
 
 cat /usr/bin/cronjob_bandit22.sh 
@@ -228,7 +228,7 @@ cat /usr/bin/cronjob_bandit22.sh
 
 The user's `crontab` writes the contents of their password file to a file readable by everyone in `/tmp`.
 
-```
+```bash
 cat /etc/cron.d/cronjob_bandit23 
 
 cat /usr/bin/cronjob_bandit23.sh 
@@ -244,12 +244,12 @@ The `crontab` runs every minute, executes scripts in `/var/spool/bandit24`, then
 
 1. Write this oneliner to a script and make it executable.
 
-```
+```bash
 vi 24.sh
 chmod +x 24.sh
 ```
 
-```
+```bash
 #! /usr/bin/env bash
 
 cat /etc/bandit_pass/bandit24 | tee /tmp/path/bandit24
@@ -260,7 +260,7 @@ cat /etc/bandit_pass/bandit24 | tee /tmp/path/bandit24
 
 ## Level 25 {#level-25}
 
-```
+```bash
 #! /usr/bin/env dash
 
 # Execute the script, then pipe to telnet
@@ -284,7 +284,7 @@ done
 
 Files in `/etc/bandit_pass` are owned by their respective user.
 
-```
+```bash
 ./bandit27-do cat /etc/bandit_pass/bandit27
 ```
 
@@ -292,7 +292,7 @@ Files in `/etc/bandit_pass` are owned by their respective user.
 
 Create a new directory with `mktemp -d` and replace `/tmp/path` with its name.
 
-```
+```bash
 git clone ssh://bandit27-git@localhost/home/bandit27-git/repo /tmp/path
 
 cd /tmp/path
@@ -303,7 +303,7 @@ cat README
 
 View changes made to the file.
 
-```
+```bash
 git log -p
 ```
 
@@ -311,7 +311,7 @@ git log -p
 
 Switch to a different branch.
 
-```
+```bash
 git branch -a
 
 git log -p
@@ -321,7 +321,7 @@ git log -p
 
 Remove `.gitignore` to permit the addition of `key.txt`.
 
-```
+```bash
 cat README.md 
 
 echo 'May I come in?' > key.txt
