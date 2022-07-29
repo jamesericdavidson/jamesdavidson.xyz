@@ -4,7 +4,7 @@ tags: ["privacy", "gdpr"]
 date: 2022-06-20
 description: "Organisations hate this one weird trick!"
 type: "post"
-weight: 3
+weight: 4
 showTableOfContents: true
 ---
 
