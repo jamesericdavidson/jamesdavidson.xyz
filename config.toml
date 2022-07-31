@@ -28,9 +28,9 @@ pygmentsStyle = "dracula"
 
   # Icons that appear on the Home page, below the Description
   socialIcons = [
-    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "gitlab", url = "https://gitlab.com/jamesericdavidson"},
+    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
   ]
 
   # String that appears at the bottom of the Home page
