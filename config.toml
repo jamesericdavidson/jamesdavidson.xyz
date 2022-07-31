@@ -39,39 +39,27 @@ pygmentsStyle = "dracula"
 [menu]
 
   [[menu.main]]
-    name = "Contact Me"
-    url = "/contact-me/"
-    weight = 1
-    pre = "<span data-feather='message-circle'></span>"
-
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 2
-    pre = "<span data-feather='home'></span>"
-
-  [[menu.main]]
     name = "Software Projects"
     url = "/software-projects/"
-    weight = 3
+    weight = 1
     pre = "<span data-feather='code'></span>"
 
   [[menu.main]]
     name = "All Posts"
     url = "/posts/"
-    weight = 4
+    weight = 2
     pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
-    name = "Tags"
+    name = "Browse Tags"
     url = "/tags/"
-    weight = 5
+    weight = 3
     pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
-    name = "RSS"
+    name = "RSS Feed"
     url = "/index.xml"
-    weight = 6
+    weight = 4
     pre = "<span data-feather='rss'></span>"
 
 [markup]
