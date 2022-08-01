@@ -41,7 +41,7 @@ I would like to thank the Debian maintainers, past and present, for their work i
 
 # About the Linux Lab {#about-the-linux-lab}
 
-The Linux Lab is tutorial designed for beginners; it aims to be comprehensive and technical.
+The Linux Lab is a tutorial designed for beginners; it aims to be comprehensive and technical.
 
 There are no requirements to undertake the Linux Lab, with the exception of installing a Linux distribution to practice on.
 
@@ -280,7 +280,7 @@ Don't worry about the finer details of `whoami` and `/etc/passwd` at this stage.
 
 Using `grep` provides us a clean summary of instances of a pattern in a file.
 
-`grep`'s output is coloured, like `ls`. Try issuing `type` again to identify out what the real command is!
+`grep`'s output is coloured, like `ls`. Try issuing `type` again to identify what the real command is!
 
 We can use `less` to read the file in full.
 
