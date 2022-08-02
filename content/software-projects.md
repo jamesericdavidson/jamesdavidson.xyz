@@ -34,7 +34,7 @@ Try the demos from the browser.
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
-[View the source code](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/Game.html).
+[View the source code](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/index.html).
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
 
