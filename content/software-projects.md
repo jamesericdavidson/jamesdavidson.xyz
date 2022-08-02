@@ -22,7 +22,7 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 Try the demos from the browser.
 
-| Map Symbols | Pip Calculator |
+| [Map Symbols](/demos/map-symbols) | [Pip Calculator](/demos/pip-calculator) |
 | ----------- | -------------- |
 | [![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols/) | [![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.png)](/demos/pip-calculator/) |
 
