@@ -16,7 +16,7 @@ I provide comments on:
 - How it functions
 - And why it uses certain logic
 
-Not all of my projects are public yet, or discussed on this page. So stay tuned for more!
+Not all of my projects are discussed on this page. So stay tuned for more!
 
 # Demos
 
