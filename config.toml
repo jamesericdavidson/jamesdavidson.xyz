@@ -24,7 +24,7 @@ pygmentsStyle = "dracula"
   metaKeywords = ["linux", "privacy", "cybersecurity"]
 
   # String that appears on the Home page, below the Title
-  description = "I talk about cybersecurity."
+  description = "Searching for an engaging career in cybersecurity!"
 
   # Icons that appear on the Home page, below the Description
   socialIcons = [
