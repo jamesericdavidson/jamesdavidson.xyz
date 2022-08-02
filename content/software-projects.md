@@ -18,6 +18,22 @@ I provide comments on:
 
 Not all of my projects are discussed on this page. So stay tuned for more!
 
+# Summary
+
+Jump to the project which interests you the most.
+
+[Map Symbols](#map-symbols)
+: Match the Ordnance Survey map symbol shown to the corresponding button
+
+[Pip Calculator](#guild-wars-2-pip-calculator)
+: Estimate the time it will take complete divisions in World vs World
+
+[dotfiles](#dotfiles)
+: Configuration files and scripts for Debian GNU/Linux systems
+
+[jamesdavidson.xyz](#jamesdavidson.xyz)
+: This website! I hope you like it :grin:
+
 # Demos
 
 Try the demos from the browser.
