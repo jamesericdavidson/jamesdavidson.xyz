@@ -8,6 +8,9 @@ weight: 10
 showTableOfContents: true
 ---
 
+
+[This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
+
 # Introduction {#introduction}
 
 Bandit teaches the basics of Linux. It can be [played here](https://overthewire.org/wargames/bandit/).
@@ -334,7 +337,3 @@ git commit
 
 git push
 ```
-
----
-
-This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

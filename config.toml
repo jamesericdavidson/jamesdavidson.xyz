@@ -36,6 +36,9 @@ pygmentsStyle = "dracula"
   # String that appears at the bottom of the Home page
   footer = "James Davidson"
 
+  # Add a license header to the footer
+  licenseHeader = "Pages and posts are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
+
 [menu]
 
   [[menu.main]]
