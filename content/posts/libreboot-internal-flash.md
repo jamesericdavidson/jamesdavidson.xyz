@@ -5,7 +5,7 @@ date: 2022-08-08
 showTableOfContents: true
 description: "Give me liberty, or give me RISC-V!"
 tags: ["linux", "privacy", "security", "tutorial"]
-weight: 3
+weight: 25
 ---
 
 # Introduction
