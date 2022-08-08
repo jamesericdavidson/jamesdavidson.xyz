@@ -1,7 +1,7 @@
 ---
 title: "The Linux Lab"
 tags: ["linux", "tutorial", "ubuntu"]
-date: 2022-08-08
+date: 2022-06-11
 description: "A tutorial for beginners"
 type: "post"
 showTableOfContents: true
