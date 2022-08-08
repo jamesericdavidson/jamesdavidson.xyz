@@ -6,8 +6,8 @@ description: "A tutorial for beginners"
 type: "post"
 showTableOfContents: true
 weight: 15
+copyrightDate: "2020, 2022"
 licenseHeaderOverride: |
-    Copyright (C)  2020, 2022  James Davidson
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3;
     with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.

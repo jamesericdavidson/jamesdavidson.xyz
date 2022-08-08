@@ -1,5 +1,9 @@
 <footer class="footer">
-    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    {{ if isset .Params "copyrightdate" }}
+        <span>Copyright (C) {{ .Params.CopyrightDate }} {{ .Site.Params.Footer}}</span>
+        {{ else }}
+            <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    {{ end }}
     {{ if isset .Params "licenseheaderoverride" }}
         <span>{{ .Params.LicenseHeaderOverride | markdownify }}</span>
         {{ else if isset .Site.Params "licenseheader" }}
