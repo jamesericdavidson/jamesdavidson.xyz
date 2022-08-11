@@ -17,6 +17,7 @@ This is a guide on how to internally flash Libreboot, on [GM45 ThinkPads](https:
 # Quick setup
 
 - Install `flashrom` and `ich9gen` (found here: [`ich9utils`](https://notabug.org/libreboot/ich9utils)[^ich9])
+    - `ich9utils` must be compiled, using `make` and `gcc`
 
 [^ich9]: `flashrom` may be available from distribution repositories (due to its role in upstream coreboot), but `ich9utils` was developed exclusively for [GM45 machines](https://libreboot.org/docs/install/#howto-readwriteerase-the-boot-flash-please-check-list-of-exceptions-below-before-you-attempt-this), and is therefore available from the Libreboot project.
 
@@ -33,6 +34,7 @@ ich9gen --macaddress 00:1f:16:80:80:80
 ```
 
 - Write the `.bin` file to the Libreboot ROM, [noting the size of the flash chip](https://libreboot.org/docs/install/#flash-chip-size)
+    - [`flashrom` will throw an error unless the kernel parameter `iomem=relaxed` is set](https://www.flashrom.org/FAQ#What_can_I_do_about_/dev/mem_errors?)
 
 ```sh
 # Note the size of the flash chip, and write the appropriate .bin
@@ -43,6 +45,7 @@ dd if=ich9fdgbe_8m.bin of=libreboot.rom bs=12k count=1 conv=notrunc
 ```
 
 - [Write the ROM to the flash chip](https://libreboot.org/docs/install/#howto-readwriteerase-the-boot-flash-please-check-list-of-exceptions-below-before-you-attempt-this)
+    - The flash chip must be specified using the `-c` option
 
 ```sh
 sudo flashrom -p internal:laptop=force_I_want_a_brick,boardmismatch=force -w libreboot.rom
