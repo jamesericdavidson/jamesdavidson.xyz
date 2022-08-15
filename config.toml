@@ -2,6 +2,7 @@ baseURL = "https://jamesdavidson.xyz/"
 defaultContentLanguage = "en"
 languageCode = "en"
 theme = "gokarna"
+enableGitInfo = true
 
 # Enable emoji shortcodes
 # https://gohugo.io/functions/emojify/
