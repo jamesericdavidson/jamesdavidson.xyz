@@ -1,9 +1,9 @@
-[submodule "themes/gokarna"]
-	path = themes/gokarna
-	url = https://github.com/526avijitgupta/gokarna.git
 [submodule "static/demos/soft051-map-symbols"]
 	path = static/demos/map-symbols
 	url = https://gitlab.com/jamesericdavidson/soft051-map-symbols.git
 [submodule "static/demos/pip-calculator"]
 	path = static/demos/pip-calculator
 	url = https://gitlab.com/jamesericdavidson/pip-calculator.git
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://codeberg.org/jamesericdavidson/gokarna
