@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-08-12
 title: "How to internally flash Libreboot on a ThinkPad"
 type: "post"
 date: 2022-08-08

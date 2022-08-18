@@ -6,13 +6,7 @@ description: "A tutorial for beginners"
 type: "post"
 showTableOfContents: true
 weight: 15
-copyrightDate: "2020, 2022"
-licenseHeaderOverride: |
-    Permission is granted to copy, distribute and/or modify this document
-    under the terms of the GNU Free Documentation License, Version 1.3;
-    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-    A copy of the license is included in the section entitled "GNU
-    Free Documentation License".
+lastmod: 2022-07-17
 ---
 
 # Introduction {#introduction}
@@ -37,6 +31,15 @@ Please note that I refer to the operating system as "Linux" for the sake of brev
 
 I would like to thank the Debian maintainers, past and present, for their work in making a rock solid GNU/Linux distribution. Without which, this tutorial would never have been made.
 
+# Copyright and Licence Notices {#copyright-and-licence-notices}
+
+	Copyright (C)  2020, 2022  James Davidson
+	Permission is granted to copy, distribute and/or modify this document
+	under the terms of the GNU Free Documentation License, Version 1.3;
+	with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+	A copy of the license is included in the section entitled "GNU
+	Free Documentation License".
+
 # About the Linux Lab {#about-the-linux-lab}
 
 The Linux Lab is a tutorial designed for beginners; it aims to be comprehensive and technical.
@@ -46,14 +49,6 @@ There are no requirements to undertake the Linux Lab, with the exception of inst
 All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are [available via Git](https://gitlab.com/jamesericdavidson/linux-lab).
 
 ## Version History {#version-history}
-
-### Version 5
-
-Released on 08/08/2022.
-
-| Added | Changed | Removed | Fixed |
-| ----- | ------- | ------- | ----- |
-| | Copyright and Licence Notices: Moved to Footer | | |
 
 ### Version 4
 

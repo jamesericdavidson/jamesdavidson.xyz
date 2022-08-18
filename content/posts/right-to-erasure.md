@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-08-08
 title: "Exercising the right to erasure"
 tags: ["privacy", "gdpr"]
 date: 2022-06-20

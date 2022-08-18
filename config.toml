@@ -2,7 +2,6 @@ baseURL = "https://jamesdavidson.xyz/"
 defaultContentLanguage = "en"
 languageCode = "en"
 theme = "gokarna"
-enableGitInfo = true
 
 # Enable emoji shortcodes
 # https://gohugo.io/functions/emojify/
@@ -16,6 +15,9 @@ enableRobotsTXT = true
 
 # Syntax highlighting style
 pygmentsStyle = "dracula"
+
+# Add a license header to the footer
+copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
 
 [params]
 
@@ -40,9 +42,6 @@ pygmentsStyle = "dracula"
 
   # Use content/_index.md to display content on the homepage
   enableFrontMatter = "true"
-
-  # Add a license header to the footer
-  licenseHeader = "Pages and posts are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
 
 [menu]
 

@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-08-09
 title: "Bandit Wargame Walkthrough"
 tags: ["hacking", "linux", "cybersecurity", "walkthrough", "writeup", "ctf"]
 date: 2022-03-29

@@ -1,4 +1,5 @@
 ---
+lastmod: 2022-08-09
 title: "Security in openSUSE Tumbleweed"
 tags: ["opensuse", "linux", "cybersecurity"]
 date: 2022-05-24
