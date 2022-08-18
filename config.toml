@@ -34,6 +34,7 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "gitlab", url = "https://gitlab.com/jamesericdavidson"},
+    {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
   ]
 
