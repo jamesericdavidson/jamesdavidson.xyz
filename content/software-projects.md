@@ -277,11 +277,15 @@ I'm grateful to every single person who collaborated on the documentation I scou
 
 ## Synopsis {#jamesdavidson.xyz-synopsis}
 
-jamesdavidson.xyz is the latest iteration of my personal website. It is being actively developed - or perhaps more accurately, [being configured](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz/-/blob/main/config.toml) and [having content added](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz/-/tree/main/content) to it.
+jamesdavidson.xyz is the latest iteration of my personal website. It is under active development, including content and [a fork of the website theme](https://codeberg.org/jamesericdavidson/gokarna) to add more features.
 
-The project uses the [Hugo static site generator](https://gohugo.io/) (SSG).
+The project uses the popular static site generator [Hugo](https://gohugo.io/).
 
-[View the source code](https://gitlab.com/jamesericdavidson/jamesdavidson.xyz).
+Theme code is licensed under the GNU General Public License v3.0.
+
+Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+
+[View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
 
 ## Retrospective {#jamesdavidson.xyz-retrospective}
 
