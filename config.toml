@@ -21,7 +21,7 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
 
 [params]
 
-  showPostsOnHomePage = "popular"
+  showPostsOnHomePage = "recent"
 
   # SEO keywords
   metaKeywords = ["linux", "privacy", "cybersecurity"]
