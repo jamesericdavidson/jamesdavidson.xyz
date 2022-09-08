@@ -1,8 +1,9 @@
 ---
+date: 2022-08-02
+showTableOfContents: true
+slug: "software-projects"
 title: "Software Projects"
 type: "page"
-showTableOfContents: true
-date: 2022-08-02
 ---
 
 [This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
