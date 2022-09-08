@@ -10,8 +10,6 @@ showTableOfContents: true
 slug: "bandit-wargame-walkthrough"
 ---
 
-[This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
-
 # Introduction {#introduction}
 
 The Bandit wargame by OverTheWire teaches the basics of Linux. It can be [played here](https://overthewire.org/wargames/bandit/).

@@ -6,8 +6,6 @@ title: "Software Projects"
 type: "page"
 ---
 
-[This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
-
 # Introduction {#introduction}
 
 This is a portfolio of [my software projects](https://gitlab.com/jamesericdavidson), presented in chronological order.

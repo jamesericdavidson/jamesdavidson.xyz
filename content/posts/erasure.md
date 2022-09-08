@@ -10,8 +10,6 @@ type: "post"
 weight: 30
 ---
 
-[This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
-
 # Introduction {#introduction}
 
 The right to erasure can be difficult to exercise.

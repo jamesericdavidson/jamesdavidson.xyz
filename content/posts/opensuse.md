@@ -10,8 +10,6 @@ type: "post"
 weight: 20
 ---
 
-[This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
-
 # Introduction {#introduction}
 
 Note that this article is about Tumbleweed on the desktop - not Leap, MicroOS or Kubic.
