@@ -1,11 +1,12 @@
 ---
+date: 2022-08-08
+description: "Give me liberty, or give me RISC-V!"
 lastmod: 2022-08-12
+showTableOfContents: true
+slug: "how-to-internally-flash-libreboot-on-a-thinkpad"
+tags: ["linux", "privacy", "cybersecurity", "tutorial"]
 title: "How to internally flash Libreboot on a ThinkPad"
 type: "post"
-date: 2022-08-08
-showTableOfContents: true
-description: "Give me liberty, or give me RISC-V!"
-tags: ["linux", "privacy", "cybersecurity", "tutorial"]
 weight: 25
 ---
 

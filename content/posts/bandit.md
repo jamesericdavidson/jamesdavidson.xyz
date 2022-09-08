@@ -7,6 +7,7 @@ description: "Spoilers within!"
 type: "post"
 weight: 10
 showTableOfContents: true
+slug: "bandit-wargame-walkthrough"
 ---
 
 [This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 

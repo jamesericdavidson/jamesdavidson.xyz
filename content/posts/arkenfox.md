@@ -1,10 +1,11 @@
 ---
+date: 2022-09-07
+description: "Curb the Chromium monopoly"
+showTableOfContents: true
+slug: "supercharge-the-privacy-and-security-of-desktop-firefox"
+tags: ["cybersecurity", "privacy", "opinion"]
 title: "Supercharge the privacy and security of desktop Firefox"
 type: "post"
-date: 2022-09-07
-showTableOfContents: true
-description: "Curb the Chromium monopoly"
-tags: ["cybersecurity", "privacy", "opinion"]
 weight: 16
 ---
 

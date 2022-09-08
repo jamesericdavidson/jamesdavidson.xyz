@@ -1,12 +1,13 @@
 ---
-title: "The Linux Lab"
-tags: ["linux", "tutorial", "ubuntu"]
 date: 2022-06-11
 description: "A tutorial for beginners"
-type: "post"
-showTableOfContents: true
-weight: 15
 lastmod: 2022-07-17
+showTableOfContents: true
+slug: "the-linux-lab"
+tags: ["linux", "tutorial", "ubuntu"]
+title: "The Linux Lab"
+type: "post"
+weight: 15
 ---
 
 # Introduction {#introduction}

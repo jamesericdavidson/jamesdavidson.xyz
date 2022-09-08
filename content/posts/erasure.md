@@ -1,12 +1,13 @@
 ---
-lastmod: 2022-08-08
-title: "Exercising the right to erasure"
-tags: ["privacy", "gdpr"]
 date: 2022-06-20
 description: "Organisations hate this one weird trick!"
+lastmod: 2022-08-08
+showTableOfContents: true
+slug: "exercising-the-right-to-erasure"
+tags: ["privacy", "gdpr"]
+title: "Exercising the right to erasure"
 type: "post"
 weight: 30
-showTableOfContents: true
 ---
 
 [This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 

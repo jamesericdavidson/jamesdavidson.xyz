@@ -1,12 +1,13 @@
 ---
-lastmod: 2022-08-09
-title: "Security in openSUSE Tumbleweed"
-tags: ["opensuse", "linux", "cybersecurity"]
 date: 2022-05-24
 description: "What you can expect after booting the installation media"
+lastmod: 2022-08-09
+showTableOfContents: true
+slug: "security-in-opensuse-tumbleweed"
+tags: ["opensuse", "linux", "cybersecurity"]
+title: "Security in openSUSE Tumbleweed"
 type: "post"
 weight: 20
-showTableOfContents: true
 ---
 
 [This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.]: # 
