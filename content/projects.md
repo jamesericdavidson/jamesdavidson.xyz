@@ -6,7 +6,7 @@ title: "Software Projects"
 type: "page"
 ---
 
-# Introduction {#introduction}
+# Introduction
 
 This is a portfolio of [my software projects](https://gitlab.com/jamesericdavidson), presented in chronological order.
 
@@ -43,11 +43,11 @@ Try the demos from the browser.
 | ----------- | -------------- |
 | [![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols/) | [![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.png)](/demos/pip-calculator/) |
 
-# Map Symbols (2016) {#map-symbols}
+# Map Symbols (2016)
 
 {{< figure src="/images/ordnance-survey-maps.jpg" link="https://unsplash.com/photos/Nfgy5Jbbrf8" target="\_blank" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey)." >}}
 
-## Synopsis {#map-symbols-synopsis}
+## Synopsis
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
@@ -57,7 +57,7 @@ The goal of the game is to match the Ordnance Survey map symbol shown to the cor
 
 It is licensed using the Apache License 2.0.
 
-## Demonstration {#map-symbols-demonstration}
+## Demonstration
 
 Why not play from the browser and see for yourself?
 
@@ -65,7 +65,7 @@ Why not play from the browser and see for yourself?
 | ----------- |
 | [![Screenshot of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols) |
 
-## Retrospective {#map-symbols-retrospective}
+## Retrospective
 
 To win the game, the user must have five correct answers on the scoreboard.
 
@@ -98,15 +98,15 @@ To win the game, the user must have five correct answers on the scoreboard.
     
     The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
 
-## Credits {#map-symbols-credits}
+## Credits
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
-# Guild Wars 2 Pip Calculator (2018) {#guild-wars-2-pip-calculator}
+# Guild Wars 2 Pip Calculator (2018)
 
 {{< figure src="/images/guild-wars-2.jpg" link="https://www.guildwars2.com/en/media/screenshots/" target="\_blank" alt="A screenshot of Guild Wars 2, depicting three players in the World versus World game mode" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
 
-## Synopsis {#guild-wars-2-pip-calculator-synopsis}
+## Synopsis
 
 For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
 
@@ -132,7 +132,7 @@ It is licensed using the Apache License 2.0.
 
 [View the source code](https://gitlab.com/jamesericdavidson/pip-calculator).
 
-## Demonstration {#guild-wars-2-pip-calculator-demonstration}
+## Demonstration
 
 Try it, directly in the browser.
 
@@ -140,7 +140,7 @@ Try it, directly in the browser.
 | --------------------------------------- |
 | [![Screenshot of the Pip Calculator](/images/pip-calculator-demo.png "9 hours and 46 minutes? Ain't nobody got time for that!")](/demos/pip-calculator) |
 
-## Retrospective {#guild-wars-2-pip-calculator-retrospective}
+## Retrospective
 
 ### Appearance
 
@@ -167,15 +167,15 @@ Tiers are presented with floored hours and rounded minutes. However, the decimal
 
 Only after every tier is calculated does `totalTime` have its hours floored and minutes rounded. This results in the total time being longer.
 
-## Credits {#guild-wars-2-pip-calculator-credits}
+## Credits
 
 After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
 
-# dotfiles (2020) {#dotfiles}
+# dotfiles (2020)
 
 {{< figure src="/images/tux-flat.png" link="https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623" target="\_blank" alt="Artwork depicting the Linux mascot, Tux" attr="Tux Flat is licensed under the GNU General Public License v2.0 or later." >}}
 
-## Synopsis {#dotfiles-synopsis}
+## Synopsis
 
 dotfiles was the latest incarnation of my 'configuration files and scripts for Debian GNU/Linux systems'.
 
@@ -187,13 +187,13 @@ It is licensed using the GNU Public Licence version 3 only.
 
 [View the source code](https://gitlab.com/jamesericdavidson/dotfiles).
 
-## Retrospective {#dotfiles-retrospective}
+## Retrospective
 
 dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/opensuse-security).
 
 dotfiles was a moving target throughout development, as I changed tools, improved my understanding of the operating system, best practices within it, et cetera.
 
-### Branching {#dotfiles-retrospective-branching}
+### Branching
 
 I learned to use three types of branches for dotfiles: main, development, and \<feature>.
 
@@ -213,7 +213,7 @@ I learned to use three types of branches for dotfiles: main, development, and \<
 
     Adopting feature branches largely cured this error in judgement.
 
-### Code quality {#dotfiles-retrospective-code-quality}
+### Code quality
 
 I endeavoured to make files easy to understand, portable across machines, and use programmatic logic.
 
@@ -258,17 +258,17 @@ There are many reasons not to parse human-readable output to a script, for examp
 * Is not installed on the system
 * Has been modified by the distribution maintainer
 
-## Credits {#dotfiles-credits}
+## Credits
 
 dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-# jamesdavidson.xyz (2022) {#jamesdavidson.xyz}
+# jamesdavidson.xyz (2022)
 
 {{< figure src="/images/gokarna.jpg" link="https://unsplash.com/photos/MyCKTYn9A78" target="\_blank" alt="" attr="Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna)." >}}
 
-## Synopsis {#jamesdavidson.xyz-synopsis}
+## Synopsis
 
 jamesdavidson.xyz is the latest iteration of my personal website. It is under active development, including content and [a fork of the website theme](https://codeberg.org/jamesericdavidson/gokarna) to add more features.
 
@@ -280,7 +280,7 @@ Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Int
 
 [View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
 
-## Retrospective {#jamesdavidson.xyz-retrospective}
+## Retrospective
 
 ### Why choose Hugo?
 
@@ -311,6 +311,6 @@ I eventually stumbled onto [Gokarna](https://github.com/526avijitgupta/gokarna),
 
 Which suits my needs exactly. Most importantly, being a minimal theme, most "pure" Hugo documentation is applicable.
 
-## Credits {#jamesdavidson.xyz-credits}
+## Credits
 
 Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.

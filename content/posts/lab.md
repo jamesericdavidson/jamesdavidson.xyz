@@ -10,7 +10,7 @@ type: "post"
 weight: 15
 ---
 
-# Introduction {#introduction}
+# Introduction
 
 This is the Linux Lab I wrote for the University of Plymouth Official Computer and Information Security Society for the 2018/19 Academic Year.
 
@@ -28,11 +28,11 @@ Please note that I refer to the operating system as "Linux" for the sake of brev
 
 ---
 
-# Acknowledgements {#acknowledgements}
+# Acknowledgements
 
 I would like to thank the Debian maintainers, past and present, for their work in making a rock solid GNU/Linux distribution. Without which, this tutorial would never have been made.
 
-# Copyright and Licence Notices {#copyright-and-licence-notices}
+# Copyright and Licence Notices
 
 	Copyright (C)  2020, 2022  James Davidson
 	Permission is granted to copy, distribute and/or modify this document
@@ -41,7 +41,7 @@ I would like to thank the Debian maintainers, past and present, for their work i
 	A copy of the license is included in the section entitled "GNU
 	Free Documentation License".
 
-# About the Linux Lab {#about-the-linux-lab}
+# About the Linux Lab
 
 The Linux Lab is a tutorial designed for beginners; it aims to be comprehensive and technical.
 
@@ -49,7 +49,7 @@ There are no requirements to undertake the Linux Lab, with the exception of inst
 
 All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are [available via Git](https://gitlab.com/jamesericdavidson/linux-lab).
 
-## Version History {#version-history}
+## Version History
 
 ### Version 4
 
@@ -83,11 +83,11 @@ Released on 17/07/2022.
 * Version 1.0.0 - 11/01/2020
     * Initial release
 
-# Basic shell commands {#basic-shell-commands}
+# Basic shell commands
 
 You should already be using `bash`!
 
-## Login shell {#login-shell}
+## Login shell
 
 You can ascertain which login shell you are using by issuing the command:
 
@@ -95,7 +95,7 @@ You can ascertain which login shell you are using by issuing the command:
 echo $SHELL
 ```
 
-## builtins {#builtins}
+## builtins
 
 bash is a feature-rich shell, and has many built-in commands. Here, we will use two builtins: `echo` and `pwd`.
 
@@ -107,7 +107,7 @@ echo $HOME && pwd
 
 If the two outputs match, you are currently in the `/home/$USER` directory!
 
-### Terminal prompt {#terminal-prompt}
+### Terminal prompt
 
 You may notice that the information in the above output is already present in your terminal prompt!
 
@@ -124,7 +124,7 @@ This prompt gives us important information about the status of the terminal wind
 * Working directory 	(pwd)
 * Execution mode	($ or #)
 
-## Environment variables {#environment-variables}
+## Environment variables
 
 Thus far, we have been referencing WORDS preceded by dollar signs ($). These are called environment variables.
 
@@ -134,7 +134,7 @@ Just like a variable in a programming language, environment variables are '[dyna
 
 We can query environment variables to determine how a system is configured:
 
-### Terminal emulator {#terminal-emulator}
+### Terminal emulator
 
 Right now, you are using a terminal emulator. In Ubuntu, this should be `gnome-terminal` by default:
 
@@ -144,7 +144,7 @@ echo $TERM
 
 `gnome-terminal` should report itself as `xterm`.
 
-## External binaries {#external-binaries}
+## External binaries
 
 We've covered a couple of shell builtins, so we'll move onto external binaries.
 
@@ -164,7 +164,7 @@ man xdg-user-dir
 
 This command opens the manual page for the `xdg-user-dir` program. It contains the names of default user directories in `$HOME`, as created by `xdg-user-dirs-update`.
 
-### Aliases {#aliases}
+### Aliases
 
 In Ubuntu, you may notice the results of `ls` are coloured. This is because Ubuntu ships with aliases. 
 
@@ -192,19 +192,19 @@ You can discover the options that exist for a program by consulting its man page
 man ls
 ```
 
-# Navigating the shell {#navigating-the-shell}
+# Navigating the shell
 
 To change directory, use `cd`.
 
-## Tab autocompletion {#tab-autocompletion}
+## Tab autocompletion
 
 When seeking directories and files, you can press the TAB key twice to display matches.
 
 Try navigating to the `/etc/apt` directory using autocompletion.
 
-## Manipulating files and directories {#manipulating-files-and-directories}
+## Manipulating files and directories
 
-### Creation {#creation}
+### Creation
 
 You can create directories using `mkdir`. Empty files can be created with `touch`.
 
@@ -219,7 +219,7 @@ You can view the contents of your new directory, and the contents of every other
 ls *
 ```
 
-### Moving {#moving}
+### Moving
 
 Files and directories can be moved, or renamed, with `mv`.
 
@@ -232,7 +232,7 @@ Bear in mind, you can elect to `cd` into these directories when working in them 
 
 You can also use autocompletion to speed up the renaming process (ergo avoiding typing).
 
-### Copying {#copying}
+### Copying
 
 Files and directories can be copied with `cp`.
 
@@ -244,7 +244,7 @@ Here, we can see the source file `theluggage`, located in `rincewind/` is copied
 
 Note how the file name need not be written again, as it is preserved.
 
-### Removal {#removal}
+### Removal
 
 You can remove files and directories with `rm`.
 
@@ -262,7 +262,7 @@ When listing the contents of `~` again, we can see `rincewind/` is missing:
 ls * | grep -w rincewind
 ```
 
-#### grep {#grep}
+#### grep
 
 `grep` looks for patterns. The pipe operator ( | ) is used to feed data from one command into another. In this case, the output of `ls` is fed to `grep` so we can search for `rincewind/`.
 
@@ -278,7 +278,7 @@ Here, we can see the user's home directory and their login shell.
 
 Don't worry about the finer details of `whoami` and `/etc/passwd` at this stage.
 
-#### less {#less}
+#### less
 
 Using `grep` provides us a clean summary of instances of a pattern in a file.
 
@@ -305,7 +305,7 @@ Let's try another term, this time __bin__. Observe how all the matches are highl
 * Press 'n' to go to the next match
 * Press 'Shift + n' (SHIFT-n) to go to the previous match
 
-### Finding files {#finding-files}
+### Finding files
 
 Our copied file, `theluggage` still exists:
 
@@ -334,7 +334,7 @@ ls -lA /bin
 
 To resolve this, we can use `sudo`. `sudo` executes commands as another user - by default, the superuser (root).
 
-#### Recursive search {#recursive-search}
+#### Recursive search
 
 To avoid typing the `find` command again, we can use `bash`'s reverse history search function:
 
@@ -342,7 +342,7 @@ To avoid typing the `find` command again, we can use `bash`'s reverse history se
 * Type the search term: find
 * Press the left or right arrow key
 
-#### sudo {#sudo}
+#### sudo
 
 Prepend the command with `sudo`:
 
@@ -358,7 +358,7 @@ If you've reached this point, take a well earned 10 minute break.
 
 Regular breaks [make you a better learner](https://success.oregonstate.edu/sites/success.oregonstate.edu/files/LearningCorner/Tools/taking_breaks_from_studying.pdf)!
 
-# Text editing {#text-editing}
+# Text editing
 
 During this part of the lab, we will learn how to use `vim`.
 
@@ -366,7 +366,7 @@ During this part of the lab, we will learn how to use `vim`.
 
 Like `bash`, `vim` is included on virtually 100% of Linux installs. Hence, learning how to use it is vital!
 
-## vim is different to every text editor you've ever used before {#vim-is-different}
+## vim is different to every text editor you've ever used before
 
 Now that I've scared you, let me explain...
 
@@ -397,7 +397,7 @@ Now that I've scared you, let me explain...
 
 I don't use Replace mode. You can achieve superior manipulation with motions in Normal mode.
 
-### [Motions](http://vimdoc.sourceforge.net/htmldoc/motion.html) {#motions}
+### [Motions](http://vimdoc.sourceforge.net/htmldoc/motion.html)
 
 Motions are the real power behind vim.
 
@@ -405,7 +405,7 @@ From the off: the h, j, k and l keys are used in lieu of the arrow keys.
 
 Why? Because your fingers never need to leave the main area of the keyboard!
 
-#### Operators {#operators}
+#### Operators
 
 Not to be confused with shell operators.
 
@@ -432,7 +432,7 @@ With just three keystrokes, the content of the line has changed:
 
 vim motions are natural, and are designed to be an extension of what you want to achieve in the editor.
 
-#### Navigation motions {#navigation-motions}
+#### Navigation motions
 
 As mentioned earlier, hjkl are used in place of the arrow keys:
 
@@ -452,7 +452,7 @@ There are more useful navigation motions:
 * __gg__		  - move to the beginning of the file
 * __Shift__ + __G__ (S-G) - move to the end of the file
 
-#### Word motions {#word-motions}
+#### Word motions
 
 Move over words.
 
@@ -461,7 +461,7 @@ Move over words.
 * __b__  - move backwards to the beginning of a word
 * __ge__ - move backwards to the end of a word
 
-### Putting it all together {#putting-it-all-together}
+### Putting it all together
 
 With the motions defined above, we can navigate around a file.
 
@@ -498,7 +498,7 @@ You can combine motions in command mode. For example, `:wq`, which writes change
 
 Use `:help` to query the plethora of commands and motions in vim.
 
-### More on motions {#more-on-motions}
+### More on motions
 
 * __o__ - enter Insert mode on next line
 * __O__ - enter Insert mode on previous line
@@ -508,7 +508,7 @@ Remember to combine your motions. For example, when moving between lines:
 * 3j - move down three lines (from your cursor position)
 * 5G - move to (absolute) line 5
 
-### Helpful commands {#helpful-commands}
+### Helpful commands
 
 To help you navigate, you can make use of numbering:
 
@@ -526,7 +526,7 @@ You can also highlight the line your cursor is on:
 :set cursorline
 ```
 
-# Tasks {#tasks}
+# Tasks
 
 You should be able to answer all of these questions using the knowledge gained from the tutorial.
 
@@ -564,7 +564,7 @@ When recording answers for the tasks, use `vim`. We will review your answers whe
 
 10. How would you change the access and modification time of a file?
 
-## Intermediate tasks {#intermediate-tasks}
+## Intermediate tasks
 
 __Health warning__: You may begin to grow a Richard Stallman-esque beard if you can successfully complete these additional tasks.
 
@@ -578,7 +578,7 @@ __Health warning__: You may begin to grow a Richard Stallman-esque beard if you 
 
     Hint: Using a program already covered, and another related to linking.
 
-## Advanced tasks {#advanced-tasks}
+## Advanced tasks
 
 1. How would you change ownership of a file?
 
@@ -594,7 +594,7 @@ __Health warning__: You may begin to grow a Richard Stallman-esque beard if you 
 
     Hint: Using the Alternatives system.
 
-# Advice for installing GNU/Linux {#adive-for-installing-gnu-linux}
+# Advice for installing GNU/Linux
 
 To become proficient with Linux, you should use it every day! To do this, you should select a distribution.
 
@@ -604,7 +604,7 @@ You may also like to try other independent distributions, such as Fedora or Solu
 
 _Don't_ use derivative distributions like Ubuntu, Linux Mint or Manjaro. And _definitely don't_ use advanced distributions like Arch, Void or Gentoo.
 
-## Dual booting {#dual-booting}
+## Dual booting
 
 Many individuals dual boot a Windows operating system with GNU/Linux. There are some vital considerations to make _before_ doing so:
 
@@ -633,7 +633,7 @@ On motherboards made in the last decade, this is likely UEFI.
 
 Debian offers a resilient installer, which deftly automates the boring elements of installation. Chiefly, this relates to partitioning (traditional volumes or Logical Volume Manager) and encryption (LUKS).
 
-# GNU Free Documentation License {#gnu-free-documentation-license}
+# GNU Free Documentation License
 
 
                 GNU Free Documentation License
