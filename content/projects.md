@@ -45,7 +45,7 @@ Try the demos from the browser.
 
 # Map Symbols (2016) {#map-symbols}
 
-![Photograph depicting Ordnance Survey maps](/images/ordnance-survey-maps.jpg)
+{{< figure src="/images/ordnance-survey-maps.jpg" link="https://unsplash.com/photos/Nfgy5Jbbrf8" target="\_blank" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey)." >}}
 
 ## Synopsis {#map-symbols-synopsis}
 
@@ -102,11 +102,9 @@ To win the game, the user must have five correct answers on the scoreboard.
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
-[Thanks to Drew Collins](#drew-collins) for use of the [above photograph](#map-symbols).
-
 # Guild Wars 2 Pip Calculator (2018) {#guild-wars-2-pip-calculator}
 
-![A screenshot of Guild Wars 2, depicting three players in the World versus World game mode](/images/guild-wars-2.jpg "This is how cool you can look when you have no life! I would know, my character looks like this.")
+{{< figure src="/images/guild-wars-2.jpg" link="https://www.guildwars2.com/en/media/screenshots/" target="\_blank" alt="A screenshot of Guild Wars 2, depicting three players in the World versus World game mode" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
 
 ## Synopsis {#guild-wars-2-pip-calculator-synopsis}
 
@@ -171,13 +169,11 @@ Only after every tier is calculated does `totalTime` have its hours floored and 
 
 ## Credits {#guild-wars-2-pip-calculator-credits}
 
-After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks again, ArenaNet!
-
-Thanks to [ArenaNet](https://www.guildwars2.com/en/media/screenshots/) (external link) and [NCSoft](#ncsoft-corporation) for use of the [above screenshot](#guild-wars-2-pip-calculator).
+After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
 
 # dotfiles (2020) {#dotfiles}
 
-![Artwork depicting the Linux mascot "Tux"](/images/tux-flat.png)
+{{< figure src="/images/tux-flat.png" link="https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623" target="\_blank" alt="Artwork depicting the Linux mascot, Tux" attr="Tux Flat is licensed under the GNU General Public License v2.0 or later." >}}
 
 ## Synopsis {#dotfiles-synopsis}
 
@@ -268,11 +264,9 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-[Thanks to Iwan Gabovitch](#iwan-gabovitch) for use of the [above Tux Flat artwork](#dotfiles).
-
 # jamesdavidson.xyz (2022) {#jamesdavidson.xyz}
 
-![A photograph of Gokarna in India](/images/gokarna.jpg)
+{{< figure src="/images/gokarna.jpg" link="https://unsplash.com/photos/MyCKTYn9A78" target="\_blank" alt="" attr="Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna)." >}}
 
 ## Synopsis {#jamesdavidson.xyz-synopsis}
 
@@ -319,38 +313,4 @@ Which suits my needs exactly. Most importantly, being a minimal theme, most "pur
 
 ## Credits {#jamesdavidson.xyz-credits}
 
-Thanks to [Yash Mehrotra and Avijit Gupta](#yash-mehrotra-and-avijit-gupta) for developing Gokarna.
-
-Thanks to [Raman Choudhary](#raman-choudhary) for the use of [the above photograph](#jamesdavidson.xyz).
-
-# Copyright Notices and Attribution {#copyright-notices-and-attribution}
-
-#### Drew Collins {#drew-collins}
-
-<https://unsplash.com/photos/Nfgy5Jbbrf8>
-
-Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey).
-
-#### NCSOFT Corporation {#ncsoft-corporation}
-
-<https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use>
-
-© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners. 
-
-#### Iwan Gabovitch (qubodup) {#iwan-gabovitch}
-
-<https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623>
-
-Tux Flat is licensed under the GNU General Public License v2.0 or later.
-
-#### Raman Choudhary {#raman-choudhary}
-
-<https://unsplash.com/photos/MyCKTYn9A78>
-
-Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna).
-
-#### Yash Mehrotra and Avijit Gupta {#yash-mehrotra-and-avijit-gupta}
-
-<https://github.com/526avijitgupta/gokarna>
-
-Gokarna is licensed under the GNU General Public License v3.0 only.
+Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
