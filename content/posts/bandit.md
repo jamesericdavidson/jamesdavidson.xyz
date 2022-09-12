@@ -1,20 +1,20 @@
 ---
-lastmod: 2022-08-09
-title: "Bandit Wargame Walkthrough"
-tags: ["hacking", "linux", "cybersecurity", "walkthrough", "writeup", "ctf"]
 date: 2022-03-29
 description: "Spoilers within!"
+lastmod: 2022-09-12
+showTableOfContents: true
+slug: "overthewire-bandit-wargame-writeup"
+tags: ["linux", "writeup", "walkthrough", "overthewire"]
+title: "OverTheWire Bandit Wargame Write-up (All Levels)"
 type: "post"
 weight: 10
-showTableOfContents: true
-slug: "bandit-wargame-walkthrough"
 ---
 
 # Introduction
 
 The Bandit wargame by OverTheWire teaches the basics of Linux. It can be [played here](https://overthewire.org/wargames/bandit/).
 
-This write-up gives a single solution to each level.
+This walkthrough gives a single solution to each level.
 
 # Walkthrough
 
