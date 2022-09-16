@@ -7,7 +7,6 @@ slug: "overthewire-bandit-wargame-writeup"
 tags: ["linux", "writeup", "walkthrough", "overthewire"]
 title: "OverTheWire Bandit Wargame Write-up (All Levels)"
 type: "post"
-weight: 10
 ---
 
 # Introduction

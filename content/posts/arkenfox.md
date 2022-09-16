@@ -6,7 +6,6 @@ slug: "supercharge-the-privacy-and-security-of-desktop-firefox"
 tags: ["cybersecurity", "privacy", "firefox", "chromium"]
 title: "Supercharge the privacy and security of desktop Firefox"
 type: "post"
-weight: 16
 ---
 
 # Introduction

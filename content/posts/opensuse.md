@@ -7,7 +7,6 @@ slug: "security-in-opensuse-tumbleweed"
 tags: ["opensuse", "linux", "cybersecurity"]
 title: "Security in openSUSE Tumbleweed"
 type: "post"
-weight: 20
 ---
 
 # Introduction

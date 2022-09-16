@@ -7,7 +7,6 @@ slug: "how-to-internally-flash-libreboot-on-a-thinkpad"
 tags: ["linux", "privacy", "cybersecurity", "tutorial"]
 title: "How to internally flash Libreboot on a ThinkPad"
 type: "post"
-weight: 25
 ---
 
 # Introduction

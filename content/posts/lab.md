@@ -7,7 +7,6 @@ slug: "the-linux-lab"
 tags: ["linux", "tutorial", "ubuntu"]
 title: "The Linux Lab"
 type: "post"
-weight: 15
 ---
 
 # Introduction

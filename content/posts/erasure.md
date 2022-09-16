@@ -7,7 +7,6 @@ slug: "exercising-the-right-to-erasure"
 tags: ["privacy", "gdpr"]
 title: "Exercising the right to erasure"
 type: "post"
-weight: 30
 ---
 
 # Introduction
