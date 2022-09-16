@@ -1,14 +1,14 @@
 ---
 date: 2022-08-02
 showTableOfContents: true
-slug: "software-projects"
-title: "Software Projects"
+slug: "projects"
+title: "Projects"
 type: "page"
 ---
 
 # Introduction
 
-This is a portfolio of [my software projects](https://gitlab.com/jamesericdavidson), presented in chronological order.
+This is a portfolio of [my projects](https://gitlab.com/jamesericdavidson), presented in chronological order.
 
 I provide comments on:
 

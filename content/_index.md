@@ -1,3 +1,3 @@
-If I can support your organisation, connect with me above.
+#### Is your organisation looking for a junior cybersecurity specialist? Connect with me :point_up:
 
-Use the top bar to [**see my CV**](/cv.pdf), [**learn about my projects**](/software-projects/) and [**view the demos**](/software-projects/#demos), then [**read my blog**](/posts/).
+[Consider my skills and previous experience](/cv.pdf) :page_facing_up:

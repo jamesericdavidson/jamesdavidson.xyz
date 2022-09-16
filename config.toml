@@ -27,15 +27,14 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
   metaKeywords = ["linux", "privacy", "cybersecurity"]
 
   # String that appears on the Home page, below the Title
-  description = "Searching for an engaging career in cybersecurity!"
+  description = "Seeking an engaging cybersecurity career ✍️"
 
   # Icons that appear on the Home page, below the Description
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
-    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
+    {name = "github", url = "https://github.com/jamesericdavidson"},
     {name = "gitlab", url = "https://gitlab.com/jamesericdavidson"},
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
-    {name = "github", url = "https://github.com/jamesericdavidson"},
   ]
 
   # String that appears at the bottom of the Home page
@@ -47,33 +46,39 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
 [menu]
 
   [[menu.main]]
-    name = "Curriculum Vitae"
-    url = "/cv.pdf/"
+    name = "Home"
+    url = "/"
     weight = 1
-    pre = "<span data-feather='file-text'></span>"
+    pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Software Projects"
-    url = "/software-projects/"
-    weight = 2
-    pre = "<span data-feather='code'></span>"
-
-  [[menu.main]]
-    name = "All Posts"
+    name = "Posts"
     url = "/posts/"
-    weight = 3
+    weight = 2
     pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
-    name = "Browse Tags"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+    pre = "<span data-feather='code'></span>"
+
+  [[menu.main]]
+    name = "Tags"
     url = "/tags/"
     weight = 4
     pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
-    name = "RSS Feed"
-    url = "/index.xml"
+    identifier = "email"
     weight = 5
+    url = "mailto:james@jamesdavidson.xyz"
+    pre = "<span data-feather='mail'></span>"
+
+  [[menu.main]]
+    identifier = "RSS"
+    url = "/index.xml"
+    weight = 6
     pre = "<span data-feather='rss'></span>"
 
 [markup]
