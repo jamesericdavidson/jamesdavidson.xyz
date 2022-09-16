@@ -311,6 +311,18 @@ I eventually stumbled onto [Gokarna](https://github.com/526avijitgupta/gokarna),
 
 Which suits my needs exactly. Most importantly, being a minimal theme, most "pure" Hugo documentation is applicable.
 
+### Theme contributions
+
+I've made modifications to Gokarna to suit my needs. Some of these have been merged upstream, including:
+
+- [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
+
+Pull requests which haven't been accepted appear in [my Gokarna fork](https://codeberg.org/jamesericdavidson/gokarna):
+
+- Display a Licence Header in the footer
+- Show the date a post was last modified
+- Link to the previous and next post chronologically at the bottom of the page
+
 ## Credits
 
 Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
