@@ -1,4 +1,6 @@
 ---
+aliases:
+    - "/posts/libreboot-internal-flash/"
 date: 2022-08-08
 description: "Give me liberty, or give me RISC-V!"
 lastmod: 2022-08-12

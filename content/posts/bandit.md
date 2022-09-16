@@ -1,4 +1,9 @@
 ---
+aliases:
+    - "/posts/bandit/"
+    - "/posts/bandit-walkthrough/"
+    - "/posts/bandit-wargame-walkthrough/"
+    - "/posts/solutions-to-the-bandit-wargame/"
 date: 2022-03-29
 description: "Spoilers within!"
 lastmod: 2022-09-12

@@ -1,4 +1,6 @@
 ---
+aliases:
+    - "/posts/arkenfox/"
 date: 2022-09-07
 description: "Curb the Chromium monopoly"
 showTableOfContents: true

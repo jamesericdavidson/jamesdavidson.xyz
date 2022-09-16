@@ -1,4 +1,6 @@
 ---
+aliases:
+    - "/posts/linux-lab/"
 date: 2022-06-11
 description: "A tutorial for beginners"
 lastmod: 2022-07-17

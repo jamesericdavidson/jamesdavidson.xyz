@@ -1,4 +1,6 @@
 ---
+aliases:
+    - "/posts/right-to-erasure/"
 date: 2022-06-20
 description: "Organisations hate this one weird trick!"
 lastmod: 2022-08-08
