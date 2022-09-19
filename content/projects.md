@@ -272,7 +272,7 @@ I'm grateful to every single person who collaborated on the documentation I scou
 
 jamesdavidson.xyz is the latest iteration of my personal website. It is under active development, including content and [a fork of the website theme](https://codeberg.org/jamesericdavidson/gokarna) to add more features.
 
-The project uses the popular static site generator [Hugo](https://gohugo.io/).
+The project uses the [Hugo](https://gohugo.io/) static site generator.
 
 Theme code is licensed under the GNU General Public License v3.0.
 
@@ -282,42 +282,21 @@ Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Int
 
 ## Retrospective
 
-### Why choose Hugo?
+### Framework
 
-Hugo was chosen for two reasons:
+I decided to use the Hugo framework for three reasons. To abstract away the design process, simplify content creation, and adopt a mature platform with good documentation.
 
-1. To abstract the design process
-2. To simplify content creation
+A content management system such as WordPress is feature-rich, but complex. I don't need a graphical user interface or WYSIWYG editor, only a theme. The fewer dependencies and less code complexity, the better.
 
-A content management system such as WordPress is feature-rich, but complex. To my mind WordPress focuses on the following:
+### Theme
 
-1. Providing a graphical user interface for the user and administrator
-2. Enabling third-party developers to create themes, extensions and frameworks
+I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
-For my purposes, I only require a theme. The fewer dependencies and code complexity, the better.
-
-It just so happens that Hugo is among the most popular static site generators, alongside Jekyll and their ilk. Ergo, the third-party support, documentation and user-led discussion is readily available. 
-
-### Choosing a theme
-
-Many Hugo themes attempt to extend Hugo's humble aspirations as an SSG. Hence, a non-starter for my purposes.
-
-I eventually stumbled onto [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is:
-
-- Minimalistic
-- Responsive
-- Available in light and dark themes
-- Configurable
-
-Which suits my needs exactly. Most importantly, being a minimal theme, most "pure" Hugo documentation is applicable.
-
-### Theme contributions
-
-I've made modifications to Gokarna to suit my needs. Some of these have been merged upstream, including:
+I've made modifications to Gokarna, some of which have been merged upstream:
 
 - [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
 
-Pull requests which haven't been accepted appear in [my Gokarna fork](https://codeberg.org/jamesericdavidson/gokarna):
+Pull requests which haven't been accepted still appear in my fork:
 
 - Display a Licence Header in the footer
 - Show the date a post was last modified
