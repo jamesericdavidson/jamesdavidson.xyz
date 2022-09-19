@@ -276,7 +276,7 @@ The project uses the [Hugo](https://gohugo.io/) static site generator.
 
 Theme code is licensed under the GNU General Public License v3.0.
 
-Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/the-linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
 [View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
 
