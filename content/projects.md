@@ -23,16 +23,16 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 Jump to the project which interests you the most.
 
-[Map Symbols](#map-symbols)
+[Map Symbols](#map-symbols-2016)
 : Match the Ordnance Survey map symbol shown to the corresponding button
 
-[Pip Calculator](#guild-wars-2-pip-calculator)
+[Pip Calculator](#guild-wars-2-pip-calculator-2018)
 : Estimate the time it will take complete divisions in World vs World
 
-[dotfiles](#dotfiles)
+[dotfiles](#dotfiles-2020)
 : Configuration files and scripts for Debian GNU/Linux systems
 
-[jamesdavidson.xyz](#jamesdavidson.xyz)
+[jamesdavidson.xyz](#jamesdavidsonxyz-2022)
 : This website! I hope you like it :grin:
 
 # Demos
@@ -189,7 +189,7 @@ It is licensed using the GNU Public Licence version 3 only.
 
 ## Retrospective
 
-dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/opensuse-security).
+dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/security-in-opensuse-tumbleweed).
 
 dotfiles was a moving target throughout development, as I changed tools, improved my understanding of the operating system, best practices within it, et cetera.
 
