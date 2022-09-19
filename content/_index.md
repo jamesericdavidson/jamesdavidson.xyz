@@ -1,3 +1,3 @@
-#### Is your organisation looking for a junior cybersecurity specialist? Connect with me :point_up:
+Do you like what you see and think **I can support your organisation**?
 
-[Consider my skills and previous experience](/cv.pdf) :page_facing_up:
+Let's [**get in touch**](https://www.linkedin.com/in/jamesericdavidson) and discuss your requirements! :slightly_smiling_face:
