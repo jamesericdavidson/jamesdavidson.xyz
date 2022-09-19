@@ -3,7 +3,7 @@ aliases:
     - "/posts/linux-lab/"
 date: 2022-06-11
 description: "A tutorial for beginners"
-lastmod: 2022-07-17
+lastmod: 2022-09-19
 showTableOfContents: true
 slug: "the-linux-lab"
 tags: ["linux", "tutorial", "ubuntu"]
@@ -48,9 +48,11 @@ The Linux Lab is a tutorial designed for beginners; it aims to be comprehensive 
 
 There are no requirements to undertake the Linux Lab, with the exception of installing a Linux distribution to practice on.
 
-All documentation text and source code related to the Linux Lab (prior to Version 1.2.0) are [available via Git](https://gitlab.com/jamesericdavidson/linux-lab).
-
 ## Version History
+
+### Version 5
+
+- Removed hyperlink to Version 1.2.0
 
 ### Version 4
 

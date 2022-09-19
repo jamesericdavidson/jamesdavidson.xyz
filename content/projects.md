@@ -8,7 +8,7 @@ type: "page"
 
 # Introduction
 
-This is a portfolio of [my projects](https://gitlab.com/jamesericdavidson), presented in chronological order.
+This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological order.
 
 I provide comments on:
 
@@ -51,7 +51,7 @@ Try the demos from the browser.
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
-[View the source code](https://gitlab.com/jamesericdavidson/soft051-map-symbols/-/blob/main/index.html).
+[View the source code](https://codeberg.org/jamesericdavidson/soft051-map-symbols/).
 
 The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
 
@@ -130,7 +130,7 @@ Much like [Map Symbols](#map-symbols-synopsis), this project was written using H
 
 It is licensed using the Apache License 2.0.
 
-[View the source code](https://gitlab.com/jamesericdavidson/pip-calculator).
+[View the source code](https://codeberg.org/jamesericdavidson/pip-calculator).
 
 ## Demonstration
 
@@ -185,7 +185,7 @@ The project encompasses two years of development in 2020 and 2021, though prior 
 
 It is licensed using the GNU Public Licence version 3 only.
 
-[View the source code](https://gitlab.com/jamesericdavidson/dotfiles).
+[View the source code](https://codeberg.org/jamesericdavidson/dotfiles).
 
 ## Retrospective
 
