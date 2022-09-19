@@ -19,6 +19,8 @@ I provide comments on:
 
 Not all of my projects are discussed on this page. So stay tuned for more!
 
+[The Summary is a stopgap until a Table of Contents is available for mobile.]: #
+
 # Summary
 
 Jump to the project which interests you the most.
