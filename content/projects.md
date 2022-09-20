@@ -104,6 +104,33 @@ To win the game, the user must have five correct answers on the scoreboard.
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
 
+# Mastermind (2017/18)
+
+## Synopsis
+
+Written in the 2017/18 academic year using C#. Compatible with .NET and Mono.
+
+[View the source code](https://codeberg.org/jamesericdavidson/soft164-mastermind).
+
+Mastermind is a code-breaking game for two players.
+
+It is licensed using the Apache License 2.0.
+
+## Retrospective
+
+There were two stipulations for the design of this project:
+
+- Write a console application, not a graphical user interface
+- Avoid features of C# which are not available in C
+
+![Screenshot demonstration of playing Mastermind](/images/mastermind-demo.png)
+
+The user defines the number of positions and colours, then plays against a randomly generated pattern.
+
+The program is resilient to input errors, checking whether values are numeric and within bounds.
+
+The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
+
 # Guild Wars 2 Pip Calculator (2018)
 
 {{< figure src="/images/guild-wars-2.jpg" link="https://www.guildwars2.com/en/media/screenshots/" target="\_blank" alt="A screenshot of Guild Wars 2, depicting three players in the World versus World game mode" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
