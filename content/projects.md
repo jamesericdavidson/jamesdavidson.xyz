@@ -28,6 +28,9 @@ Jump to the project which interests you the most.
 [Map Symbols](#map-symbols-2016)
 : Match the Ordnance Survey map symbol shown to the corresponding button
 
+[Mastermind](#mastermind-201718)
+: A code-breaking game for two players
+
 [Pip Calculator](#guild-wars-2-pip-calculator-2018)
 : Estimate the time it will take complete divisions in World vs World
 
