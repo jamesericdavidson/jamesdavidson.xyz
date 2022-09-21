@@ -31,6 +31,9 @@ Jump to the project which interests you the most.
 [Mastermind](#mastermind-201718)
 : A code-breaking game for two players
 
+[Hire Car Maintenance Inc](#hire-car-maintenance-inc-201718)
+: A graphical user interface application for hire car companies
+
 [Pip Calculator](#guild-wars-2-pip-calculator-2018)
 : Estimate the time it will take complete divisions in World vs World
 
@@ -133,6 +136,39 @@ The user defines the number of positions and colours, then plays against a rando
 The program is resilient to input errors, checking whether values are numeric and within bounds.
 
 The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
+
+# Hire Car Maintenance Inc (2017/18)
+
+{{< figure src="/images/avis.jpg" link="https://unsplash.com/photos/PujiL9mZWNM" target="\_blank" alt="" attr="Photo by [Abhishek Umrao](https://unsplash.com/@abhishekumrao) on [Unsplash](https://unsplash.com/s/photos/avis)" >}}
+
+## Synopsis
+
+Written in the 2017/18 academic year, using C# and .NET WinForms.
+
+[View the source code](https://codeberg.org/jamesericdavidson/soft151-hire-car-maintenance-inc).
+
+Hire Car Maintenance Inc serves as an introduction to object-oriented programming.
+
+It is licensed using the Apache License 2.0.
+
+## Retrospective
+
+`input.txt` is parsed to create classes and objects at runtime. Changes made using the interface are saved persistently.
+
+The interface was designed using Windows Forms Designer.
+
+![Screenshot demonstration of Hire Car Maintenance Inc](/images/soft151-demo-1.png)
+
+As seen above, the user is able to:
+
+- Search for companies and cars
+- Add, remove or edit companies and cars
+
+![Screenshot demonstration of the search bar functionality in Hire Car Maintenance Inc](/images/soft151-demo-2.png)
+
+## Credits
+
+Once again, I had the pleasure of learning from Liz Stuart.
 
 # Guild Wars 2 Pip Calculator (2018)
 
