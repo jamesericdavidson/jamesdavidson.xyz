@@ -23,6 +23,8 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
 
   showPostsOnHomePage = "recent"
 
+  togglePreviousAndNextButtons = "true"
+
   # SEO keywords
   metaKeywords = ["linux", "privacy", "cybersecurity"]
 
