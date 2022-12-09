@@ -3,7 +3,7 @@ aliases:
     - "/posts/linux-lab/"
 date: 2022-06-11
 description: "A tutorial for beginners"
-lastmod: 2022-09-19
+lastmod: 2022-12-09
 showTableOfContents: true
 slug: "the-linux-lab"
 tags: ["linux", "tutorial", "ubuntu"]
@@ -13,7 +13,7 @@ type: "post"
 
 # Introduction
 
-This is the Linux Lab I wrote for the University of Plymouth Official Computer and Information Security Society for the 2018/19 Academic Year.
+This is the Linux Lab I wrote for the University of Plymouth Official Computer and Information Security Society for the 2019/20 academic year.
 
 Originally written for Pandoc to output as a PDF, it is now available using Hugo.
 
@@ -21,9 +21,7 @@ This tutorial was designed around the Ubuntu virtual machines available in the s
 
 The text that follows is mostly unchanged - exceptions are noted in the Version History.
 
-Finally, I would like to clarify that the contents and advice herein don't necessarily reflect what I believe today, and almost certainly not what I will believe in the future!
-
-All of that said, enjoy.
+I would like to clarify that the contents and advice herein don't necessarily reflect what I believe today, and almost certainly not what I will believe in the future!
 
 Please note that I refer to the operating system as "Linux" for the sake of brevity. [It may be more pertinent to say GNU/Linux](https://www.gnu.org/gnu/gnu-linux-faq.html) for most distributions.
 
@@ -50,13 +48,33 @@ There are no requirements to undertake the Linux Lab, with the exception of inst
 
 ## Version History
 
+The last modified date matches the latest release. This change won't be explicitly noted for each version.
+
+### Version 6
+
+Released on 2022-12-09.
+
+- [Introduction](#introduction)
+    - Changed case of "Academic Year" to "academic year"
+    - Removed "Finally," from "I would like to clarify ..."
+    - Removed "All of that said, enjoy."
+    - Fixed the academic year from "2018/19" to "2019/20"
+
+- [Version History](#version-history)
+    - Added notice to reflect that changes to the last modified date won't be tracked in changelogs
+    - Added [Version 5](#version-5)'s missing release date
+    - Changed dates to follow the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) standard
+    - Changed Version 1.0.0, 1.1.0 and 1.2.0 from nested lists to headings
+
 ### Version 5
+
+Released on 2022-09-19.
 
 - Removed hyperlink to Version 1.2.0
 
 ### Version 4
 
-Released on 17/07/2022.
+Released on 2022-07-17.
 
 | Added | Changed | Removed | Fixed |
 | ----- | ------- | ------- | ----- |
@@ -67,24 +85,33 @@ Released on 17/07/2022.
 | Heading IDs (see links in this table) | [GNU Free Documentation License](#gnu-free-documentation-license): Heading from "Licence Text" to "GNU Free Documentation License" | |
 | | Date: To coincide with this release | |
 
-* Version 1.2.0 - 11/06/2022
-    * Replaced Pandoc YAML
-    * Added Introduction
-    * Updated copyright year
-    * Removed references to 'series of tutorials' and future labs
-    * Clarified that the `linux-lab` repository contains prior versions
-    * Added dates to document versions
-    * Corrected a missing plural
-    * Removed quote characters
-    * Added missing code fencing
+### Version 1.2.0
 
-* Version 1.1.0 - 17/06/2020
-    * Changed fonts to [Liberation](https://en.wikipedia.org/wiki/Liberation_fonts) (PDF version only)
-    * Added more Tasks
-    * Added Presentation contents
+Released on 2022-06-11.
 
-* Version 1.0.0 - 11/01/2020
-    * Initial release
+* Replaced Pandoc YAML
+* Added Introduction
+* Updated copyright year
+* Removed references to 'series of tutorials' and future labs
+* Clarified that the `linux-lab` repository contains prior versions
+* Added dates to document versions
+* Corrected a missing plural
+* Removed quote characters
+* Added missing code fencing
+
+### Version 1.1.0
+
+Released on 2020-06-17.
+
+* Changed fonts to [Liberation](https://en.wikipedia.org/wiki/Liberation_fonts) (PDF version only)
+* Added more Tasks
+* Added Presentation contents
+
+### Version 1.0.0
+
+Released on 2020-01-11.
+
+* Initial release
 
 # Basic shell commands
 
