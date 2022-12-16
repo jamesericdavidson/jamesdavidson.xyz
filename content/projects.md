@@ -41,7 +41,7 @@ Jump to the project which interests you the most.
 : Configuration files and scripts for Debian GNU/Linux systems
 
 [jamesdavidson.xyz](#jamesdavidsonxyz-2022)
-: This website! I hope you like it :grin:
+: Learn about what I do
 
 # Demos
 
@@ -85,7 +85,7 @@ To win the game, the user must have five correct answers on the scoreboard.
 
 * A star must be "turned on" when a correct answer is given
 
-    A new game begin with all five stars "turned off". The game is won when they are all "turned on".
+    A new game begins with all five stars "turned off". The game is won when they are all "turned on".
 
     Each button fires an `onClick()` event to the `CheckAnswer()` function, which passes the `id` variable.
 
@@ -363,12 +363,12 @@ I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which
 I've made modifications to Gokarna, some of which have been merged upstream:
 
 - [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
+- [Link to the previous and next post chronologically at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
 
 Pull requests which haven't been accepted still appear in my fork:
 
 - Display a Licence Header in the footer
 - Show the date a post was last modified
-- Link to the previous and next post chronologically at the bottom of the page
 
 ## Credits
 
