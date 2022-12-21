@@ -1,10 +1,13 @@
 ---
+aliases:
+    - "/posts/passwords-suck/"
 date: 2022-12-19
-description: "At least eight letters and one capital? MickeyMinniePlutoHueyLouieDeweyDonaldGoofySacramento."
+description: "This password must contain least eight letters and one capital? MickeyMinniePlutoHueyLouieDeweyDonaldGoofySacramento."
+lastmod: 2022-12-21
 showTableOfContents: true
-slug: "passwords-suck"
-tags: ["cybersecurity"]
-title: "Passwords suck"
+slug: "stop-reusing-passwords"
+tags: ["cybersecurity", "passwords", "KeePass"]
+title: "Stop reusing passwords – use this instead!"
 type: "post"
 ---
 
