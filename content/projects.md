@@ -360,15 +360,13 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
-I've made modifications to Gokarna, some of which have been merged upstream:
+I've made modifications to Gokarna, including pull requests merged upstream:
 
 - [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
 - [Link to the previous and next post chronologically at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
-
-Pull requests which haven't been accepted still appear in my fork:
-
 - Display a Licence Header in the footer
 - Show the date a post was last modified
+- Infer accurate copyright dates programmatically
 
 ## Credits
 
