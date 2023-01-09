@@ -364,6 +364,7 @@ I've made modifications to Gokarna, including pull requests merged upstream:
 
 - [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
 - [Link to the previous and next post chronologically at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
+- [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
 - Display a Licence Header in the footer
 - Show the date a post was last modified
 - Infer accurate copyright dates programmatically
