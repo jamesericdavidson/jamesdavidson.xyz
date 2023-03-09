@@ -36,6 +36,8 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
+    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
+    {name = "rss", url = "/index.xml"},
   ]
 
   # String that appears at the bottom of the Home page
@@ -71,15 +73,33 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
     pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
-    identifier = "email"
-    weight = 5
+    identifier = "LinkedIn"
+    weight = 10
+    url = "https://www.linkedin.com/in/jamesericdavidson"
+    pre = "<span data-feather='linkedin'></span>"
+
+  [[menu.main]]
+    identifier = "Codeberg"
+    weight = 20
+    url = "https://codeberg.org/jamesericdavidson"
+    pre = "<span data-feather='code'></span>"
+
+  [[menu.main]]
+    identifier = "GitHub"
+    weight = 30
+    url = "https://github.com/jamesericdavidson"
+    pre = "<span data-feather='github'></span>"
+
+  [[menu.main]]
+    identifier = "Email"
+    weight = 98
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
   [[menu.main]]
     identifier = "RSS"
     url = "/index.xml"
-    weight = 6
+    weight = 99
     pre = "<span data-feather='rss'></span>"
 
 [markup]
