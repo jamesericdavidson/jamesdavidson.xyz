@@ -120,4 +120,5 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
-    disable = true
+    disable = false
+    privacyEnhanced = true
