@@ -21,6 +21,9 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
 
 [params]
 
+  avatarURL = "/images/avatar.jpg"
+  avatarSize = "size-s"
+
   showPostsOnHomePage = "recent"
 
   togglePreviousAndNextButtons = "true"
