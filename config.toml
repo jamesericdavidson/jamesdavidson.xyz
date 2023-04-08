@@ -46,9 +46,6 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
   # String that appears at the bottom of the Home page
   footer = "James Davidson"
 
-  # Use content/_index.md to display content on the homepage
-  enableFrontMatter = "true"
-
 [menu]
 
   [[menu.main]]
