@@ -1,16 +1,19 @@
 ---
+aliases:
+    - "opensuse-microos-desktop-is-the-future-of-linux"
 date: 2023-04-02
 description: "This post is immutable, I want you to read only"
+lastmod: 2023-06-03
 showTableOfContents: true
-slug: "opensuse-microos-desktop-is-the-future-of-linux"
-tags: ["linux", "openSUSE", "immutable"]
-title: "openSUSE MicroOS Desktop is the future of Linux"
+slug: "opensuse-aeon-is-the-future-of-linux"
+tags: ["linux", "openSUSE", "aeon", "immutable"]
+title: "openSUSE Aeon is the future of Linux"
 type: "post"
 ---
 
 # Introduction
 
-openSUSE MicroOS Desktop provides the Chromebook experience, on Linux.
+openSUSE Aeon provides the Chromebook experience, on Linux.
 
 - Get all of your apps in one place
 - Work without interruption, as updates occur in the background
@@ -49,11 +52,11 @@ Ideal for computers with limited storage space.
 
 [Run any Linux distribution](https://github.com/89luca89/distrobox) - any app, any service.
 
-All seamlessly integrated into MicroOS.
+All seamlessly integrated into Aeon.
 
 # Apps
 
-When installing apps, you will want to use [this order of preference](https://en.opensuse.org/Portal:MicroOS/Desktop#Ways_to_Install_Applications_in_Order_of_Preference):
+When installing apps, you will want to use [this order of preference](https://en.opensuse.org/Portal:Aeon#Ways_to_Install_Applications_in_Order_of_Preference):
 
 1. Install device drivers with Transactional Update
 2. Install graphical apps from GNOME Software
@@ -115,14 +118,14 @@ Here are [some examples](https://codeberg.org/jamesericdavidson/flatpak-override
 
 Distrobox is a powerful tool for users who aren't averse to using the terminal. Need an app that isn't available in GNOME Software? Install it from a Distrobox container instead.
 
-On MicroOS, Distrobox defaults to installing an openSUSE Tumbleweed container. Packages on openSUSE are installed using the `zypper` command:
+On Aeon, Distrobox defaults to installing an openSUSE Tumbleweed container. Packages on openSUSE are installed using the `zypper` command:
 
 ```
 distrobox-enter
 sudo zypper install neovim
 ```
 
-Apps installed to a Distrobox container can be exported to MicroOS:
+Apps installed to a Distrobox container can be exported to Aeon:
 
 ```
 distrobox-enter
@@ -149,8 +152,23 @@ To learn more, type `distrobox-export --help`, or read the [source code comments
 
 # Conclusion
 
-Suitable for both casual users and software developers, openSUSE MicroOS Desktop adopts the ChromeOS paradigm and transplants it to Linux with resounding success.
+Suitable for both casual users and software developers, openSUSE Aeon adopts the ChromeOS paradigm and transplants it to Linux with resounding success.
 
 Do you enjoy the simplicity and security of installing apps from Google Play or the App Store? Then you'll love GNOME Software.
 
-MicroOS Desktop is state of the art. Take notes, Windows and macOS.
+Aeon is state of the art. Take notes, Windows and macOS.
+
+## Addenda
+
+openSUSE MicroOS Desktop was recently renamed to openSUSE Aeon.
+
+This post was kindly shared by the following people:
+
+- Initial tweet from the venerable [Jorge Castro](https://twitter.com/castrojo/status/1650569356944760836)
+
+- Retweeted by [Richard Brown](https://twitter.com/sysrich/status/1650591713419833344) — [former openSUSE Release Engineer](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/Y2UOB7TYMGL7TUTOWVELRN4VBRAVXPZI/)
+
+- Shared by the openSUSE Project
+    - [Twitter](https://twitter.com/openSUSE/status/1650724872941719558)
+    - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7056491482190344192/)
+    - [Facebook](https://www.facebook.com/en.openSUSE/posts/pfbid02k33pcC7pw8AZ4pttYrK6wUzgGMMr5fpfxU11tx5v4aoQvUy5MdhGKTdA8Latvs8Nl)
