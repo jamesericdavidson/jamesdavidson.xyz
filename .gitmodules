@@ -6,4 +6,4 @@
 	url = https://codeberg.org/jamesericdavidson/pip-calculator.git
 [submodule "themes/gokarna"]
 	path = themes/gokarna
-	url = https://codeberg.org/jamesericdavidson/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git

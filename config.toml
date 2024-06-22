@@ -46,6 +46,16 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
   # String that appears at the bottom of the Home page
   footer = "James Davidson"
 
+ # Accent color is displayed when you hover over <a> tags
+ # Default is #FF4D4D
+ # accentColor = "#FF4D4D"
+
+  # Display "back to top" button on posts
+  ShowBackToTopButton = true
+
+  # For valid date strings see: https://pkg.go.dev/time#pkg-constants
+  dateFormat = "2006-01-02"
+
 [menu]
 
   [[menu.main]]
