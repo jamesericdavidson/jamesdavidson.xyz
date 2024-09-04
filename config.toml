@@ -32,7 +32,7 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
   metaKeywords = ["linux", "privacy", "cybersecurity"]
 
   # String that appears on the Home page, below the Title
-  description = "Linux and Cybersecurity Enthusiast"
+  description = "The radio presenter with a voice for print"
 
   # Icons that appear on the Home page, below the Description
   socialIcons = [
@@ -117,18 +117,3 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
     startLevel = 1
     endLevel = 3
     ordered = false
-
-[privacy]
-  [privacy.disqus]
-    disable = true
-  [privacy.googleAnalytics]
-    disable = true
-  [privacy.instagram]
-    disable = true
-  [privacy.twitter]
-    disable = true
-  [privacy.vimeo]
-    disable = true
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = true
