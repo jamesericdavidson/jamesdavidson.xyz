@@ -333,17 +333,15 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-# jamesdavidson.xyz (2022)
+# jamesdavidson.xyz (2022-)
 
 {{< figure src="/images/gokarna.jpg" link="https://unsplash.com/photos/MyCKTYn9A78" target="\_blank" alt="" attr="Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna)." >}}
 
 ## Synopsis
 
-jamesdavidson.xyz is the latest iteration of my personal website. It is under active development, including content and [a fork of the website theme](https://codeberg.org/jamesericdavidson/gokarna) to add more features.
-
 The project uses the [Hugo](https://gohugo.io/) static site generator.
 
-Theme code is licensed under the GNU General Public License v3.0.
+The [Gokarna](https://github.com/526avijitgupta/gokarna) theme is licensed under the GNU General Public License v3.0.
 
 Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/the-linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
@@ -353,7 +351,11 @@ Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Int
 
 ### Framework
 
-I decided to use the Hugo framework for three reasons. To abstract away the design process, simplify content creation, and adopt a mature platform with good documentation.
+I decided to use the Hugo framework for three reasons:
+
+- To abstract away the design process
+- Simplify content creation
+- Adopt a mature platform (with good documentation)
 
 A content management system such as WordPress is feature-rich, but complex. I don't need a graphical user interface or WYSIWYG editor, only a theme. The fewer dependencies and less code complexity, the better.
 
@@ -361,14 +363,14 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
-I've made modifications to Gokarna, including pull requests merged upstream:
+I've [made modifications to Gokarna](https://codeberg.org/jamesericdavidson/gokarna), including pull requests merged upstream:
 
-- [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)
-- [Link to the previous and next post chronologically at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
+- ~~[Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)~~
+- [Link to the previous and next post (chronologically) at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
-- Display a Licence Header in the footer
-- Show the date a post was last modified
-- Infer accurate copyright dates programmatically
+- Display a Licence Header in the page footer
+- ~~Show the date a post was last modified~~
+- Programmatically infer accurate copyright dates
 
 ## Credits
 
