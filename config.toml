@@ -19,6 +19,11 @@ pygmentsStyle = "dracula"
 # Add a license header to the footer
 copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
 
+# Disable RSS (broken by Hugo v0.134.x)
+disableKinds = [
+    "RSS",
+    ]
+
 [params]
 
   avatarURL = "/images/avatar.jpg"
@@ -105,12 +110,6 @@ copyright = "Content is licensed under the [Creative Commons Attribution-NoDeriv
     weight = 98
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
-
-  [[menu.main]]
-    identifier = "RSS"
-    url = "/index.xml"
-    weight = 99
-    pre = "<span data-feather='rss'></span>"
 
 [markup]
   [markup.tableOfContents]
