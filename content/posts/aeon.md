@@ -3,7 +3,7 @@ aliases:
     - "opensuse-microos-desktop-is-the-future-of-linux"
 date: 2023-04-02
 description: "This post is immutable, I want you to read only"
-lastmod: 2023-06-03
+lastmod: 2024-09-09
 showTableOfContents: true
 slug: "opensuse-aeon-is-the-future-of-linux"
 tags: ["linux", "openSUSE", "aeon", "immutable"]
@@ -22,11 +22,9 @@ openSUSE Aeon provides the Chromebook experience, on Linux.
 
 What advantages does this approach have?
 
-{{< youtube id="vZ1LRe_foJY" title="The Cloud Native Linux Desktop Model" >}}
-
 ## Sandboxed
 
-[Apps are isolated from each other](https://docs.flatpak.org/en/latest/basic-concepts.html), and the rest of the system.
+[Apps are isolated from each other](https://docs.flatpak.org/en/latest/basic-concepts.html#sandboxes), and the rest of the system.
 
 You decide whether an app should be allowed to access your files, the internet, or your webcam.
 
@@ -56,7 +54,7 @@ All seamlessly integrated into Aeon.
 
 # Apps
 
-When installing apps, you will want to use [this order of preference](https://en.opensuse.org/Portal:Aeon#Ways_to_Install_Applications_in_Order_of_Preference):
+When installing apps, you will want to use this order of preference:
 
 1. Install device drivers with Transactional Update
 2. Install graphical apps from GNOME Software
