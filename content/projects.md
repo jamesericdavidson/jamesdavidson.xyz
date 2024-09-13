@@ -1,6 +1,6 @@
 ---
 date: 2022-08-02
-lastmod: 2023-01-09
+lastmod: 2024-09-09
 showTableOfContents: true
 slug: "projects"
 title: "Projects"
