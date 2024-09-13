@@ -45,7 +45,6 @@ disableKinds = [
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
-    {name = "rss", url = "/index.xml"},
   ]
 
   # String that appears at the bottom of the Home page
