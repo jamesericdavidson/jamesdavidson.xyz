@@ -76,15 +76,21 @@ disableKinds = [
     pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
+    name = "Radio"
+    url = "/radio-show-archive/"
+    weight = 3
+    pre = "<span data-feather='mic'></span>"
+
+  [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 3
+    weight = 4
     pre = "<span data-feather='code'></span>"
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
+    weight = 5
     pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
