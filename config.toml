@@ -69,27 +69,27 @@ disableKinds = [
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
-    pre = "<span data-feather='book'></span>"
-
-  [[menu.main]]
     name = "Radio"
     url = "/radio-show-archive/"
-    weight = 3
+    weight = 2
     pre = "<span data-feather='mic'></span>"
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 4
+    pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 4
+    weight = 5
     pre = "<span data-feather='code'></span>"
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
+    weight = 6
     pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
@@ -106,13 +106,13 @@ disableKinds = [
 
   [[menu.main]]
     identifier = "GitHub"
-    weight = 30
+    weight = 21
     url = "https://github.com/jamesericdavidson"
     pre = "<span data-feather='github'></span>"
 
   [[menu.main]]
     identifier = "Email"
-    weight = 98
+    weight = 99
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
