@@ -1,22 +1,22 @@
 ---
 date: 2024-09-13
-lastmod: 2024-09-13
+lastmod: 2024-09-16
 showTableOfContents: true
 slug: "radio-show-archive"
 title: "Radio Show Archive"
 type: "page"
 ---
 
-# Downloading from Mixcloud
+# JD the DJ Shows
 
-I recommend using [`yt-dlp`](https://github.com/yt-dlp/yt-dlp/releases) (or a frontend, such as [`tartube`](https://github.com/axcore/tartube/releases)) to download shows from Mixcloud, so you can listen to them offline.
+## 2024-09-12: Big Band
 
-# Radio Shows (2024)
+An extravaganza of big band and swing music from the 40s, 50s, and 60s.
 
-## September 12th (2024-09-12)
+Delight in two hours of the classics, featuring Frank Sinatra, Peggy Lee, Dean Martin, Nat King Cole, Bing Crosby, Glenn Miller, and Bobby Darin.
 
-An extravaganza of big band and swing from the 40s, 50s, and 60s.
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-120924/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/3KaivKAutRo8vVw1NybAIu?si=e2beb12b8369413b).
 
-Enjoy two hours of the classics. Featuring the likes of Frank Sinatra, Peggy Lee, Dean Martin, Nat King Cole, Bing Crosby, Glenn Miller, and Bobby Darin.
+# Offline Listening
 
-[Listen here](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-120924/).
+I recommend using [`yt-dlp`](https://github.com/yt-dlp/yt-dlp/releases) (or a frontend, such as [`tartube`](https://github.com/axcore/tartube/releases)) to download shows from Mixcloud.
