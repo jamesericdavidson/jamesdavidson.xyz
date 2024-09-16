@@ -17,7 +17,7 @@ enableRobotsTXT = true
 pygmentsStyle = "dracula"
 
 # Add a license header to the footer
-copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
+#copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
 
 # Disable RSS (broken by Hugo v0.134.x)
 disableKinds = [
