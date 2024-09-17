@@ -1,6 +1,6 @@
 ---
 date: 2022-08-02
-lastmod: 2024-09-09
+lastmod: 2024-09-17
 showTableOfContents: true
 slug: "projects"
 title: "Projects"
@@ -9,7 +9,7 @@ type: "page"
 
 # Introduction
 
-This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological order.
+This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological (date descending) order.
 
 I provide comments on:
 
@@ -26,221 +26,104 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 Jump to the project which interests you the most.
 
-[Map Symbols](#map-symbols-2016)
-: Match the Ordnance Survey map symbol shown to the corresponding button
+[jimbOS](#jimbos-2024)
+: A custom Universal Blue image, derived from Fedora Silverblue
 
-[Mastermind](#mastermind-201718)
-: A code-breaking game for two players
+[jamesdavidson.xyz](#jamesdavidsonxyz-2022-2024)
+: Learn about what I do
 
-[Hire Car Maintenance Inc](#hire-car-maintenance-inc-201718)
-: A graphical user interface application for hire car companies
+[dotfiles](#dotfiles-2018-2021)
+: Configuration files and scripts for Debian GNU/Linux systems
 
 [Pip Calculator](#guild-wars-2-pip-calculator-2018)
 : Estimate the time it will take complete divisions in World vs World
 
-[dotfiles](#dotfiles-2020)
-: Configuration files and scripts for Debian GNU/Linux systems
+[Hire Car Maintenance Inc](#hire-car-maintenance-inc-201718)
+: A graphical user interface application for hire car companies
 
-[jamesdavidson.xyz](#jamesdavidsonxyz-2022)
-: Learn about what I do
+[Mastermind](#mastermind-201718)
+: A code-breaking game for two players
+
+[Map Symbols](#map-symbols-2016)
+: Match the Ordnance Survey map symbol shown to the corresponding button
 
 # Demos
 
 Try the demos from the browser.
 
-| [Map Symbols](/demos/map-symbols) | [Pip Calculator](/demos/pip-calculator) |
+| [Pip Calculator](/demos/pip-calculator) | [Map Symbols](/demos/map-symbols) |
 | ----------- | -------------- |
-| [![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols/) | [![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.png)](/demos/pip-calculator/) |
+| [![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.png)](/demos/pip-calculator/) | [![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols/) |
 
-# Map Symbols (2016)
+# jimbOS (2024)
 
-{{< figure src="/images/ordnance-survey-maps.jpg" link="https://unsplash.com/photos/Nfgy5Jbbrf8" target="\_blank" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey)." >}}
+{{< figure src="/images/bluefin-autumn.jpeg" link="https://universal-blue.discourse.group/t/dinosaur-gallery/18/4" target="\_blank" alt="Artwork of dinosaurs in a wooded forest. The image is tinted red to reflect autumn colours." attr="Image provided courtesy of the Universal Blue project." >}}
 
 ## Synopsis
 
-My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
+jimbOS employs a light-touch approach to customising the Linux desktop. It uses the [Bluefin](https://projectbluefin.io/) image provided by [Universal Blue](https://universal-blue.org/) as a base, and makes modifications as per my preferences.
 
-[View the source code](https://codeberg.org/jamesericdavidson/soft051-map-symbols/).
+The cloud native model afforded by Universal Blue sidesteps the issues of:
 
-The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
+- Snowflake systems (a uniquely composed operating system which is difficult to replicate)
+- Configuration management (a la Ansible playbooks)
+- Package manager conflicts
+- And so on...
 
-It is licensed using the Apache License 2.0.
+Universal Blue is derived from [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/), and inherits the benefits of immutable and atomic systems (some of which are detailed in my '[openSUSE Aeon is the future of Linux](/posts/opensuse-aeon-is-the-future-of-linux/)' article).
 
-## Demonstration
+jimbOS, Bluefin, and Universal Blue are licensed using the Apache License 2.0.
 
-Why not play from the browser and see for yourself?
-
-| [Play Map Symbols](/demos/map-symbols) |
-| ----------- |
-| [![Screenshot of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols) |
-
-## Retrospective
-
-To win the game, the user must have five correct answers on the scoreboard.
-
-* The symbol shown must be pseudo-randomly generated
-
-    The `Math.Random()` function is used to assign a number between `1` and `10` to `Num`, which is used to select a symbol from `imgArray`.
-
-    To avoid a symbol being repeated immediately, the value of `Num` is assigned to `PreviousNum`. If the values in both variables are equal, `RandNum()` assigns a new number to `Num`, until `Num` and `PreviousNum` are no longer equal.
-
-* A star must be "turned on" when a correct answer is given
-
-    A new game begins with all five stars "turned off". The game is won when they are all "turned on".
-
-    Each button fires an `onClick()` event to the `CheckAnswer()` function, which passes the `id` variable.
-
-    The values of `id` and `Num` are compared:
-
-    - If they are equal, the answer is correct
-    - Else, the answer is incorrect
-
-* A corresponding sound and message should be used whenever an answer is given
-
-    Example of a correct answer:
-
-    ![The message "Well done!" is displayed](/images/map-symbols-correct.png)
-
-    Example of an incorrect answer:
-
-    ![The message "The correct answer is..." is displayed](/images/map-symbols-incorrect.png)
-    
-    The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
+[View the source code](https://github.com/jamesericdavidson/jimbOS-bluefin-dx).
 
 ## Credits
 
-The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
+I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.com/) and the [Universal Blue project](https://universal-blue.org/) for developing the infrastructure, images, documentation, and other tools responsible for enabling the cloud native model to thrive on desktop.
 
-# Mastermind (2017/18)
+# jamesdavidson.xyz (2022-2024)
 
-## Synopsis
-
-Written in the 2017/18 academic year using C#. Compatible with .NET and Mono.
-
-[View the source code](https://codeberg.org/jamesericdavidson/soft164-mastermind).
-
-Mastermind is a code-breaking game for two players.
-
-It is licensed using the Apache License 2.0.
-
-## Retrospective
-
-There were two stipulations for the design of this project:
-
-- Write a console application, not a graphical user interface
-- Avoid features of C# which are not available in C
-
-![Screenshot demonstration of playing Mastermind](/images/mastermind-demo.png)
-
-The user defines the number of positions and colours, then plays against a randomly generated pattern.
-
-The program is resilient to input errors, checking whether values are numeric and within bounds.
-
-The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
-
-# Hire Car Maintenance Inc (2017/18)
-
-{{< figure src="/images/avis.jpg" link="https://unsplash.com/photos/PujiL9mZWNM" target="\_blank" alt="" attr="Photo by [Abhishek Umrao](https://unsplash.com/@abhishekumrao) on [Unsplash](https://unsplash.com/s/photos/avis)" >}}
+{{< figure src="/images/gokarna.jpg" link="https://unsplash.com/photos/MyCKTYn9A78" target="\_blank" alt="" attr="Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna)." >}}
 
 ## Synopsis
 
-Written in the 2017/18 academic year, using C# and .NET WinForms.
+The project uses the [Hugo](https://gohugo.io/) static site generator.
 
-[View the source code](https://codeberg.org/jamesericdavidson/soft151-hire-car-maintenance-inc).
+The [Gokarna](https://github.com/526avijitgupta/gokarna) theme is licensed under the GNU General Public License v3.0.
 
-Hire Car Maintenance Inc serves as an introduction to object-oriented programming.
+Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/the-linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
-It is licensed using the Apache License 2.0.
+[View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
 
 ## Retrospective
 
-`input.txt` is parsed to create classes and objects at runtime. Changes made using the interface are saved persistently.
+### Framework
 
-The interface was designed using Windows Forms Designer.
+I decided to use the Hugo framework for three reasons:
 
-![Screenshot demonstration of Hire Car Maintenance Inc](/images/soft151-demo-1.png)
+- To abstract away the design process
+- Simplify content creation
+- Adopt a mature platform (with good documentation)
 
-As seen above, the user is able to:
+A content management system such as WordPress is feature-rich, but complex. I don't need a graphical user interface or WYSIWYG editor, only a theme. The fewer dependencies and less code complexity, the better.
 
-- Search for companies and cars
-- Add, remove or edit companies and cars
+### Theme
 
-![Screenshot demonstration of the search bar functionality in Hire Car Maintenance Inc](/images/soft151-demo-2.png)
+I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
+
+I've [made modifications to Gokarna](https://codeberg.org/jamesericdavidson/gokarna), including pull requests merged upstream:
+
+- ~~[Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)~~
+- [Link to the previous and next post (chronologically) at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
+- [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
+- Display a Licence Header in the page footer
+- ~~Show the date a post was last modified~~
+- Programmatically infer accurate copyright dates
 
 ## Credits
 
-Once again, I had the pleasure of learning from Liz Stuart.
+Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
 
-# Guild Wars 2 Pip Calculator (2018)
-
-{{< figure src="/images/guild-wars-2.jpg" link="https://www.guildwars2.com/en/media/screenshots/" target="\_blank" alt="A screenshot of Guild Wars 2, depicting three players in the World versus World game mode" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
-
-## Synopsis
-
-For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
-
-A reward system was introduced into the game, which awarded player "pips" at five minutes intervals. The more pips a player receives, the faster they chip away at the total number of pips required to complete a tier.
-
-The calculator estimates how long it would take a player to receive the rewards given upon the completion of a tier.
-
-I was motivated to develop the tool as:
-
-1. I wanted to use the functionality, and be able to share it with my friends
-
-    It turns out that doing these calculations manually is boring. Who knew?
-
-2. A similar tool had not yet been publicly announced
-
-    The project had its first commit in September 2018, though it was functional from an earlier date.
-
-    Since that time, at least two comparable tools are available. See the [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Special:RunQuery/WvW_skirmish_pip_query?) and [LimitlessFX](https://gw2.limitlessfx.com/wvw/pips.php).
-
-Much like [Map Symbols](#map-symbols-synopsis), this project was written using HTML, CSS and JavaScript.
-
-It is licensed using the Apache License 2.0.
-
-[View the source code](https://codeberg.org/jamesericdavidson/pip-calculator).
-
-## Demonstration
-
-Try it, directly in the browser.
-
-| [Calculate Pips](/demos/pip-calculator) |
-| --------------------------------------- |
-| [![Screenshot of the Pip Calculator](/images/pip-calculator-demo.png "9 hours and 46 minutes? Ain't nobody got time for that!")](/demos/pip-calculator) |
-
-## Retrospective
-
-### Appearance
-
-Pip Calculator is functional, but not beautiful.
-
-It is naively responsive, using the `viewport` meta tag, and `max-width` body property.
-
-### Functionality
-
-The user enters a number of pips, optionally selects a tier to stop at, and is presented with the results.
-
-Input is sanitised:
-
-- `isNumberKey()`: The keys pressed must be between 0 and 9
-- `isNumberAllowed()`: The value must be between 3 and 19
-
-To ensure hours and minutes are displayed with or without plurals as appropriate, the `getCaseSwitch()` function is used to determine which strings should be used, using the values of `hours` and `minutes`.
-
-### Flaws
-
-The total time given is not equal to the additive time of each tier.
-
-Tiers are presented with floored hours and rounded minutes. However, the decimal values of each tier are retained when adding `timeToTier` to `totalTime`.
-
-Only after every tier is calculated does `totalTime` have its hours floored and minutes rounded. This results in the total time being longer.
-
-## Credits
-
-After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
-
-# dotfiles (2020)
+# dotfiles (2018-2021)
 
 {{< figure src="/images/tux-flat.png" link="https://www.deviantart.com/qubodup/art/Tux-Flat-SVG-607655623" target="\_blank" alt="Artwork depicting the Linux mascot, Tux" attr="Tux Flat is licensed under the GNU General Public License v2.0 or later." >}}
 
@@ -333,45 +216,190 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-# jamesdavidson.xyz (2022-)
+# Guild Wars 2 Pip Calculator (2018)
 
-{{< figure src="/images/gokarna.jpg" link="https://unsplash.com/photos/MyCKTYn9A78" target="\_blank" alt="" attr="Photo by [Raman Choudhary](https://unsplash.com/@codians) on [Unsplash](https://unsplash.com/s/photos/gokarna)." >}}
+{{< figure src="/images/guild-wars-2.jpg" link="https://www.guildwars2.com/en/media/screenshots/" target="\_blank" alt="A screenshot of Guild Wars 2, depicting three players in the World versus World game mode" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
 
 ## Synopsis
 
-The project uses the [Hugo](https://gohugo.io/) static site generator.
+For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
 
-The [Gokarna](https://github.com/526avijitgupta/gokarna) theme is licensed under the GNU General Public License v3.0.
+A reward system was introduced into the game, which awarded player "pips" at five minutes intervals. The more pips a player receives, the faster they chip away at the total number of pips required to complete a tier.
 
-Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/the-linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+The calculator estimates how long it would take a player to receive the rewards given upon the completion of a tier.
 
-[View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
+I was motivated to develop the tool as:
+
+1. I wanted to use the functionality, and be able to share it with my friends
+
+    It turns out that doing these calculations manually is boring. Who knew?
+
+2. A similar tool had not yet been publicly announced
+
+    The project had its first commit in September 2018, though it was functional from an earlier date.
+
+    Since that time, at least two comparable tools are available. See the [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Special:RunQuery/WvW_skirmish_pip_query?) and [LimitlessFX](https://gw2.limitlessfx.com/wvw/pips.php).
+
+Much like [Map Symbols](#map-symbols-synopsis), this project was written using HTML, CSS and JavaScript.
+
+It is licensed using the Apache License 2.0.
+
+[View the source code](https://codeberg.org/jamesericdavidson/pip-calculator).
+
+## Demonstration
+
+Try it, directly in the browser.
+
+| [Calculate Pips](/demos/pip-calculator) |
+| --------------------------------------- |
+| [![Screenshot of the Pip Calculator](/images/pip-calculator-demo.png "9 hours and 46 minutes? Ain't nobody got time for that!")](/demos/pip-calculator) |
 
 ## Retrospective
 
-### Framework
+### Appearance
 
-I decided to use the Hugo framework for three reasons:
+Pip Calculator is functional, but not beautiful.
 
-- To abstract away the design process
-- Simplify content creation
-- Adopt a mature platform (with good documentation)
+It is naively responsive, using the `viewport` meta tag, and `max-width` body property.
 
-A content management system such as WordPress is feature-rich, but complex. I don't need a graphical user interface or WYSIWYG editor, only a theme. The fewer dependencies and less code complexity, the better.
+### Functionality
 
-### Theme
+The user enters a number of pips, optionally selects a tier to stop at, and is presented with the results.
 
-I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
+Input is sanitised:
 
-I've [made modifications to Gokarna](https://codeberg.org/jamesericdavidson/gokarna), including pull requests merged upstream:
+- `isNumberKey()`: The keys pressed must be between 0 and 9
+- `isNumberAllowed()`: The value must be between 3 and 19
 
-- ~~[Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)~~
-- [Link to the previous and next post (chronologically) at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
-- [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
-- Display a Licence Header in the page footer
-- ~~Show the date a post was last modified~~
-- Programmatically infer accurate copyright dates
+To ensure hours and minutes are displayed with or without plurals as appropriate, the `getCaseSwitch()` function is used to determine which strings should be used, using the values of `hours` and `minutes`.
+
+### Flaws
+
+The total time given is not equal to the additive time of each tier.
+
+Tiers are presented with floored hours and rounded minutes. However, the decimal values of each tier are retained when adding `timeToTier` to `totalTime`.
+
+Only after every tier is calculated does `totalTime` have its hours floored and minutes rounded. This results in the total time being longer.
 
 ## Credits
 
-Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
+After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
+
+# Hire Car Maintenance Inc (2017/18)
+
+{{< figure src="/images/avis.jpg" link="https://unsplash.com/photos/PujiL9mZWNM" target="\_blank" alt="" attr="Photo by [Abhishek Umrao](https://unsplash.com/@abhishekumrao) on [Unsplash](https://unsplash.com/s/photos/avis)" >}}
+
+## Synopsis
+
+Written in the 2017/18 academic year, using C# and .NET WinForms.
+
+[View the source code](https://codeberg.org/jamesericdavidson/soft151-hire-car-maintenance-inc).
+
+Hire Car Maintenance Inc serves as an introduction to object-oriented programming.
+
+It is licensed using the Apache License 2.0.
+
+## Retrospective
+
+`input.txt` is parsed to create classes and objects at runtime. Changes made using the interface are saved persistently.
+
+The interface was designed using Windows Forms Designer.
+
+![Screenshot demonstration of Hire Car Maintenance Inc](/images/soft151-demo-1.png)
+
+As seen above, the user is able to:
+
+- Search for companies and cars
+- Add, remove or edit companies and cars
+
+![Screenshot demonstration of the search bar functionality in Hire Car Maintenance Inc](/images/soft151-demo-2.png)
+
+## Credits
+
+Once again, I had the pleasure of learning from Liz Stuart.
+
+# Mastermind (2017/18)
+
+## Synopsis
+
+Written in the 2017/18 academic year using C#. Compatible with .NET and Mono.
+
+[View the source code](https://codeberg.org/jamesericdavidson/soft164-mastermind).
+
+Mastermind is a code-breaking game for two players.
+
+It is licensed using the Apache License 2.0.
+
+## Retrospective
+
+There were two stipulations for the design of this project:
+
+- Write a console application, not a graphical user interface
+- Avoid features of C# which are not available in C
+
+![Screenshot demonstration of playing Mastermind](/images/mastermind-demo.png)
+
+The user defines the number of positions and colours, then plays against a randomly generated pattern.
+
+The program is resilient to input errors, checking whether values are numeric and within bounds.
+
+The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
+
+# Map Symbols (2016)
+
+{{< figure src="/images/ordnance-survey-maps.jpg" link="https://unsplash.com/photos/Nfgy5Jbbrf8" target="\_blank" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/@drewjohncollins) on [Unsplash](https://unsplash.com/s/photos/ordnance-survey)." >}}
+
+## Synopsis
+
+My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
+
+[View the source code](https://codeberg.org/jamesericdavidson/soft051-map-symbols/).
+
+The goal of the game is to match the Ordnance Survey map symbol shown to the corresponding button.
+
+It is licensed using the Apache License 2.0.
+
+## Demonstration
+
+Why not play from the browser and see for yourself?
+
+| [Play Map Symbols](/demos/map-symbols) |
+| ----------- |
+| [![Screenshot of Map Symbols](/images/map-symbols-demo.png)](/demos/map-symbols) |
+
+## Retrospective
+
+To win the game, the user must have five correct answers on the scoreboard.
+
+* The symbol shown must be pseudo-randomly generated
+
+    The `Math.Random()` function is used to assign a number between `1` and `10` to `Num`, which is used to select a symbol from `imgArray`.
+
+    To avoid a symbol being repeated immediately, the value of `Num` is assigned to `PreviousNum`. If the values in both variables are equal, `RandNum()` assigns a new number to `Num`, until `Num` and `PreviousNum` are no longer equal.
+
+* A star must be "turned on" when a correct answer is given
+
+    A new game begins with all five stars "turned off". The game is won when they are all "turned on".
+
+    Each button fires an `onClick()` event to the `CheckAnswer()` function, which passes the `id` variable.
+
+    The values of `id` and `Num` are compared:
+
+    - If they are equal, the answer is correct
+    - Else, the answer is incorrect
+
+* A corresponding sound and message should be used whenever an answer is given
+
+    Example of a correct answer:
+
+    ![The message "Well done!" is displayed](/images/map-symbols-correct.png)
+
+    Example of an incorrect answer:
+
+    ![The message "The correct answer is..." is displayed](/images/map-symbols-incorrect.png)
+    
+    The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
+
+## Credits
+
+The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.
