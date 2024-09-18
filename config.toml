@@ -14,7 +14,7 @@ title = "James Davidson"
 enableRobotsTXT = true
 
 # Syntax highlighting style
-pygmentsStyle = "dracula"
+pygmentsStyle = "hr_high_contrast"
 
 # Add a license header to the footer
 #copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
