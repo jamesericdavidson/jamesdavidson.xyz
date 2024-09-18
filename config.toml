@@ -24,6 +24,10 @@ disableKinds = [
     "RSS",
     ]
 
+[minify]
+
+  minifyOutput = true
+
 [params]
 
   avatarURL = "/images/avatar.webp"
