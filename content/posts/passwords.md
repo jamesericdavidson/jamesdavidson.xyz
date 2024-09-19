@@ -3,7 +3,7 @@ aliases:
     - "/posts/passwords-suck/"
 date: 2022-12-19
 description: "This password must contain least eight letters and one capital? MickeyMinniePlutoHueyLouieDeweyDonaldGoofySacramento."
-lastmod: 2022-12-21
+lastmod: 2024-09-19
 showTableOfContents: true
 slug: "stop-reusing-passwords"
 tags: ["cybersecurity", "passwords", "KeePass"]
@@ -21,7 +21,7 @@ Unsurprisingly, `password` became `P455w0rd!`. This increase in complexity trans
 
 The irony is that a password consisting of random words is stronger and more memorable, as depicted in the following comic:
 
-{{< figure src="/images/password-strength.png" alt="A comic depicting the flaws with the password 'Tr0ub4dor&3', in contrast to a passphrase comprised of four random words: 'correct horse battery staple'." attr="[Password Strength](https://xkcd.com/936) by [Randall Munroe](https://xkcd.com/about/) is licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)." >}}
+{{< figure src="/images/password-strength.webp" alt="A comic depicting the flaws with the password 'Tr0ub4dor&3', in contrast to a passphrase comprised of four random words: 'correct horse battery staple'." attr="[Password Strength](https://xkcd.com/936) by [Randall Munroe](https://xkcd.com/about/) is licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)." >}}
 
 So, if passwords aren't dead yet, what can you do to secure your accounts and devices?
 
@@ -50,7 +50,7 @@ If a password must have a minimum or maximum length, capital letters or symbols,
 
 In this example, using KeePassXC:
 
-{{< figure src="/images/password-generator.png" alt="A screenshot of KeePassXC's Password Generator, showing Length and Character Types options." caption="Change the length and permitted characters as required." >}}
+{{< figure src="/images/password-generator.webp" alt="A screenshot of KeePassXC's Password Generator, showing Length and Character Types options." caption="Change the length and permitted characters as required." >}}
 
 Services are increasingly allowing longer passwords without complexity requirements. In these cases, you may prefer to generate passphrases over passwords, to make them easier to type.
 

@@ -2,6 +2,7 @@
 aliases:
     - "/posts/arkenfox/"
 date: 2022-09-07
+lastmod: 2024-09-19
 description: "Curb the Chromium monopoly"
 showTableOfContents: true
 slug: "supercharge-the-privacy-and-security-of-desktop-firefox"
@@ -152,7 +153,7 @@ For example:
 
 80% of desktop browsers are based on Chromium[^browser-market-share-in-2022] (including Edge[^edge-uses-chromium] and Opera[^opera-uses-chromium]). We're in danger of losing the only modern alternative to Google's browser monoculture.
 
-{{< figure src="/images/StatCounter-202107-202207.png" alt="A line graph captioned 'Desktop Browser Market Share Worldwide from July 2021 - July 2022'" >}}[^browser-market-share-in-2022]
+{{< figure src="/images/StatCounter-202107-202207.webp" alt="A line graph captioned 'Desktop Browser Market Share Worldwide from July 2021 - July 2022'" >}}[^browser-market-share-in-2022]
 
 It's time to [switch to Firefox](https://support.mozilla.org/en-US/kb/switching-chrome-firefox).
 

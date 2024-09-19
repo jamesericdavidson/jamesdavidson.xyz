@@ -3,7 +3,7 @@ aliases:
     - "opensuse-microos-desktop-is-the-future-of-linux"
 date: 2023-04-02
 description: "This post is immutable, I want you to read only"
-lastmod: 2024-09-09
+lastmod: 2024-09-19
 showTableOfContents: true
 slug: "opensuse-aeon-is-the-future-of-linux"
 tags: ["linux", "openSUSE", "aeon", "immutable"]
@@ -133,7 +133,7 @@ distrobox-export --app nvim-gtk
 
 The app will then appear in the list of applications:
 
-{{< figure src="/images/neovim-gtk-on-distrobox.png" alt="Screenshot of the GNOME applications list - the search box contains the word 'neovim'" caption="Apps installed in a container are indistinguishable from apps installed with GNOME Software." >}}
+{{< figure src="/images/neovim-gtk-on-distrobox.webp" alt="Screenshot of the GNOME applications list - the search box contains the word 'neovim'" caption="Apps installed in a container are indistinguishable from apps installed with GNOME Software." >}}
 
 ### Exporting
 
