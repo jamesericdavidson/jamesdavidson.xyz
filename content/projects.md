@@ -1,6 +1,6 @@
 ---
 date: 2022-08-02
-lastmod: 2024-09-17
+lastmod: 2024-09-19
 showTableOfContents: true
 slug: "projects"
 title: "Projects"
@@ -9,7 +9,7 @@ type: "page"
 
 # Introduction
 
-This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological (date descending) order.
+This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological order.
 
 I provide comments on:
 
@@ -30,13 +30,13 @@ Jump to the project which interests you the most.
 : A custom Universal Blue image, derived from Fedora Silverblue
 
 [jamesdavidson.xyz](#jamesdavidsonxyz-2022-2024)
-: Learn about what I do
+: You are here!
 
 [dotfiles](#dotfiles-2018-2021)
 : Configuration files and scripts for Debian GNU/Linux systems
 
 [Guild Wars 2 Pip Calculator](#guild-wars-2-pip-calculator-2018)
-: Estimate the time it will take complete divisions in World vs World
+: Estimate the time it will take complete divisions in the World vs World game mode
 
 [Hire Car Maintenance Inc](#hire-car-maintenance-inc-201718)
 : A graphical user interface application for hire car companies
@@ -82,7 +82,7 @@ I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.c
 
 # jamesdavidson.xyz (2022-2024)
 
-{{< figure src="/images/gokarna.webp" alt="An aerial photograph of Gokarna's Paradise Beach, taken during the daytime. Beachgoers and boats can be seen amongst rocks, trees, and sand." attr="Photo by [Raman Choudhary](https://unsplash.com/photos/aerial-view-of-people-on-beach-during-daytime-MyCKTYn9A78) on [Unsplash](https://unsplash.com)." >}}
+{{< figure src="/images/gokarna.webp" alt="An aerial photograph of Gokarna's Paradise Beach, taken during the daytime. Beachgoers and boats can be seen amongst rocks, trees, and sand." attr="Photo by [Raman Choudhary](https://unsplash.com/photos/aerial-view-of-people-on-beach-during-daytime-MyCKTYn9A78) on [Unsplash](https://unsplash.com)" >}}
 
 ## Synopsis
 
@@ -163,7 +163,7 @@ I learned to use three types of branches for dotfiles: main, development, and \<
 
     In the past, I had experienced broken files after committing incomplete features to the development branch. This was problematic, as I lived on the development branch.
 
-    Adopting feature branches largely cured this error in judgement.
+    Adopting feature branches largely cured this faux pas.
 
 ### Code quality
 
@@ -224,13 +224,13 @@ I'm grateful to every single person who collaborated on the documentation I scou
 
 For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
 
-A reward system was introduced into the game, which awarded player "pips" at five minutes intervals. The more pips a player receives, the faster they chip away at the total number of pips required to complete a tier.
+A reward system was introduced to the game, which awarded the player with 'pips' at five-minute intervals. The more pips a player receives per interval, the faster they can complete a reward tier.
 
-The calculator estimates how long it would take a player to receive the rewards given upon the completion of a tier.
+In real-time, the calculator estimates how long it would take a player to complete reward tiers.
 
 I was motivated to develop the tool as:
 
-1. I wanted to use the functionality, and be able to share it with my friends
+1. I wanted to use the functionality, and be able to share it with friends
 
     It turns out that doing these calculations manually is boring. Who knew?
 
@@ -238,7 +238,7 @@ I was motivated to develop the tool as:
 
     The project had its first commit in September 2018, though it was functional from an earlier date.
 
-    Since that time, at least two comparable tools are available. See the [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Special:RunQuery/WvW_skirmish_pip_query?) and [LimitlessFX](https://gw2.limitlessfx.com/wvw/pips.php).
+    Since that time, at least two comparable tools have been made available. See the [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Special:RunQuery/WvW_skirmish_pip_query?) and [LimitlessFX](https://gw2.limitlessfx.com/wvw/pips.php).
 
 Much like [Map Symbols](#map-symbols-synopsis), this project was written using HTML, CSS and JavaScript.
 
