@@ -112,11 +112,11 @@ I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which
 
 I've [made modifications to Gokarna](https://codeberg.org/jamesericdavidson/gokarna), including pull requests merged upstream:
 
-- ~~[Support native front matter](https://github.com/526avijitgupta/gokarna/pull/109)~~
-- [Link to the previous and next post (chronologically) at the bottom of the page](https://github.com/526avijitgupta/gokarna/pull/124)
+- ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) by another contributor.
+- [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/119)
+- [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
 - Display a Licence Header in the page footer
-- ~~Show the date a post was last modified~~
 - Programmatically infer accurate copyright dates
 
 ## Credits
