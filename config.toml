@@ -1,68 +1,45 @@
+# https://gohugo.io/getting-started/configuration/
+
 baseURL = "https://jamesdavidson.xyz/"
+# copyright = ""
 defaultContentLanguage = "en"
+# Automatically generated RSS was broken by Hugo v0.134.x
+disableKinds = "RSS"
+enableEmoji = "true"
+enableGitInfo = true
+enableRobotsTXT = true
 languageCode = "en"
 theme = "gokarna"
-
-# Enable emoji shortcodes
-# https://gohugo.io/functions/emojify/
-enableEmoji = "true"
-
-# String that appears at the top of the Home page
 title = "James Davidson"
 
-# Automatically generate robots.txt
-enableRobotsTXT = true
-
-# Syntax highlighting style
-pygmentsStyle = "hr_high_contrast"
-
-# Add a license header to the footer
-#copyright = "Content is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/), unless otherwise specified."
-
-# Disable RSS (broken by Hugo v0.134.x)
-disableKinds = [
-    "RSS",
-    ]
-
 [minify]
-
+  # https://gohugo.io/getting-started/configuration/#configure-minify
+  # https://gohugo.io/hugo-pipes/minification/
   minifyOutput = true
 
 [params]
 
-  avatarURL = "/images/avatar.webp"
+  # https://gohugo.io/methods/site/params/
+  # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
+  # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
+
+  ShowBackToTopButton = true
   avatarSize = "size-s"
-
+  avatarURL = "/images/avatar.webp"
+  dateFormat = "2006-01-02"
+  description = "The radio presenter with a voice for print"
+  footer = "James Davidson"
+  metaKeywords = ["linux", "privacy", "cybersecurity"]
+  pygmentsStyle = "hr_high_contrast"
   showPostsOnHomePage = "recent"
-
   togglePreviousAndNextButtons = "true"
 
-  # SEO keywords
-  metaKeywords = ["linux", "privacy", "cybersecurity"]
-
-  # String that appears on the Home page, below the Title
-  description = "The radio presenter with a voice for print"
-
-  # Icons that appear on the Home page, below the Description
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
   ]
-
-  # String that appears at the bottom of the Home page
-  footer = "James Davidson"
-
- # Accent color is displayed when you hover over <a> tags
- # Default is #FF4D4D
- # accentColor = "#FF4D4D"
-
-  # Display "back to top" button on posts
-  ShowBackToTopButton = true
-
-  # For valid date strings see: https://pkg.go.dev/time#pkg-constants
-  dateFormat = "2006-01-02"
 
 [menu]
 
