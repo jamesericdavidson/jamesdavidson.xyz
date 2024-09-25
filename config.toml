@@ -1,8 +1,7 @@
 # https://gohugo.io/getting-started/configuration/
 
 baseURL = "https://jamesdavidson.xyz/"
-copyright = "This work is licensed under CC BY-ND 4.0, unless otherwise stated."
-#copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0), unless otherwise stated."
+copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0), unless otherwise stated."
 defaultContentLanguage = "en"
 # Automatically generated RSS was broken by Hugo v0.134.x
 disableKinds = "RSS"
