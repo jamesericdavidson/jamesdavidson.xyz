@@ -110,14 +110,13 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
-I've [made modifications to Gokarna](https://codeberg.org/jamesericdavidson/gokarna), including pull requests merged upstream:
+I've since become [a contributor to the project](https://github.com/526avijitgupta/gokarna/graphs/contributors), and seen the following pull requests merged upstream:
 
-- ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) by another contributor.
-- [Support native front matter](https://github.com/526avijitgupta/gokarna/pull/119)
+- [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
 - [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
+- [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
+- ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) courtesy of another contributor.
 - [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
-- Display a Licence Header in the page footer
-- Programmatically infer accurate copyright dates
 
 ## Credits
 
