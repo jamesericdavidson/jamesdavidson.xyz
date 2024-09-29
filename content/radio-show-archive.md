@@ -11,7 +11,7 @@ type: "page"
 
 ## 2024-09-26: Korean Pop (featuring Maisy Webb)
 
-An hour of K-Pop, followed by my interview with Maisy Webb from Taste of Zero Waste.
+An hour of K-Pop, followed by my [interview with Maisy Webb](/interviews/#maisy-webb-taste-of-zero-waste) from Taste of Zero Waste.
 
 [Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidson-random-radio-show-260924/), then follow Taste of Zero Waste on [Facebook](https://www.facebook.com/people/Taste-of-Zero-Waste/100090100032130/) and [Instagram](https://www.instagram.com/tasteofzerowasteuk/).
 

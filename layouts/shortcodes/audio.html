@@ -1,0 +1,5 @@
+{{/* https://discourse.gohugo.io/t/playing-audio-files/21117/2 */}}
+
+<audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ .  | relURL }}" type="audio/mpeg">{{ end }}
+</audio>
