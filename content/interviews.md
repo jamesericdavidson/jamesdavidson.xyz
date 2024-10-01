@@ -1,13 +1,14 @@
 ---
 date: 2024-09-29
-#lastmod: 
+image: "/images/hotseat.webp"
+lastmod: 2024-10-01
 showTableOfContents: true
 slug: "interviews"
-title: "Interviews"
+title: "Interviews with James Davidson"
 type: "page"
 ---
 
-# Interviews with James Davidson
+{{< include "/content/index-about.md" >}}
 
 ![Desk chair in front of microphone and laptop](/images/hotseat.webp)
 

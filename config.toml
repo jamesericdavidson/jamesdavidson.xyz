@@ -23,14 +23,14 @@ title = "James Davidson"
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
 
-  ShowBackToTopButton = true
   avatarSize = "size-s"
   avatarURL = "/images/avatar.webp"
   dateFormat = "2006-01-02"
   description = "The radio presenter with a voice for print"
   footer = "James Davidson"
-  metaKeywords = ["radio", "linux", "cybersecurity", "privacy"]
+  metaKeywords = ["radio", "interviews", "linux", "cybersecurity", "privacy"]
   pygmentsStyle = "hr_high_contrast"
+  showBackToTopButton = true
   showPostsOnHomePage = "recent"
   togglePreviousAndNextButtons = "true"
 
@@ -57,7 +57,7 @@ title = "James Davidson"
 
   [[menu.main]]
     name = "Radio"
-    url = "/radio-show-archive/"
+    url = "/radio/"
     weight = 3
     pre = "<span data-feather='headphones'></span>"
 
