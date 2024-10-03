@@ -5,7 +5,7 @@ description: "It's like Git for Dummies..."
 draft: true
 showTableOfContents: true
 slug: "learn-git-from-the-terminal"
-tags: [ "git", "version control", "linux" ]
+tags: [ "git", "tutorial", "linux" ]
 title: "Learn Git: From the Terminal"
 type: "post"
 ---
