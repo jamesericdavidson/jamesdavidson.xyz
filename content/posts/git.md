@@ -16,6 +16,15 @@ Instead of learning multiple Git interfaces (with UX that can differ *greatly* f
 
 Don't go running yet! Here's how easy it is:
 
+## Concepts
+
+- `HEAD`
+    - The latest commit is equal to `HEAD~1` or `HEAD^`
+
+- `.gitignore`
+    - Git subcommands will ignore any patterns listed in this file
+    - Git will not prompt you to add untracked files if they are ignored
+
 ## Commands
 
 ### checkout
@@ -40,6 +49,7 @@ View local and remote branches, rename branches, and delete branches.
 ```sh
 # View branches
 git branch
+
 # Display the latest commit hash and commit message next to each branch
 git branch -v
 
@@ -54,15 +64,29 @@ git branch -D dev
 
 Commit changes.
 
+UNIX options can be grouped, e.g. `git commit -p -v` can be expressed as `git commit -pv`.
+
 ```sh
--m
--am
---amend
---amend --no-edit
--v
--av
--p
--pv
+# Commit staged changes, then set the commit message using GIT_EDITOR
+git commit
+
+# Set the commit message inline
+git commit -m 'chore: init'
+
+# Automatically stage modified and deleted files
+git commit -a
+
+# Use the patch interface to selectively stage file hunks
+git commit -p
+
+# Show the git diff underneath the commit message
+git commit -v
+
+# Amend commit contents, and the HEAD commit message
+git commit --amend
+
+# Amend the commit contents only
+git commit --amend --no-edit
 ```
 
 ### push
@@ -72,86 +96,185 @@ Update remote branches. Changes must be [committed](#commit) first.
 ```sh
 # Push the checked out branch
 git push
-git push --tags
+
 # Push an arbitrary branch
 git push my-pet-branch
 
 # Added the remote as origin, but not tracking the branch upstream yet?
 git push -u origin $(git branch --show-current)
+
+# Push all tags
+git push --tags
 ```
 
 ### pull
 
-### fetch
+Fetch remote branches and tags.
 
 ```sh
---all
+# Fetch changes from origin's remote tracking branch
+git pull
+
+# Fetch changes from another remote tracking branch
+git pull my-repository
+
+# Fetch remote tags
+git pull -t
 ```
 
 ### tag
 
-### rm
+Create, delete and list tags.
 
 ```sh
--r
--rf
+# List tags
+git tag
+
+# Create a tag at HEAD
+git tag v0.1.0
+
+# Create a tag at commit-id
+git tag v0.1.0 $commit-id
+
+# Delete tag
+git tag -d $tag-name
+```
+
+### rm
+
+Remove files from the index.
+
+```sh
+# Remove file
+git rm path/to/file
+
+# Recursively remove files from a directory
+git rm -r path/to/directory
+
+# Force remove file
+git rm -f
 ```
 
 ### submodule
 
+Add, remove and list submodules.
+
 ```sh
--v
-update --init --remote --recursive
-add
-init
-deinit
+# List all submodules
+git submodule
+
+# Add a submodule
+git submodule add $repository path/to/submodule
+
+# Initialise all submodules
+git submodule init
+
+# Unregister a submodule
+# Can be paired with git rm -r path/to/submodule to remove the submodule from
+# .gitmodules
+git submodule deinit path/to/submodule
+
+# Update all submodules recursively from remote, and initialise any
+# unregistered submodules
+git submodule update --init --remote --recursive
+```
+
+### add
+
+```sh
+# Stage file contents or modifications
+git add path/to/file
+
+# Recursively stage directory contents
+git add path/to/directory
+
+# Use the patch interface to selectively stage file hunks
+git add -p
 ```
 
 ### remote
 
 ```sh
--v
+# List remotes by name
+git remote
+
+# List remote URLs
+git remote -v
 ```
 
 ### rebase
 
+Rebase the git history.
+
+Useful for amending commits older than the latest commit.
+
 ```sh
--i
-# Untracked branches
--i HEAD~n
+# Interactively rebase the current branch using GIT_EDITOR
+git rebase -i
+
+# Rebase the last n commits (best used for untracked branches)
+git rebase -i HEAD~n
+
+# Rebase branch-name
+git rebase -i my-branch
 ```
 
 ### show
 
+Display the diff of the latest commit.
+
 ```sh
---oneline
+# Show long commit-id, commit author, and commit message
+git show
+
+# Show short commit-id; don't show commit author, or commit message
+git show --oneline
 ```
 
 ### log
 
+Display history for the current branch.
+
 ```sh
---oneline
--p
+# Show long commit-id, commit author, and commit message
+git log
+
+# Show git diff
+git log -p
+
+# Show short commit-id and commit message; don't show commit author
+git log --oneline
 ```
 
 ### merge
 
 ```sh
---squash
+git merge
+git merge --squash
 ```
 
 ### mv
 
+```sh
+#
+git mv
+```
+
 ### diff
 
 ```sh
---cached
+#
+git diff
+
+#
+git diff --cached
 ```
 
 ### clone
 
 ```sh
---recurse-submodules
+git clone
+git clone --recurse-submodules
 ```
 
 ### cherry-pick
@@ -190,4 +313,4 @@ cheat git
 
 Moreover, it's worth defining your Git strategy...
 
-<!-- Conventional commits, feature branches, atomic commits... -->
+<!-- Conventional commits, feature branches, atomic commits, versioning... -->
