@@ -50,6 +50,110 @@ git branch -M main
 git branch -D dev
 ```
 
+### commit
+
+Commit changes.
+
+```sh
+-m
+-am
+--amend
+--amend --no-edit
+-v
+-av
+-p
+-pv
+```
+
+### push
+
+Update remote branches. Changes must be [committed](#commit) first.
+
+```sh
+# Push the checked out branch
+git push
+git push --tags
+# Push an arbitrary branch
+git push my-pet-branch
+
+# Added the remote as origin, but not tracking the branch upstream yet?
+git push -u origin $(git branch --show-current)
+```
+
+### pull
+
+### fetch
+
+```sh
+--all
+```
+
+### tag
+
+### rm
+
+```sh
+-r
+-rf
+```
+
+### submodule
+
+```sh
+-v
+update --init --remote --recursive
+add
+init
+deinit
+```
+
+### remote
+
+```sh
+-v
+```
+
+### rebase
+
+```sh
+-i
+# Untracked branches
+-i HEAD~n
+```
+
+### show
+
+```sh
+--oneline
+```
+
+### log
+
+```sh
+--oneline
+-p
+```
+
+### merge
+
+```sh
+--squash
+```
+
+### mv
+
+### diff
+
+```sh
+--cached
+```
+
+### clone
+
+```sh
+--recurse-submodules
+```
+
 ## Putting it all together
 
 ### cherry-pick
@@ -85,3 +189,7 @@ tldr git-checkout
 # Cheat is similar to tldr, but is typically less useful for most programs
 cheat git
 ```
+
+Moreover, it's worth defining your Git strategy...
+
+<!-- Conventional commits, feature branches, atomic commits... -->
