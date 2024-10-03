@@ -16,7 +16,7 @@ Instead of learning multiple Git interfaces (with UX that can differ *greatly* f
 
 Don't go running yet! Here's how easy it is:
 
-## Common Git commands
+## Commands
 
 ### checkout
 
@@ -153,8 +153,6 @@ deinit
 ```sh
 --recurse-submodules
 ```
-
-## Putting it all together
 
 ### cherry-pick
 
