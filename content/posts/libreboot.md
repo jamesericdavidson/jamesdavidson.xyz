@@ -3,7 +3,6 @@ aliases:
     - "/posts/libreboot-internal-flash/"
 date: 2022-08-08
 description: "Give me liberty, or give me RISC-V!"
-lastmod: 2023-04-16
 showTableOfContents: true
 slug: "how-to-internally-flash-libreboot-on-a-thinkpad"
 tags: ["linux", "privacy", "cybersecurity", "tutorial"]
@@ -11,13 +10,13 @@ title: "How to internally flash Libreboot on a ThinkPad"
 type: "post"
 ---
 
-# Introduction
+## Introduction
 
 The Libreboot documentation can be difficult to understand, and even more confusing to navigate.
 
 This is a guide on how to internally flash Libreboot, on [GM45 ThinkPads](https://libreboot.org/docs/hardware/#laptops-intel-x86) which have already had their BIOS flashed externally.
 
-# Quick setup
+## Quick setup
 
 - Install `flashrom` and `ich9gen` (found here: [`ich9utils`](https://notabug.org/libreboot/ich9utils) [^ich9])
     - `ich9utils` must be compiled, using `make` and `gcc`

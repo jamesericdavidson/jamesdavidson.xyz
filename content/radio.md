@@ -3,7 +3,6 @@ aliases:
     - "radio-show-archive"
 date: 2024-09-13
 image: "/images/dj.webp"
-lastmod: 2024-10-01
 showTableOfContents: true
 slug: "radio"
 title: "JD the DJ: Radio Show Archive"

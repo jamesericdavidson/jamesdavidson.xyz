@@ -3,7 +3,6 @@ aliases:
     - "/posts/passwords-suck/"
 date: 2022-12-19
 description: "This password must contain least eight letters and one capital? MickeyMinniePlutoHueyLouieDeweyDonaldGoofySacramento."
-lastmod: 2024-09-19
 showTableOfContents: true
 slug: "stop-reusing-passwords"
 tags: ["cybersecurity", "passwords", "KeePass"]
@@ -11,7 +10,7 @@ title: "Stop reusing passwords – use this instead!"
 type: "post"
 ---
 
-# Introduction
+## Introduction
 
 Nobody likes passwords. They're difficult to remember, and you need a lot of them.
 
@@ -25,7 +24,7 @@ The irony is that a password consisting of random words is stronger and more mem
 
 So, if passwords aren't dead yet, what can you do to secure your accounts and devices?
 
-# The solution
+## The solution
 
 Use a password manager. What can a password manager do?
 
@@ -42,7 +41,7 @@ Use a password manager. What can a password manager do?
 
 Now whenever you need to enter a password, you can unlock the password manager and find the password you need.
 
-## Password policies
+### Password policies
 
 Some organisations just can't let go of [ineffectual password policies](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach).
 
@@ -54,7 +53,7 @@ In this example, using KeePassXC:
 
 Services are increasingly allowing longer passwords without complexity requirements. In these cases, you may prefer to generate passphrases over passwords, to make them easier to type.
 
-# Conclusion
+## Conclusion
 
 Password managers are a stopgap measure until something better arrives. The more that can be abstracted away from the user, the better.
 
@@ -67,14 +66,14 @@ Security is a process. If the passwords you need to unlock your devices (and thu
 
 Lastly - don't trust, verify. Do your own research, and establish a threat model that works for you.
 
-## Further reading
+### Further reading
 
-### Password managers
+#### Password managers
 
 - [What is a password manager?](https://www.malwarebytes.com/what-is-password-manager)
 - [Password managers: using browsers and apps to safely store your passwords](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers)
 
-### Three random words
+#### Three random words
 
 - [The logic behind three random words](https://www.ncsc.gov.uk/blog-post/the-logic-behind-three-random-words)
 - [NCSC lifts lid on three random words password logic](https://www.ncsc.gov.uk/news/ncsc-lifts-lid-on-three-random-words-password-logic)

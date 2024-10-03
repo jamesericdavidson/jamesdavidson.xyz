@@ -1,13 +1,15 @@
 ---
 date: 2022-08-02
-lastmod: 2024-09-25
 showTableOfContents: true
 slug: "projects"
 title: "Projects"
 type: "page"
+image: "/images/codeberg.webp"
 ---
 
-# Introduction
+![Screenshot of my libre Git repositories, hosted on Codeberg.org](/images/codeberg.webp)
+
+## Introduction
 
 This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological order.
 
@@ -22,7 +24,7 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 [The Summary is a stopgap until a Table of Contents is available for mobile.]: #
 
-# Summary
+## Summary
 
 Jump to the project which interests you the most.
 
@@ -47,7 +49,7 @@ Jump to the project which interests you the most.
 [Map Symbols](#map-symbols-2016)
 : Match the Ordnance Survey map symbol shown to the corresponding button
 
-# Demos
+## Demos
 
 Try the demos from the browser.
 
@@ -55,11 +57,11 @@ Try the demos from the browser.
 | ----------- | -------------- |
 | ![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.webp) | ![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.webp) |
 
-# jimbOS (2024)
+## jimbOS (2024)
 
 {{< figure src="/images/bluefin-autumn.webp" alt="Artwork of dinosaurs in a wooded forest. The image is tinted red to reflect autumn colours." attr="Image provided courtesy of the Universal Blue project." attrlink="https://universal-blue.discourse.group/t/dinosaur-gallery/18/4" >}}
 
-## Synopsis
+### Synopsis
 
 jimbOS employs a light-touch approach to customising the Linux desktop. It uses the [Bluefin](https://projectbluefin.io/) image provided by [Universal Blue](https://universal-blue.org/) as a base, and makes modifications as per my preferences.
 
@@ -76,15 +78,15 @@ jimbOS, Bluefin, and Universal Blue are licensed using the Apache License 2.0.
 
 [View the source code](https://github.com/jamesericdavidson/jimbOS-bluefin-dx).
 
-## Credits
+### Credits
 
 I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.com/) and the [Universal Blue project](https://universal-blue.org/) for developing the infrastructure, images, documentation, and other tools responsible for enabling the cloud native model to thrive on desktop.
 
-# jamesdavidson.xyz (2022-2024)
+## jamesdavidson.xyz (2022-2024)
 
 {{< figure src="/images/gokarna.webp" alt="An aerial photograph of Gokarna's Paradise Beach, taken during the daytime. Beachgoers and boats can be seen amongst rocks, trees, and sand." attr="Photo by [Raman Choudhary](https://unsplash.com/photos/aerial-view-of-people-on-beach-during-daytime-MyCKTYn9A78) on [Unsplash](https://unsplash.com)" >}}
 
-## Synopsis
+### Synopsis
 
 The project uses the [Hugo](https://gohugo.io/) static site generator.
 
@@ -94,9 +96,9 @@ Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 Int
 
 [View the source code](https://codeberg.org/jamesericdavidson/jamesdavidson.xyz).
 
-## Retrospective
+### Retrospective
 
-### Framework
+#### Framework
 
 I decided to use the Hugo framework for three reasons:
 
@@ -106,7 +108,7 @@ I decided to use the Hugo framework for three reasons:
 
 A content management system such as WordPress is feature-rich, but complex. I don't need a graphical user interface or WYSIWYG editor, only a theme. The fewer dependencies and less code complexity, the better.
 
-### Theme
+#### Theme
 
 I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
@@ -118,15 +120,15 @@ I've since become [a contributor to the project](https://github.com/526avijitgup
 - ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) courtesy of another contributor.
 - [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
 
-## Credits
+### Credits
 
 Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
 
-# dotfiles (2018-2021)
+## dotfiles (2018-2021)
 
 {{< figure src="/images/tux-flat.webp" alt="Artwork depicting the Linux mascot, Tux" attr="Tux Flat is licensed under the GNU General Public License v2.0 or later." >}}
 
-## Synopsis
+### Synopsis
 
 dotfiles was the latest incarnation of my 'configuration files and scripts for Debian GNU/Linux systems'.
 
@@ -138,13 +140,13 @@ It is licensed using the GNU Public Licence version 3 only.
 
 [View the source code](https://codeberg.org/jamesericdavidson/dotfiles).
 
-## Retrospective
+### Retrospective
 
 dotfiles was discontinued after I moved from Debian [to openSUSE Tumbleweed](/posts/security-in-opensuse-tumbleweed).
 
 dotfiles was a moving target throughout development, as I changed tools, improved my understanding of the operating system, best practices within it, et cetera.
 
-### Branching
+#### Branching
 
 I learned to use three types of branches for dotfiles: main, development, and \<feature>.
 
@@ -164,7 +166,7 @@ I learned to use three types of branches for dotfiles: main, development, and \<
 
     Adopting feature branches largely cured this faux pas.
 
-### Code quality
+#### Code quality
 
 I endeavoured to make files easy to understand, portable across machines, and use programmatic logic.
 
@@ -209,17 +211,17 @@ There are many reasons not to parse human-readable output to a script, for examp
 * Is not installed on the system
 * Has been modified by the distribution maintainer
 
-## Credits
+### Credits
 
 dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-# Guild Wars 2 Pip Calculator (2018)
+## Guild Wars 2 Pip Calculator (2018)
 
 {{< figure src="/images/guild-wars-2.webp" alt="A screenshot of Guild Wars 2, depicting three player characters" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
 
-## Synopsis
+### Synopsis
 
 For context, Guild Wars 2 is a Massively Multiplayer Online Roleplaying Game (MMORPG).
 
@@ -245,7 +247,7 @@ It is licensed using the Apache License 2.0.
 
 [View the source code](https://codeberg.org/jamesericdavidson/pip-calculator).
 
-## Demonstration
+### Demonstration
 
 Try it, directly in the browser.
 
@@ -253,15 +255,15 @@ Try it, directly in the browser.
 | --------------------------------------- |
 | ![Screenshot of the Pip Calculator](/images/pip-calculator-demo.webp "9 hours and 46 minutes? Ain't nobody got time for that!") |
 
-## Retrospective
+### Retrospective
 
-### Appearance
+#### Appearance
 
 Pip Calculator is functional, but not beautiful.
 
 It is naively responsive, using the `viewport` meta tag, and `max-width` body property.
 
-### Functionality
+#### Functionality
 
 The user enters a number of pips, optionally selects a tier to stop at, and is presented with the results.
 
@@ -272,7 +274,7 @@ Input is sanitised:
 
 To ensure hours and minutes are displayed with or without plurals as appropriate, the `getCaseSwitch()` function is used to determine which strings should be used, using the values of `hours` and `minutes`.
 
-### Flaws
+#### Flaws
 
 The total time given is not equal to the additive time of each tier.
 
@@ -280,15 +282,15 @@ Tiers are presented with floored hours and rounded minutes. However, the decimal
 
 Only after every tier is calculated does `totalTime` have its hours floored and minutes rounded. This results in the total time being longer.
 
-## Credits
+### Credits
 
 After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
 
-# Hire Car Maintenance Inc (2017/18)
+## Hire Car Maintenance Inc (2017/18)
 
 {{< figure src="/images/avis.webp" alt="An Avis hire car parked on a road near water and snowy Norweigan mountains." attr="Photo by [Abhishek Umrao](https://unsplash.com/photos/PujiL9mZWNM) on [Unsplash](https://unsplash.com)" >}}
 
-## Synopsis
+### Synopsis
 
 Written in the 2017/18 academic year, using C# and .NET WinForms.
 
@@ -298,7 +300,7 @@ Hire Car Maintenance Inc serves as an introduction to object-oriented programmin
 
 It is licensed using the Apache License 2.0.
 
-## Retrospective
+### Retrospective
 
 `input.txt` is parsed to create classes and objects at runtime. Changes made using the interface are saved persistently.
 
@@ -313,13 +315,13 @@ As seen above, the user is able to:
 
 ![Screenshot demonstration of the search bar functionality in Hire Car Maintenance Inc](/images/soft151-demo-2.webp)
 
-## Credits
+### Credits
 
 Once again, I had the pleasure of learning from Liz Stuart.
 
-# Mastermind (2017/18)
+## Mastermind (2017/18)
 
-## Synopsis
+### Synopsis
 
 Written in the 2017/18 academic year using C#. Compatible with .NET and Mono.
 
@@ -329,7 +331,7 @@ Mastermind is a code-breaking game for two players.
 
 It is licensed using the Apache License 2.0.
 
-## Retrospective
+### Retrospective
 
 There were two stipulations for the design of this project:
 
@@ -344,11 +346,11 @@ The program is resilient to input errors, checking whether values are numeric an
 
 The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
 
-# Map Symbols (2016)
+## Map Symbols (2016)
 
 {{< figure src="/images/ordnance-survey-maps.webp" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/photos/Nfgy5Jbbrf8) on [Unsplash](https://unsplash.com)" >}}
 
-## Synopsis
+### Synopsis
 
 My first project, written in the Autumn semester of the 2016/17 academic year. It employs HTML, CSS and JavaScript.
 
@@ -358,7 +360,7 @@ The goal of the game is to match the Ordnance Survey map symbol shown to the cor
 
 It is licensed using the Apache License 2.0.
 
-## Demonstration
+### Demonstration
 
 Why not play from the browser and see for yourself?
 
@@ -366,7 +368,7 @@ Why not play from the browser and see for yourself?
 | ----------- |
 | ![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.webp) |
 
-## Retrospective
+### Retrospective
 
 To win the game, the user must have five correct answers on the scoreboard.
 
@@ -399,6 +401,6 @@ To win the game, the user must have five correct answers on the scoreboard.
     
     The sound functionality was provided by the deprecated `<bgsound>` element, but now uses the modern `<audio>` element to emulate the same behaviour.
 
-## Credits
+### Credits
 
 The respective module was taught by Mark Dixon and Liz Stuart, whose approach to teaching made learning to program a joy.

@@ -3,7 +3,6 @@ aliases:
     - "opensuse-microos-desktop-is-the-future-of-linux"
 date: 2023-04-02
 description: "This post is immutable, I want you to read only"
-lastmod: 2024-09-19
 showTableOfContents: true
 slug: "opensuse-aeon-is-the-future-of-linux"
 tags: ["linux", "openSUSE", "aeon", "immutable"]
@@ -11,48 +10,48 @@ title: "openSUSE Aeon is the future of Linux"
 type: "post"
 ---
 
-# Introduction
+## Introduction
 
 openSUSE Aeon provides the Chromebook experience, on Linux.
 
 - Get all of your apps in one place
 - Work without interruption, as updates occur in the background
 
-# Paradigm
+## Paradigm
 
 What advantages does this approach have?
 
-## Sandboxed
+### Sandboxed
 
 [Apps are isolated from each other](https://docs.flatpak.org/en/latest/basic-concepts.html#sandboxes), and the rest of the system.
 
 You decide whether an app should be allowed to access your files, the internet, or your webcam.
 
-## Immutable
+### Immutable
 
 Crucial files can't be modified while the system is running.
 
 Instead, updates are applied the next time you start the computer.
 
-## Rolling
+### Rolling
 
 Leverage the latest, thoroughly tested software (from openSUSE Tumbleweed).
 
 Something not working properly? Roll the system back in time!
 
-## Minimal
+### Minimal
 
 Get all the functionality you need, without having unnecessary software installed.
 
 Ideal for computers with limited storage space.
 
-## Containerised
+### Containerised
 
 [Run any Linux distribution](https://github.com/89luca89/distrobox) - any app, any service.
 
 All seamlessly integrated into Aeon.
 
-# Apps
+## Apps
 
 When installing apps, you will want to use this order of preference:
 
@@ -62,7 +61,7 @@ When installing apps, you will want to use this order of preference:
 
 Most of the time, you'll be using GNOME Software.
 
-## Transactional Update
+### Transactional Update
 
 Open the Terminal, and enter:
 
@@ -84,13 +83,13 @@ You can search for packages on [the openSUSE website](https://software.opensuse.
 zypper search
 ```
 
-### Pitfalls
+#### Pitfalls
 
 Transactional updates are performed in the background, and will be cancelled if any errors are encountered during the update process.
 
 For example, updating a package which requires a license agreement. With background updates, the user is unable to answer the prompt given by the package manager, causing the update to be cancelled.
 
-## GNOME Software
+### GNOME Software
 
 > [Apps are isolated from each other, and the rest of the system.](#sandboxed)
 
@@ -100,7 +99,7 @@ In a traditional Linux distribution, having two apps which rely on the same file
 
 In an immutable Linux distribution, these files are independent of each other, or shared in a read-only fashion.
 
-### Permissions
+#### Permissions
 
 > [You decide whether an app should be allowed to access your files, the internet, or your webcam.](#sandboxed)
 
@@ -110,7 +109,7 @@ If you are familiar with Linux concepts (such as display servers), read [this ar
 
 Here are [some examples](https://codeberg.org/jamesericdavidson/flatpak-overrides) to get you started.
 
-## Distrobox
+### Distrobox
 
 > [Run any Linux distribution - any app, any service.](#containerised)
 
@@ -135,7 +134,7 @@ The app will then appear in the list of applications:
 
 {{< figure src="/images/neovim-gtk-on-distrobox.webp" alt="Screenshot of the GNOME applications list - the search box contains the word 'neovim'" caption="Apps installed in a container are indistinguishable from apps installed with GNOME Software." >}}
 
-### Exporting
+#### Exporting
 
 The `--app` option requires the filename of the program. You can find this using `rpm`:
 
@@ -148,7 +147,7 @@ rpm --query --list neovim-gtk | grep /usr/bin
 
 To learn more, type `distrobox-export --help`, or read the [source code comments](https://github.com/89luca89/distrobox/blob/main/distrobox-export).
 
-# Conclusion
+## Conclusion
 
 Suitable for both casual users and software developers, openSUSE Aeon adopts the ChromeOS paradigm and transplants it to Linux with resounding success.
 
@@ -156,7 +155,7 @@ Do you enjoy the simplicity and security of installing apps from Google Play or 
 
 Aeon is state of the art. Take notes, Windows and macOS.
 
-## Addenda
+### Addenda
 
 openSUSE MicroOS Desktop was recently renamed to openSUSE Aeon.
 

@@ -3,7 +3,6 @@ aliases:
     - "/posts/linux-lab/"
 date: 2022-06-11
 description: "A tutorial for beginners"
-lastmod: 2022-12-09
 showTableOfContents: true
 slug: "the-linux-lab"
 tags: ["linux", "tutorial", "ubuntu"]
@@ -11,7 +10,7 @@ title: "The Linux Lab"
 type: "post"
 ---
 
-# Introduction
+## Introduction
 
 This is the Linux Lab I wrote for the University of Plymouth Official Computer and Information Security Society for the 2019/20 academic year.
 
@@ -27,11 +26,11 @@ Please note that I refer to the operating system as "Linux" for the sake of brev
 
 ---
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank the Debian maintainers, past and present, for their work in making a rock solid GNU/Linux distribution. Without which, this tutorial would never have been made.
 
-# Copyright and Licence Notices
+## Copyright and Licence Notices
 
 	Copyright (C)  2020, 2022  James Davidson
 	Permission is granted to copy, distribute and/or modify this document
@@ -40,17 +39,17 @@ I would like to thank the Debian maintainers, past and present, for their work i
 	A copy of the license is included in the section entitled "GNU
 	Free Documentation License".
 
-# About the Linux Lab
+## About the Linux Lab
 
 The Linux Lab is a tutorial designed for beginners; it aims to be comprehensive and technical.
 
 There are no requirements to undertake the Linux Lab, with the exception of installing a Linux distribution to practice on.
 
-## Version History
+### Version History
 
 The last modified date matches the latest release. This change won't be explicitly noted for each version.
 
-### Version 6
+#### Version 6
 
 Released on 2022-12-09.
 
@@ -66,13 +65,13 @@ Released on 2022-12-09.
     - Changed dates to follow the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) standard
     - Changed Version 1.0.0, 1.1.0 and 1.2.0 from nested lists to headings
 
-### Version 5
+#### Version 5
 
 Released on 2022-09-19.
 
 - Removed hyperlink to Version 1.2.0
 
-### Version 4
+#### Version 4
 
 Released on 2022-07-17.
 
@@ -85,7 +84,7 @@ Released on 2022-07-17.
 | Heading IDs (see links in this table) | [GNU Free Documentation License](#gnu-free-documentation-license): Heading from "Licence Text" to "GNU Free Documentation License" | |
 | | Date: To coincide with this release | |
 
-### Version 1.2.0
+#### Version 1.2.0
 
 Released on 2022-06-11.
 
@@ -99,7 +98,7 @@ Released on 2022-06-11.
 * Removed quote characters
 * Added missing code fencing
 
-### Version 1.1.0
+#### Version 1.1.0
 
 Released on 2020-06-17.
 
@@ -107,17 +106,17 @@ Released on 2020-06-17.
 * Added more Tasks
 * Added Presentation contents
 
-### Version 1.0.0
+#### Version 1.0.0
 
 Released on 2020-01-11.
 
 * Initial release
 
-# Basic shell commands
+## Basic shell commands
 
 You should already be using `bash`!
 
-## Login shell
+### Login shell
 
 You can ascertain which login shell you are using by issuing the command:
 
@@ -125,7 +124,7 @@ You can ascertain which login shell you are using by issuing the command:
 echo $SHELL
 ```
 
-## builtins
+### builtins
 
 bash is a feature-rich shell, and has many built-in commands. Here, we will use two builtins: `echo` and `pwd`.
 
@@ -137,7 +136,7 @@ echo $HOME && pwd
 
 If the two outputs match, you are currently in the `/home/$USER` directory!
 
-### Terminal prompt
+#### Terminal prompt
 
 You may notice that the information in the above output is already present in your terminal prompt!
 
@@ -154,7 +153,7 @@ This prompt gives us important information about the status of the terminal wind
 * Working directory 	(pwd)
 * Execution mode	($ or #)
 
-## Environment variables
+### Environment variables
 
 Thus far, we have been referencing WORDS preceded by dollar signs ($). These are called environment variables.
 
@@ -164,7 +163,7 @@ Just like a variable in a programming language, environment variables are '[dyna
 
 We can query environment variables to determine how a system is configured:
 
-### Terminal emulator
+#### Terminal emulator
 
 Right now, you are using a terminal emulator. In Ubuntu, this should be `gnome-terminal` by default:
 
@@ -174,7 +173,7 @@ echo $TERM
 
 `gnome-terminal` should report itself as `xterm`.
 
-## External binaries
+### External binaries
 
 We've covered a couple of shell builtins, so we'll move onto external binaries.
 
@@ -194,7 +193,7 @@ man xdg-user-dir
 
 This command opens the manual page for the `xdg-user-dir` program. It contains the names of default user directories in `$HOME`, as created by `xdg-user-dirs-update`.
 
-### Aliases
+#### Aliases
 
 In Ubuntu, you may notice the results of `ls` are coloured. This is because Ubuntu ships with aliases. 
 
@@ -222,19 +221,19 @@ You can discover the options that exist for a program by consulting its man page
 man ls
 ```
 
-# Navigating the shell
+## Navigating the shell
 
 To change directory, use `cd`.
 
-## Tab autocompletion
+### Tab autocompletion
 
 When seeking directories and files, you can press the TAB key twice to display matches.
 
 Try navigating to the `/etc/apt` directory using autocompletion.
 
-## Manipulating files and directories
+### Manipulating files and directories
 
-### Creation
+#### Creation
 
 You can create directories using `mkdir`. Empty files can be created with `touch`.
 
@@ -249,7 +248,7 @@ You can view the contents of your new directory, and the contents of every other
 ls *
 ```
 
-### Moving
+#### Moving
 
 Files and directories can be moved, or renamed, with `mv`.
 
@@ -262,7 +261,7 @@ Bear in mind, you can elect to `cd` into these directories when working in them 
 
 You can also use autocompletion to speed up the renaming process (ergo avoiding typing).
 
-### Copying
+#### Copying
 
 Files and directories can be copied with `cp`.
 
@@ -274,7 +273,7 @@ Here, we can see the source file `theluggage`, located in `rincewind/` is copied
 
 Note how the file name need not be written again, as it is preserved.
 
-### Removal
+#### Removal
 
 You can remove files and directories with `rm`.
 
@@ -292,7 +291,7 @@ When listing the contents of `~` again, we can see `rincewind/` is missing:
 ls * | grep -w rincewind
 ```
 
-#### grep
+##### grep
 
 `grep` looks for patterns. The pipe operator ( | ) is used to feed data from one command into another. In this case, the output of `ls` is fed to `grep` so we can search for `rincewind/`.
 
@@ -308,7 +307,7 @@ Here, we can see the user's home directory and their login shell.
 
 Don't worry about the finer details of `whoami` and `/etc/passwd` at this stage.
 
-#### less
+##### less
 
 Using `grep` provides us a clean summary of instances of a pattern in a file.
 
@@ -335,7 +334,7 @@ Let's try another term, this time __bin__. Observe how all the matches are highl
 * Press 'n' to go to the next match
 * Press 'Shift + n' (SHIFT-n) to go to the previous match
 
-### Finding files
+#### Finding files
 
 Our copied file, `theluggage` still exists:
 
@@ -364,7 +363,7 @@ ls -lA /bin
 
 To resolve this, we can use `sudo`. `sudo` executes commands as another user - by default, the superuser (root).
 
-#### Recursive search
+##### Recursive search
 
 To avoid typing the `find` command again, we can use `bash`'s reverse history search function:
 
@@ -372,7 +371,7 @@ To avoid typing the `find` command again, we can use `bash`'s reverse history se
 * Type the search term: find
 * Press the left or right arrow key
 
-#### sudo
+##### sudo
 
 Prepend the command with `sudo`:
 
@@ -388,7 +387,7 @@ If you've reached this point, take a well earned 10 minute break.
 
 Regular breaks [make you a better learner](https://success.oregonstate.edu/sites/success.oregonstate.edu/files/LearningCorner/Tools/taking_breaks_from_studying.pdf)!
 
-# Text editing
+## Text editing
 
 During this part of the lab, we will learn how to use `vim`.
 
@@ -396,13 +395,13 @@ During this part of the lab, we will learn how to use `vim`.
 
 Like `bash`, `vim` is included on virtually 100% of Linux installs. Hence, learning how to use it is vital!
 
-## vim is different to every text editor you've ever used before
+### vim is different to every text editor you've ever used before
 
 Now that I've scared you, let me explain...
 
 `vim` (or `vi`) is a modal text editor, and makes use of modes and motions.
 
-### [Modes](https://guide.freecodecamp.org/vim/modes/)
+#### [Modes](https://guide.freecodecamp.org/vim/modes/)
 
 * Normal
 	* Allows you to navigate in a file (moving to words, lines, et cetera).
@@ -427,7 +426,7 @@ Now that I've scared you, let me explain...
 
 I don't use Replace mode. You can achieve superior manipulation with motions in Normal mode.
 
-### [Motions](http://vimdoc.sourceforge.net/htmldoc/motion.html)
+#### [Motions](http://vimdoc.sourceforge.net/htmldoc/motion.html)
 
 Motions are the real power behind vim.
 
@@ -435,7 +434,7 @@ From the off: the h, j, k and l keys are used in lieu of the arrow keys.
 
 Why? Because your fingers never need to leave the main area of the keyboard!
 
-#### Operators
+##### Operators
 
 Not to be confused with shell operators.
 
@@ -462,7 +461,7 @@ With just three keystrokes, the content of the line has changed:
 
 vim motions are natural, and are designed to be an extension of what you want to achieve in the editor.
 
-#### Navigation motions
+##### Navigation motions
 
 As mentioned earlier, hjkl are used in place of the arrow keys:
 
@@ -482,7 +481,7 @@ There are more useful navigation motions:
 * __gg__		  - move to the beginning of the file
 * __Shift__ + __G__ (S-G) - move to the end of the file
 
-#### Word motions
+##### Word motions
 
 Move over words.
 
@@ -491,7 +490,7 @@ Move over words.
 * __b__  - move backwards to the beginning of a word
 * __ge__ - move backwards to the end of a word
 
-### Putting it all together
+#### Putting it all together
 
 With the motions defined above, we can navigate around a file.
 
@@ -528,7 +527,7 @@ You can combine motions in command mode. For example, `:wq`, which writes change
 
 Use `:help` to query the plethora of commands and motions in vim.
 
-### More on motions
+#### More on motions
 
 * __o__ - enter Insert mode on next line
 * __O__ - enter Insert mode on previous line
@@ -538,7 +537,7 @@ Remember to combine your motions. For example, when moving between lines:
 * 3j - move down three lines (from your cursor position)
 * 5G - move to (absolute) line 5
 
-### Helpful commands
+#### Helpful commands
 
 To help you navigate, you can make use of numbering:
 
@@ -556,7 +555,7 @@ You can also highlight the line your cursor is on:
 :set cursorline
 ```
 
-# Tasks
+## Tasks
 
 You should be able to answer all of these questions using the knowledge gained from the tutorial.
 
@@ -594,7 +593,7 @@ When recording answers for the tasks, use `vim`. We will review your answers whe
 
 10. How would you change the access and modification time of a file?
 
-## Intermediate tasks
+### Intermediate tasks
 
 __Health warning__: You may begin to grow a Richard Stallman-esque beard if you can successfully complete these additional tasks.
 
@@ -608,7 +607,7 @@ __Health warning__: You may begin to grow a Richard Stallman-esque beard if you 
 
     Hint: Using a program already covered, and another related to linking.
 
-## Advanced tasks
+### Advanced tasks
 
 1. How would you change ownership of a file?
 
@@ -624,7 +623,7 @@ __Health warning__: You may begin to grow a Richard Stallman-esque beard if you 
 
     Hint: Using the Alternatives system.
 
-# Advice for installing GNU/Linux
+## Advice for installing GNU/Linux
 
 To become proficient with Linux, you should use it every day! To do this, you should select a distribution.
 
@@ -634,7 +633,7 @@ You may also like to try other independent distributions, such as Fedora or Solu
 
 _Don't_ use derivative distributions like Ubuntu, Linux Mint or Manjaro. And _definitely don't_ use advanced distributions like Arch, Void or Gentoo.
 
-## Dual booting
+### Dual booting
 
 Many individuals dual boot a Windows operating system with GNU/Linux. There are some vital considerations to make _before_ doing so:
 
@@ -663,7 +662,7 @@ On motherboards made in the last decade, this is likely UEFI.
 
 Debian offers a resilient installer, which deftly automates the boring elements of installation. Chiefly, this relates to partitioning (traditional volumes or Logical Volume Manager) and encryption (LUKS).
 
-# GNU Free Documentation License
+## GNU Free Documentation License
 
 
                 GNU Free Documentation License

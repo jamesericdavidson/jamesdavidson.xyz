@@ -1,7 +1,6 @@
 ---
 date: 2024-09-29
 image: "/images/hotseat.webp"
-lastmod: 2024-10-01
 showTableOfContents: true
 slug: "interviews"
 title: "Interviews with James Davidson"

@@ -2,7 +2,6 @@
 aliases:
     - "/posts/arkenfox/"
 date: 2022-09-07
-lastmod: 2024-09-19
 description: "Curb the Chromium monopoly"
 showTableOfContents: true
 slug: "supercharge-the-privacy-and-security-of-desktop-firefox"
@@ -11,7 +10,7 @@ title: "Supercharge the privacy and security of desktop Firefox"
 type: "post"
 ---
 
-# Introduction
+## Introduction
 
 The Arkenfox user.js project configures desktop Firefox to use more of the security and privacy features already built into the browser[^what-is-arkenfox-user.js].
 
@@ -24,7 +23,7 @@ If a site doesn't function correctly, disabling Enhanced Tracking Protection can
 [^what-is-arkenfox-user.js]: Thorin-Oakenpants. ‘Arkenfox/User.Js’. JavaScript. 2017. Reprint, arkenfox, 31 August 2022. https://github.com/arkenfox/user.js.
 [^what-enhanced-tracking-protection-blocks]: AliceWyman, Chris Ilias, Michele Rodaro, Mozinet, Joni, Marcelo Ghelman, Lamont Gardenhire, et al. ‘Enhanced Tracking Protection in Firefox for Desktop’. Mozilla Support, 2022. https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop.
 
-# Overrides
+## Overrides
  
 `user.js` can be modified with a `user-overrides.js` file[^what-are-user.js-overrides].
 
@@ -103,7 +102,7 @@ If your goal is to defeat surveillance and censorship, use the Tor Browser Bundl
 [^encrypted-dns-threat-model]: jonaharagon and d4rklynk. ‘Introduction to DNS - Privacy Guides’. Privacy Guides, 7 August 2022. https://www.privacyguides.org/basics/dns-overview/.
 [^tor-vs-vpn]: Tor vs VPN | Which One Should You Use for Privacy, Anonymity and Security, 2020. https://www.youtube.com/watch?v=6ohvf03NiIA.
 
-# Doesn't LibreWolf already do this?
+## Doesn't LibreWolf already do this?
 
 LibreWolf has endemic flaws which undermine security:
 
@@ -114,7 +113,7 @@ LibreWolf has endemic flaws which undermine security:
 [^librewolf-104-release]: stanzabird. ‘Release V104.0 · LibreWolf / Browser / Windows · GitLab’. GitLab, 27 August 2022. https://gitlab.com/librewolf-community/browser/windows/-/releases/v104.0-1.
 [^privacyguides-discussions-add-librewolf]: tommytran732, SkewedZeppelin, ph00lt0, Thorin-Oakenpants, savolla, fxbrit, TheFrenchGhosty, et al. ‘Add Librewolf · Discussion #423 · Privacyguides/Privacyguides.Org’. GitHub, 31 July 2022. https://github.com/privacyguides/privacyguides.org/discussions/423.
 
-## Applying the LibreWolf configuration
+### Applying the LibreWolf configuration
 
 The improvements seen in LibreWolf[^librewolf-features] are applicable to upstream versions of Firefox:
 
@@ -138,7 +137,7 @@ The improvements seen in LibreWolf[^librewolf-features] are applicable to upstre
 [^arkenfox-apply-update-maintain]: Thorin-Oakenpants. ‘3.4 Apply & Update & Maintain · Arkenfox/User.Js Wiki’. GitHub, 29 August 2022. https://github.com/arkenfox/user.js.
 [^privacyguides-recommendations-providers-search-engines]: jonaharagon, d4rklynk, mmistakes, tommytran732, mfwmyfacewhen, elitejake, and RoseTheFlower. ‘Search Engines - Privacy Guides’. Privacy Guides, 7 August 2022. https://www.privacyguides.org/search-engines/.
 
-# Conclusion
+## Conclusion
 
 Firefox is reaching parity with Chromium's security, while providing privacy features that Chromium does not include.
 
