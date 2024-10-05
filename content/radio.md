@@ -13,6 +13,14 @@ type: "page"
 
 ![Picture of Virtual DJ software](/images/dj.webp)
 
+## 2024-10-03: Rock [Explicit Language]
+
+Two hours of 60s, 70s, and 80s rock bands. Includes listener requests, and one instance of strong language.
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-031024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/3UvF28q4oZq6Kx8jwrIceU).
+
+Featuring Pink Floyd, Led Zeppelin, The Doors, Alice Cooper, Journey, and Bon Jovi.
+
 ## 2024-09-26: Korean Pop (featuring Maisy Webb)
 
 An hour of K-Pop, followed by my [interview with Maisy Webb](/interviews/#maisy-webb-taste-of-zero-waste) from Taste of Zero Waste.
