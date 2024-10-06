@@ -298,20 +298,7 @@ git reset --soft HEAD && git restore --staged . && git checkout . \
 
 ## Further Reading
 
-Git has great documentation; I suggest following the [Pro Git Book](https://git-scm.com/book/en/v2), in addition to terminal tools such as:
-
-```sh
-man git-submodule
-# Use man -K to find the Git man pages you need
-man -K git
-
-# Install a tldr implementation (such as tealdeer), and access a handy
-# reference of Git commands
-tldr git-checkout
-
-# Cheat is similar to tldr, but is typically less useful for most programs
-cheat git
-```
+Git has great documentation; I suggest following the [Pro Git Book](https://git-scm.com/book/en/v2), in addition to the `man` pages, and `tldr`.
 
 Moreover, it's worth defining your Git strategy...
 
