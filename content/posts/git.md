@@ -1,14 +1,16 @@
 ---
-# image: ""
-date: 2024-10-03
+date: 2024-10-06
 description: "It's like Git for Dummies..."
 draft: true
+image: "/image/git.svg"
 showTableOfContents: true
 slug: "learn-git-from-the-terminal"
 tags: [ "git", "tutorial", "linux" ]
 title: "Learn Git: From the Terminal"
 type: "post"
 ---
+
+![Orange Git logo](/images/git.svg)
 
 ## Introduction
 
