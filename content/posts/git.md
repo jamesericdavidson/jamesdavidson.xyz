@@ -21,11 +21,12 @@ Don't go running yet! Here's how easy it is:
 ## Concepts
 
 - `HEAD`
-    - The latest commit is equal to `HEAD~1` or `HEAD^`
+
+    The latest commit is equal to `HEAD~1` or `HEAD^`.
 
 - `.gitignore`
-    - Git subcommands will ignore any patterns listed in this file
-    - Git will not prompt you to add untracked files if they are ignored
+
+    Git subcommands (e.g. `add`, `rm`) will ignore patterns listed in this file.
 
 ## Commands
 
