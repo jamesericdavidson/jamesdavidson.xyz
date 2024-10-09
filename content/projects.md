@@ -28,25 +28,25 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 Jump to the project which interests you the most.
 
-[jimbOS](#jimbos-2024)
+[jimbOS](#jimbos)
 : A custom Universal Blue image, derived from Fedora Silverblue
 
-[jamesdavidson.xyz](#jamesdavidsonxyz-2022-2024)
+[jamesdavidson.xyz](#jamesdavidsonxyz)
 : You are here!
 
-[dotfiles](#dotfiles-2018-2021)
+[dotfiles](#dotfiles)
 : Configuration files and scripts for Debian GNU/Linux systems
 
-[Guild Wars 2 Pip Calculator](#guild-wars-2-pip-calculator-2018)
+[Guild Wars 2 Pip Calculator](#guild-wars-2-pip-calculator)
 : Estimate the time it will take complete divisions in the World vs World game mode
 
-[Hire Car Maintenance Inc](#hire-car-maintenance-inc-201718)
+[Hire Car Maintenance Inc](#hire-car-maintenance-inc)
 : A graphical user interface application for hire car companies
 
-[Mastermind](#mastermind-201718)
+[Mastermind](#mastermind)
 : A code-breaking game for two players
 
-[Map Symbols](#map-symbols-2016)
+[Map Symbols](#map-symbols)
 : Match the Ordnance Survey map symbol shown to the corresponding button
 
 ## Demos
@@ -57,7 +57,7 @@ Try the demos from the browser.
 | ----------- | -------------- |
 | ![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.webp) | ![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.webp) |
 
-## jimbOS (2024)
+## jimbOS (2024) {#jimbos}
 
 {{< figure src="/images/bluefin-autumn.webp" alt="Artwork of dinosaurs in a wooded forest. The image is tinted red to reflect autumn colours." attr="Image provided courtesy of the Universal Blue project." attrlink="https://universal-blue.discourse.group/t/dinosaur-gallery/18/4" >}}
 
@@ -82,7 +82,7 @@ jimbOS, Bluefin, and Universal Blue are licensed using the Apache License 2.0.
 
 I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.com/) and the [Universal Blue project](https://universal-blue.org/) for developing the infrastructure, images, documentation, and other tools responsible for enabling the cloud native model to thrive on desktop.
 
-## jamesdavidson.xyz (2022-2024)
+## jamesdavidson.xyz (2022-2024) {#jamesdavidsonxyz}
 
 {{< figure src="/images/gokarna.webp" alt="An aerial photograph of Gokarna's Paradise Beach, taken during the daytime. Beachgoers and boats can be seen amongst rocks, trees, and sand." attr="Photo by [Raman Choudhary](https://unsplash.com/photos/aerial-view-of-people-on-beach-during-daytime-MyCKTYn9A78) on [Unsplash](https://unsplash.com)" >}}
 
@@ -124,7 +124,7 @@ I've since become [a contributor to the project](https://github.com/526avijitgup
 
 Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
 
-## dotfiles (2018-2021)
+## dotfiles (2018-2021) {#dotfiles}
 
 {{< figure src="/images/tux-flat.webp" alt="Artwork depicting the Linux mascot, Tux" attr="Tux Flat is licensed under the GNU General Public License v2.0 or later." >}}
 
@@ -217,7 +217,7 @@ dotfiles was integral to my learning process for GNU/Linux.
 
 I'm grateful to every single person who collaborated on the documentation I scoured to make dotfiles better.
 
-## Guild Wars 2 Pip Calculator (2018)
+## Guild Wars 2 Pip Calculator (2018) {#guild-wars-2-pip-calculator}
 
 {{< figure src="/images/guild-wars-2.webp" alt="A screenshot of Guild Wars 2, depicting three player characters" attr="© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, the interlocking NC logo, Aion, Lineage II, Guild Wars, Guild Wars 2: Heart of Thorns, Guild Wars 2: Path of Fire, Blade & Soul, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners." attrlink="https://us.ncsoft.com/en-us/legal/ncsoft/content-terms-of-use" >}}
 
@@ -286,7 +286,7 @@ Only after every tier is calculated does `totalTime` have its hours floored and 
 
 After playing Guild Wars 2 for thousands of hours, I have something to show for it professionally. Thanks, ArenaNet!
 
-## Hire Car Maintenance Inc (2017/18)
+## Hire Car Maintenance Inc (2017/18) {#hire-car-maintenance-inc}
 
 {{< figure src="/images/avis.webp" alt="An Avis hire car parked on a road near water and snowy Norweigan mountains." attr="Photo by [Abhishek Umrao](https://unsplash.com/photos/PujiL9mZWNM) on [Unsplash](https://unsplash.com)" >}}
 
@@ -319,7 +319,7 @@ As seen above, the user is able to:
 
 Once again, I had the pleasure of learning from Liz Stuart.
 
-## Mastermind (2017/18)
+## Mastermind (2017/18) {#mastermind}
 
 ### Synopsis
 
@@ -346,7 +346,7 @@ The program is resilient to input errors, checking whether values are numeric an
 
 The code was developed under the scrutiny of the module leader, who defined what functionality was and was not acceptable. As a result, some C-specific code and quirks are used.
 
-## Map Symbols (2016)
+## Map Symbols (2016) {#map-symbols}
 
 {{< figure src="/images/ordnance-survey-maps.webp" alt="Photograph depicting Ordnance Survey maps" attr="Photo by [Drew Collins](https://unsplash.com/photos/Nfgy5Jbbrf8) on [Unsplash](https://unsplash.com)" >}}
 
