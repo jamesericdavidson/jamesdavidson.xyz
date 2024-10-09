@@ -49,14 +49,6 @@ Jump to the project which interests you the most.
 [Map Symbols](#map-symbols)
 : Match the Ordnance Survey map symbol shown to the corresponding button
 
-## Demos
-
-Try the demos from the browser.
-
-| [Pip Calculator](/demos/pip-calculator) | [Map Symbols](/demos/map-symbols) |
-| ----------- | -------------- |
-| ![Screenshot demonstration of the Pip Calculator](/images/pip-calculator-demo.webp) | ![Screenshot demonstration of Map Symbols](/images/map-symbols-demo.webp) |
-
 ## jimbOS (2024) {#jimbos}
 
 {{< figure src="/images/bluefin-autumn.webp" alt="Artwork of dinosaurs in a wooded forest. The image is tinted red to reflect autumn colours." attr="Image provided courtesy of the Universal Blue project." attrlink="https://universal-blue.discourse.group/t/dinosaur-gallery/18/4" >}}
