@@ -109,12 +109,13 @@ I've since become [a contributor to the project](https://github.com/526avijitgup
 - [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
 - [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
+- [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
 - ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) courtesy of another contributor.
 - [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
 
 ### Credits
 
-Thanks to [Yash Mehrotra and Avijit Gupta](https://github.com/526avijitgupta/gokarna) for developing Gokarna.
+Thanks to [Yash Mehrotra](https://yashmehrotra.com/) and [Avijit Gupta](https://twitter.com/526avijit) for developing Gokarna, and [recognising my contributions](https://github.com/526avijitgupta/gokarna?tab=readme-ov-file#major-contributors) in the `README`.
 
 ## dotfiles (2018-2021) {#dotfiles}
 
