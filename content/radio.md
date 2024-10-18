@@ -13,6 +13,14 @@ type: "page"
 
 ![Picture of Virtual DJ software](/images/dj.webp)
 
+## 2024-10-10: Synthwave
+
+Hear synthwave from all around the globe: France, Belarus, Finland, and more.
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-101024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/50gr4W1663e9CWxpDxu7iu?si=sYi0883bRJ6MoezW91ds9Q).
+
+Featuring Dan Terminus, Fury Weekend, Perturbator, Carpenter Brut, and Dance With The Dead.
+
 ## 2024-10-03: Rock [Explicit Language]
 
 Two hours of 60s, 70s, and 80s rock bands. Includes listener requests, and one instance of strong language.
