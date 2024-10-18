@@ -104,9 +104,10 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
 
-I've since become [a contributor to the project](https://github.com/526avijitgupta/gokarna/graphs/contributors), and seen the following pull requests merged upstream:
+I'm now [a contributor to the project](https://github.com/526avijitgupta/gokarna/graphs/contributors), seeing pull requests merged upstream:
 
 - [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
+- [Enhance documentation for first-timer users](https://github.com/526avijitgupta/gokarna/pull/243)
 - [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
 - [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
