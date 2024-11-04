@@ -37,8 +37,8 @@ title = "James Davidson"
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
-    {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
+    {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
   ]
 
