@@ -108,6 +108,7 @@ I'm now [a contributor to the project](https://github.com/526avijitgupta/gokarna
 
 - [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
 - [Enhance documentation for first-time users](https://github.com/526avijitgupta/gokarna/pull/243)
+- [Containerise screenshot script](https://github.com/gokarna-theme/gokarna-hugo/pull/262)
 - [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
 - [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
