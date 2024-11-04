@@ -107,7 +107,7 @@ I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which
 I'm now [a contributor to the project](https://github.com/526avijitgupta/gokarna/graphs/contributors), seeing pull requests merged upstream:
 
 - [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
-- [Enhance documentation for first-timer users](https://github.com/526avijitgupta/gokarna/pull/243)
+- [Enhance documentation for first-time users](https://github.com/526avijitgupta/gokarna/pull/243)
 - [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
 - [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
 - [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
