@@ -13,6 +13,22 @@ type: "page"
 
 ![Picture of Virtual DJ software](/images/dj.webp)
 
+## 2024-10-31: Halloween
+
+The air that night was full of fright - what a delight!
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presaents-james-davidsons-halloween-special-311024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/1I1ZVNPcVzaTK1c9T9SLY9).
+
+Featuring Rob Zombie, Ministry, Ozzy Osbourne, Ice Nine Kills, Evanescence, and AFI.
+
+## 2024-10-24: Big Band
+
+Jazz and swing legends from yesteryear.
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-241024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/71Qphtg40vYl41aJRz4Sbp).
+
+Featuring Count Basie, Quincy Jones, Tommy Dorsey, Woody Herman, Artie Shaw, and Duke Ellington.
+
 ## 2024-10-10: Synthwave
 
 Hear synthwave from all around the globe: France, Belarus, Finland, and more.
