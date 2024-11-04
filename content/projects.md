@@ -82,7 +82,7 @@ I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.c
 
 The project uses the [Hugo](https://gohugo.io/) static site generator.
 
-The [Gokarna](https://github.com/526avijitgupta/gokarna) theme is licensed under the GNU General Public License v3.0.
+The [Gokarna](https://github.com/gokarna-theme/gokarna-hugo) theme is licensed under the GNU General Public License v3.0.
 
 Content is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. With the exception of the [Linux Lab](/posts/the-linux-lab), which uses the GNU Free Documentation License, Version 1.3; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 
@@ -102,21 +102,21 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 #### Theme
 
-I settled on [Gokarna](https://github.com/526avijitgupta/gokarna), a theme which is minimal, responsive and themeable.
+I settled on [Gokarna](https://github.com/gokarna-theme/gokarna-hugo), a theme which is minimal, responsive and themeable.
 
-I'm now [a contributor to the project](https://github.com/526avijitgupta/gokarna/graphs/contributors), seeing pull requests merged upstream:
+I'm now [a contributor to the project](https://github.com/gokarna-theme/gokarna-hugo/graphs/contributors), seeing pull requests merged upstream:
 
-- [Improve copyright support](https://github.com/526avijitgupta/gokarna/pull/233)
-- [Enhance documentation for first-time users](https://github.com/526avijitgupta/gokarna/pull/243)
+- [Improve copyright support](https://github.com/gokarna-theme/gokarna-hugo/pull/233)
+- [Enhance documentation for first-time users](https://github.com/gokarna-theme/gokarna-hugo/pull/243)
 - [Containerise screenshot script](https://github.com/gokarna-theme/gokarna-hugo/pull/262)
-- [Link to the Next and Previous posts](https://github.com/526avijitgupta/gokarna/pull/124)
-- [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
-- [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
-- ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) courtesy of another contributor.
+- [Link to the Next and Previous posts](https://github.com/gokarna-theme/gokarna-hugo/pull/124)
+- [Support home page front matter](https://github.com/gokarna-theme/gokarna-hugo/pull/119)
+- [Add front matter templates](https://github.com/gokarna-theme/gokarna-hugo/pull/241)
+- ~~[Show the date a post was last modified](https://github.com/gokarna-theme/gokarna-hugo/pull/117)~~ This feature was approved [a year later](https://github.com/gokarna-theme/gokarna-hugo/pull/169) courtesy of another contributor.
 
 ### Credits
 
-Thanks to [Yash Mehrotra](https://yashmehrotra.com/) and [Avijit Gupta](https://twitter.com/526avijit) for developing Gokarna, and [recognising my contributions](https://github.com/526avijitgupta/gokarna?tab=readme-ov-file#major-contributors) in the `README`.
+Thanks to [Yash Mehrotra](https://yashmehrotra.com/) and [Avijit Gupta](https://twitter.com/526avijit) for developing Gokarna, and [recognising my contributions](https://github.com/gokarna-theme/gokarna-hugo?tab=readme-ov-file#major-contributors) in the `README`.
 
 ## dotfiles (2018-2021) {#dotfiles}
 
