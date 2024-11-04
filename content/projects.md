@@ -102,15 +102,7 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/gokarna-theme/gokarna-hugo), a theme which is minimal, responsive and themeable.
 
-I'm now [a contributor to the project](https://github.com/gokarna-theme/gokarna-hugo/graphs/contributors), seeing pull requests merged upstream:
-
-- [Improve copyright support](https://github.com/gokarna-theme/gokarna-hugo/pull/233)
-- [Enhance documentation for first-time users](https://github.com/gokarna-theme/gokarna-hugo/pull/243)
-- [Containerise screenshot script](https://github.com/gokarna-theme/gokarna-hugo/pull/262)
-- [Link to the Next and Previous posts](https://github.com/gokarna-theme/gokarna-hugo/pull/124)
-- [Support home page front matter](https://github.com/gokarna-theme/gokarna-hugo/pull/119)
-- [Add front matter templates](https://github.com/gokarna-theme/gokarna-hugo/pull/241)
-- ~~[Show the date a post was last modified](https://github.com/gokarna-theme/gokarna-hugo/pull/117)~~ This feature was approved [a year later](https://github.com/gokarna-theme/gokarna-hugo/pull/169) courtesy of another contributor.
+I'm now [a contributor to the project](https://github.com/gokarna-theme/gokarna-hugo/graphs/contributors), seeing [pull requests merged upstream](https://github.com/gokarna-theme/gokarna-hugo/pulls?q=is%3Apr+is%3Aclosed+author%3Ajamesericdavidson).
 
 ### Credits
 
