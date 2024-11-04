@@ -4,10 +4,8 @@ showTableOfContents: true
 slug: "projects"
 title: "Projects"
 type: "page"
-image: "/images/codeberg.webp"
+image: "/images/gokarna.webp"
 ---
-
-![Screenshot of my libre Git repositories, hosted on Codeberg.org](/images/codeberg.webp)
 
 ## Introduction
 
