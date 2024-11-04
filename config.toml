@@ -51,16 +51,16 @@ title = "James Davidson"
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Interviews"
-    url = "/interviews/"
-    weight = 2
-    pre = "<span data-feather='mic'></span>"
-
-  [[menu.main]]
     name = "Radio"
     url = "/radio/"
-    weight = 3
+    weight = 2
     pre = "<span data-feather='headphones'></span>"
+
+  [[menu.main]]
+    name = "Interviews"
+    url = "/interviews/"
+    weight = 3
+    pre = "<span data-feather='mic'></span>"
 
   [[menu.main]]
     name = "Posts"
