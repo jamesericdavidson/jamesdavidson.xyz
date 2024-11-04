@@ -87,16 +87,16 @@ title = "James Davidson"
     pre = "<span data-feather='linkedin'></span>"
 
   [[menu.main]]
-    identifier = "Codeberg"
-    weight = 20
-    url = "https://codeberg.org/jamesericdavidson"
-    pre = "<span data-feather='code'></span>"
-
-  [[menu.main]]
     identifier = "GitHub"
-    weight = 21
+    weight = 20
     url = "https://github.com/jamesericdavidson"
     pre = "<span data-feather='github'></span>"
+
+  [[menu.main]]
+    identifier = "Codeberg"
+    weight = 21
+    url = "https://codeberg.org/jamesericdavidson"
+    pre = "<span data-feather='code'></span>"
 
   [[menu.main]]
     identifier = "Email"
