@@ -63,16 +63,16 @@ title = "James Davidson"
     pre = "<span data-feather='mic'></span>"
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 4
-    pre = "<span data-feather='book'></span>"
-
-  [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 5
+    weight = 4
     pre = "<span data-feather='code'></span>"
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 5
+    pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
     name = "Tags"
