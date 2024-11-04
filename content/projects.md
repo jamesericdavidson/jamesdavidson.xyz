@@ -112,7 +112,6 @@ I'm now [a contributor to the project](https://github.com/526avijitgupta/gokarna
 - [Support home page front matter](https://github.com/526avijitgupta/gokarna/pull/119)
 - [Add front matter templates](https://github.com/526avijitgupta/gokarna/pull/241)
 - ~~[Show the date a post was last modified](https://github.com/526avijitgupta/gokarna/pull/117)~~ This feature was approved [a year later](https://github.com/526avijitgupta/gokarna/pull/169) courtesy of another contributor.
-- [Prevent unbroken strings from overflowing](https://github.com/526avijitgupta/gokarna/pull/146)
 
 ### Credits
 
