@@ -1,4 +1,2 @@
 # Ignore lock when running a local hugo server
 .hugo_build.lock
-# Ignore public/ directory created when building site
-public
