@@ -13,6 +13,10 @@ type: "page"
 
 ![Picture of Virtual DJ software](/images/dj.webp)
 
+## 2024-11-14: Big Band
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-141124/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/5SPnwFFZYQxf8GM9YRgZqr).
+
 ## 2024-10-31: Halloween
 
 The air that night was full of fright - what a delight!
