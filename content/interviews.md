@@ -13,6 +13,8 @@ type: "page"
 
 ## Maisy Webb (Taste of Zero Waste)
 
+![Taste of Zero Waste stand](/images/taste_of_zero_waste_stand.webp)
+
 {{< audio src="/audio/Maisy_Webb_Taste_of_Zero_Waste_Interview_with_James_Davidson.mp3" >}}
 
 Follow Taste of Zero Waste on [Facebook](https://www.facebook.com/people/Taste-of-Zero-Waste/100090100032130/) and [Instagram](https://www.instagram.com/tasteofzerowasteuk/).

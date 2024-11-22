@@ -13,6 +13,34 @@ type: "page"
 
 ![Picture of Virtual DJ software](/images/dj.webp)
 
+## 2024-11-14: Big Band
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-141124/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/5SPnwFFZYQxf8GM9YRgZqr).
+
+## 2024-10-31: Halloween
+
+The air that night was full of fright - what a delight!
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presaents-james-davidsons-halloween-special-311024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/1I1ZVNPcVzaTK1c9T9SLY9).
+
+Featuring Rob Zombie, Ministry, Ozzy Osbourne, Ice Nine Kills, Evanescence, and AFI.
+
+## 2024-10-24: Big Band
+
+Jazz and swing legends from yesteryear.
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-241024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/71Qphtg40vYl41aJRz4Sbp).
+
+Featuring Count Basie, Quincy Jones, Tommy Dorsey, Woody Herman, Artie Shaw, and Duke Ellington.
+
+## 2024-10-10: Synthwave
+
+Hear synthwave from all around the globe: France, Belarus, Finland, and more.
+
+[Listen on Mixcloud](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-101024/), or play your favourite songs again [from the Spotify playlist](https://open.spotify.com/playlist/50gr4W1663e9CWxpDxu7iu?si=sYi0883bRJ6MoezW91ds9Q).
+
+Featuring Dan Terminus, Fury Weekend, Perturbator, Carpenter Brut, and Dance With The Dead.
+
 ## 2024-10-03: Rock [Explicit Language]
 
 Two hours of 60s, 70s, and 80s rock bands. Includes listener requests, and one instance of strong language.
