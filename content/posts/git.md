@@ -1,7 +1,6 @@
 ---
-date: 2024-10-06
+date: 2024-11-22
 description: "It's like Git for Dummies..."
-draft: true
 image: "/image/git.svg"
 showTableOfContents: true
 slug: "learn-git-from-the-terminal"
