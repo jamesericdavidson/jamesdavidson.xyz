@@ -26,9 +26,6 @@ Not all of my projects are discussed on this page. So stay tuned for more!
 
 Jump to the project which interests you the most.
 
-[jimbOS](#jimbos)
-: A custom Universal Blue image, derived from Fedora Silverblue
-
 [jamesdavidson.xyz](#jamesdavidsonxyz)
 : You are here!
 
@@ -46,31 +43,6 @@ Jump to the project which interests you the most.
 
 [Map Symbols](#map-symbols)
 : Match the Ordnance Survey map symbol shown to the corresponding button
-
-## jimbOS (2024) {#jimbos}
-
-{{< figure src="/images/bluefin-autumn.webp" alt="Artwork of dinosaurs in a wooded forest. The image is tinted red to reflect autumn colours." attr="Image provided courtesy of the Universal Blue project." attrlink="https://universal-blue.discourse.group/t/dinosaur-gallery/18/4" >}}
-
-### Synopsis
-
-jimbOS employs a light-touch approach to customising the Linux desktop. It uses the [Bluefin](https://projectbluefin.io/) image provided by [Universal Blue](https://universal-blue.org/) as a base, and makes modifications as per my preferences.
-
-The cloud native model afforded by Universal Blue sidesteps the issues of:
-
-- Snowflake systems (a uniquely composed operating system which is difficult to replicate)
-- Configuration management (a la Ansible playbooks)
-- Package manager conflicts
-- And so on...
-
-Universal Blue is derived from [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/), and inherits the benefits of immutable and atomic systems (some of which are detailed in my '[openSUSE Aeon is the future of Linux](/posts/opensuse-aeon-is-the-future-of-linux/)' article).
-
-jimbOS, Bluefin, and Universal Blue are licensed using the Apache License 2.0.
-
-[View the source code](https://github.com/jamesericdavidson/jimbOS-bluefin-dx).
-
-### Credits
-
-I offer my thanks and congratulations to [Jorge Castro](https://www.ypsidanger.com/) and the [Universal Blue project](https://universal-blue.org/) for developing the infrastructure, images, documentation, and other tools responsible for enabling the cloud native model to thrive on desktop.
 
 ## jamesdavidson.xyz (2022-2024) {#jamesdavidsonxyz}
 
