@@ -9,7 +9,6 @@ enableEmoji = "true"
 enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
-theme = "gokarna"
 title = "James Davidson"
 
 [minify]

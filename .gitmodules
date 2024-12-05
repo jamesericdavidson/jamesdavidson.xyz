@@ -4,6 +4,3 @@
 [submodule "static/demos/pip-calculator"]
 	path = static/demos/pip-calculator
 	url = https://codeberg.org/jamesericdavidson/pip-calculator.git
-[submodule "themes/gokarna"]
-	path = themes/gokarna
-	url = https://github.com/gokarna-theme/gokarna-hugo.git
