@@ -16,6 +16,10 @@ title = "James Davidson"
   # https://gohugo.io/hugo-pipes/minification/
   minifyOutput = true
 
+[module]
+  [[module.imports]]
+    path = 'github.com/gokarna-theme/gokarna-hugo'
+
 [params]
 
   # https://gohugo.io/methods/site/params/
