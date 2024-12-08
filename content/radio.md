@@ -12,9 +12,9 @@ type: "page"
 
 {{< include "/content/index-about.md" >}}
 
-<!-- Explicitly include widths, otherwise SVGs "render" as 0x0 on
-    tablet/desktop-sized screens -->
-<!-- Mixcloud width ~200px, Spotify/YouTube width ~100px -->
+## 2024 Radio Shows
+
+Replay past shows, find specific songs, or watch the interviews.
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
@@ -30,3 +30,5 @@ type: "page"
 | 2024-09-26 | {{< figure link="https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidson-random-radio-show-260924/" alt="Mixcloud" src="/svg/icons/mixcloud.svg" >}} | {{< figure link="https://open.spotify.com/playlist/4TwAxbOltwufsa7IN4Rwno" alt="Spotify" src="/svg/icons/spotify.svg" >}} |
 | 2024-09-19 | | {{< figure link="https://open.spotify.com/playlist/5tggju6ZPvvKITCE15RpiR" alt="Spotify" src="/svg/icons/spotify.svg" >}} |
 | 2024-09-12 | {{< figure link="https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-120924/" alt="Mixcloud" src="/svg/icons/mixcloud.svg" >}} | {{< figure link="https://open.spotify.com/playlist/4TwAxbOltwufsa7IN4Rwno" alt="Spotify" src="/svg/icons/spotify.svg" >}} | {{< figure link="https://youtu.be/UNNN_JIzmeg" alt="YouTube" src="/svg/icons/youtube.svg" width=100 >}} |
+
+Some shows are repeated due to absence, or are otherwise unavailable.
