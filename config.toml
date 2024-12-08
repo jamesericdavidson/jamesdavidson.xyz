@@ -35,7 +35,6 @@ title = "James Davidson"
   numberPostsOnHomePage = 3
   pygmentsStyle = "hr_high_contrast"
   showBackToTopButton = true
-  showPostsOnHomePage = "recent"
   togglePreviousAndNextButtons = "true"
 
   socialIcons = [
