@@ -68,14 +68,8 @@ title = "James Davidson"
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 5
+    weight = 4
     pre = "<span data-feather='book'></span>"
-
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 6
-    pre = "<span data-feather='tag'></span>"
 
   [[menu.main]]
     identifier = "LinkedIn"
