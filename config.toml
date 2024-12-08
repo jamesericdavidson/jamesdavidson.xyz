@@ -39,9 +39,9 @@ title = "James Davidson"
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "youtube", url = "https://www.youtube.com/@jamesericdavidson"},
+    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
-    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
   ]
 
 [menu]
@@ -83,22 +83,22 @@ title = "James Davidson"
     pre = "<span data-feather='youtube'></span>"
 
   [[menu.main]]
+    identifier = "Email"
+    weight = 12
+    url = "mailto:james@jamesdavidson.xyz"
+    pre = "<span data-feather='mail'></span>"
+
+  [[menu.main]]
     identifier = "GitHub"
-    weight = 20
+    weight = 13
     url = "https://github.com/jamesericdavidson"
     pre = "<span data-feather='github'></span>"
 
   [[menu.main]]
     identifier = "Codeberg"
-    weight = 21
+    weight = 14
     url = "https://codeberg.org/jamesericdavidson"
     pre = "<span data-feather='code'></span>"
-
-  [[menu.main]]
-    identifier = "Email"
-    weight = 99
-    url = "mailto:james@jamesdavidson.xyz"
-    pre = "<span data-feather='mail'></span>"
 
 [markup]
   [markup.tableOfContents]
