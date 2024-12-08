@@ -9,7 +9,7 @@ image: "/images/gokarna.webp"
 
 ## Introduction
 
-This is a portfolio of [my projects](https://codeberg.org/jamesericdavidson), presented in chronological order.
+This is a portfolio of my projects ([GitHub](https://github.com/jamesericdavidson), [Codeberg](https://codeberg.org/jamesericdavidson)), presented in chronological order.
 
 I provide comments on:
 
