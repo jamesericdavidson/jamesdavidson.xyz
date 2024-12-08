@@ -74,7 +74,17 @@ A content management system such as WordPress is feature-rich, but complex. I do
 
 I settled on [Gokarna](https://github.com/gokarna-theme/gokarna-hugo), a theme which is minimal, responsive and themeable.
 
-I'm now [a contributor to the project](https://github.com/gokarna-theme/gokarna-hugo/graphs/contributors), seeing [pull requests merged upstream](https://github.com/gokarna-theme/gokarna-hugo/pulls?q=is%3Apr+is%3Aclosed+author%3Ajamesericdavidson).
+I'm now [a contributor to the project](https://github.com/gokarna-theme/gokarna-hugo/graphs/contributors), seeing [pull requests merged upstream](https://github.com/gokarna-theme/gokarna-hugo/pulls?q=is%3Apr+is%3Aclosed+author%3Ajamesericdavidson):
+
+- Increased Google Lighthouse score to 100 across all audits
+- Re-wrote documentation for conciseness, and relevance to first-time users
+- Containerised Python script for consistency, and CI/CD usage
+
+... And introduced the following features:
+
+- Programmatically add copyright notices to content
+- Link to the next and previous blog post
+- Bootstrap page metadata
 
 ### Credits
 
