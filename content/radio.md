@@ -21,6 +21,7 @@ Replay the shows from Mixcloud, find your favourite songs on the Spotify playlis
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
+| 2024-12-05 |
 | 2024-11-28 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-281124/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2B4rnVE76Agiihk98BfpAG) |
 | 2024-11-21 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-211124/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/6GddywdBr6vSN8qpZr0PRD) |
 | 2024-11-14 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-141124/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/5SPnwFFZYQxf8GM9YRgZqr) |
