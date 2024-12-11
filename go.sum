@@ -1,2 +1,4 @@
 github.com/gokarna-theme/gokarna-hugo v0.0.0-20241124174926-09992f3c436a h1:NS6N22hDk5NuapKY6ncqTsInlcT+FD0lEOZt57vnaEo=
 github.com/gokarna-theme/gokarna-hugo v0.0.0-20241124174926-09992f3c436a/go.mod h1:iCdf843+ufY8d6/PghnrvxrmNDv6JCT2lMPa2b/xlis=
+github.com/squidfingers/hugo-shortcodes v0.0.0-20240925214038-4adf384552cc h1:GJCNHsr+BC1cj3hWV4kVdQ1wVzN+KA/R2un0o8svRf0=
+github.com/squidfingers/hugo-shortcodes v0.0.0-20240925214038-4adf384552cc/go.mod h1:C+VrotMA647WWfeGq87Tkmdb5lkdP6GsHeVAXt9rq7Q=

@@ -19,6 +19,8 @@ title = "James Davidson"
 [module]
   [[module.imports]]
     path = 'github.com/gokarna-theme/gokarna-hugo'
+  [[module.imports]]
+    path = 'github.com/squidfingers/hugo-shortcodes'
 
 [params]
 
