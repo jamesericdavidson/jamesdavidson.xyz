@@ -2,19 +2,22 @@
 aliases:
     - "radio-show-archive"
 date: 2024-09-13
+description: "Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!"
 image: "/images/dj.webp"
 slug: "radio"
-title: "Radio Show Archive"
+title: "The Swing with Jim Show - featuring Jibber Jabber with Jim"
 type: "page"
 ---
 
-![Picture of Virtual DJ software](/images/dj.webp)
+Tune in every Thursday evening, between 19:00 and 21:00 (GMT/BST).
 
-{{< include "/content/index-about.md" >}}
+{{< include "/static/html/radio_embed.html" >}}
 
-## 2024 Radio Shows
+Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!
 
-Replay past shows, find specific songs, or watch the interviews.
+## Catch Up on Swing with Jim
+
+Replay the shows from Mixcloud, find your favourite songs on the Spotify playlist, or watch the *Jibber Jabber with Jim* segments on YouTube.
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
@@ -30,5 +33,3 @@ Replay past shows, find specific songs, or watch the interviews.
 | 2024-09-26 | {{< figure link="https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidson-random-radio-show-260924/" alt="Mixcloud" src="/svg/icons/mixcloud.svg" >}} | {{< figure link="https://open.spotify.com/playlist/4TwAxbOltwufsa7IN4Rwno" alt="Spotify" src="/svg/icons/spotify.svg" >}} |
 | 2024-09-19 | | {{< figure link="https://open.spotify.com/playlist/5tggju6ZPvvKITCE15RpiR" alt="Spotify" src="/svg/icons/spotify.svg" >}} |
 | 2024-09-12 | {{< figure link="https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-random-radio-show-120924/" alt="Mixcloud" src="/svg/icons/mixcloud.svg" >}} | {{< figure link="https://open.spotify.com/playlist/4TwAxbOltwufsa7IN4Rwno" alt="Spotify" src="/svg/icons/spotify.svg" >}} | {{< figure link="https://youtu.be/UNNN_JIzmeg" alt="YouTube" src="/svg/icons/youtube.svg" width=100 >}} |
-
-Some shows are repeated due to absence, or are otherwise unavailable.
