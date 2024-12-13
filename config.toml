@@ -38,7 +38,7 @@ title = "James Davidson"
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
-    {name = "youtube", url = "https://www.youtube.com/@jamesericdavidson"},
+    {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
     {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
@@ -79,7 +79,7 @@ title = "James Davidson"
   [[menu.main]]
     identifier = "YouTube"
     weight = 11
-    url = "https://www.youtube.com/@jamesericdavidson"
+    url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"
     pre = "<span data-feather='youtube'></span>"
 
   [[menu.main]]
