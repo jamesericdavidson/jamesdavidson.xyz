@@ -1,10 +1,12 @@
 ---
 aliases:
+    - "jibberjabberwithjim"
+    - "radio"
     - "radio-show-archive"
 date: 2024-09-13
 description: "Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!"
 image: "/images/dj.webp"
-slug: "radio"
+slug: "swingwithjim"
 title: "Swing with Jim, featuring Jibber Jabber with Jim"
 type: "page"
 ---

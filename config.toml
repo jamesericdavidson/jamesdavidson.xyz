@@ -53,8 +53,8 @@ title = "James Davidson"
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Radio"
-    url = "/radio/"
+    name = "Swing with Jim"
+    url = "/swingwithjim/"
     weight = 2
     pre = "<span data-feather='headphones'></span>"
 
