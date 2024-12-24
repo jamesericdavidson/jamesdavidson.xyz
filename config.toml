@@ -32,8 +32,7 @@ title = "James Davidson"
   description = "Host of Swing with Jim, featuring Jibber Jabber with Jim"
   footer = "James Davidson"
   metaKeywords = ["swing with jim", "jibber jabber with jim", "fcr plymouth",
-      "ferndale community radio", "fcr radio", "fcr live", "fcr", "radio",
-      "plymouth radio", "interviews", "interviews with james davidson"]
+      "ferndale community radio"]
   pygmentsStyle = "hr_high_contrast"
   showBackToTopButton = true
   togglePreviousAndNextButtons = "true"
