@@ -5,7 +5,7 @@ copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.
 defaultContentLanguage = "en"
 # Automatically generated RSS was broken by Hugo v0.134.x
 disableKinds = "RSS"
-enableEmoji = "true"
+enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
