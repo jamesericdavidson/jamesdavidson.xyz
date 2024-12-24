@@ -15,9 +15,22 @@ type: "page"
 
 Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!
 
+## Upcoming Jibber Jabber with Jim Episodes
+
+Get a sneak peek into the next 30 days.
+
+| Date | Guest | Promotional Poster |
+| ---- | ----- | ----- |
+| 2025-01-02 | Selina Wells | ![Selina tells all on global citizenship, the value of cultural export, and the importance of identity](/images/promos/selina-wells.webp) |
+| 2025-01-09 | Phil Poole (Doomsday Outlaw) | ![Phil joins me on a deep dive into Doomsday Outlaw’s latest album, how it was made, and their future goals](/images/promos/phil-poole-doomsday-outlaw.webp) |
+| 2025-01-16 | TBA
+| 2025-01-23 | TBA
+
 ## Catch Up on Swing with Jim
 
 Replay the shows from Mixcloud, find your favourite songs on the Spotify playlist, or watch the *Jibber Jabber with Jim* segments on YouTube.
+
+[Jibber Jabber with Jim episodes](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg) are released to YouTube on Monday 17:00 (GMT/BST).
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
