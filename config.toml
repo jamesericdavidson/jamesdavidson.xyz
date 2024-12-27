@@ -1,12 +1,12 @@
 # https://gohugo.io/getting-started/configuration/
 
 baseURL = "https://jamesdavidson.xyz/"
-copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0), unless otherwise stated."
+# copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0), unless otherwise stated."
 defaultContentLanguage = "en"
 # Automatically generated RSS was broken by Hugo v0.134.x
 disableKinds = "RSS"
 enableEmoji = true
-enableGitInfo = true
+# enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
 title = "James Davidson"
@@ -26,16 +26,16 @@ title = "James Davidson"
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
 
-  avatarSize = "size-s"
+  avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
-  dateFormat = "2006-01-02"
+  # dateFormat = "2006-01-02"
   description = "Host of Swing with Jim, featuring Jibber Jabber with Jim"
   footer = "James Davidson"
   metaKeywords = ["swing with jim", "jibber jabber with jim", "fcr plymouth",
       "ferndale community radio"]
-  pygmentsStyle = "hr_high_contrast"
+  # pygmentsStyle = "hr_high_contrast"
   showBackToTopButton = true
-  togglePreviousAndNextButtons = "true"
+  # togglePreviousAndNextButtons = "true"
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
@@ -58,18 +58,6 @@ title = "James Davidson"
     url = "/swingwithjim/"
     weight = 2
     pre = "<span data-feather='headphones'></span>"
-
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
-    pre = "<span data-feather='code'></span>"
-
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 4
-    pre = "<span data-feather='book'></span>"
 
   [[menu.main]]
     identifier = "LinkedIn"
