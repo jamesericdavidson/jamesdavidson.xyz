@@ -2,6 +2,7 @@
 date: 2024-12-27
 # description: ""
 image: "/images/dj.webp"
+showTableOfContents: true
 slug: "jibberjabberwithjim"
 title: "Jibber Jabber with Jim - Putting the Screws on Pithy People"
 type: "page"
@@ -13,11 +14,11 @@ Can't wait? Hear them live!
 
 {{< include "/content/index-about.md" >}}
 
-## Latest Episode
+## Latest Episode {#latest}
 
 {{< youtube nlXkMwipTmg >}}
 
-## Sneak Peek at New Episodes
+## Sneak Peek at New Episodes {#sneakpeek}
 
 | Date | Guest | Promotional Poster |
 | ---- | ----- | ----- |

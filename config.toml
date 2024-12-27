@@ -29,7 +29,6 @@ title = "James Davidson"
   avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
   # dateFormat = "2006-01-02"
-  # description = "Host of Swing with Jim, featuring Jibber Jabber with Jim"
   description = "Host of Jibber Jabber with Jim, as heard on Swing with Jim"
   footer = "James Davidson"
   metaKeywords = ["swing with jim", "jibber jabber with jim", "fcr plymouth",
