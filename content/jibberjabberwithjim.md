@@ -1,4 +1,8 @@
 ---
+aliases:
+    - "interviews"
+    - "jibberjabber"
+    - "youtube"
 date: 2024-12-27
 description: "From sustainability and human rights - to entrepeneurship and making music - there's something different to look forward to every week."
 image: "/images/dj.webp"
