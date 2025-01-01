@@ -16,8 +16,6 @@ type: "page"
 
 ## Interviews with Interesting Individuals
 
-Join me as I speak with folks around the globe about their past, present, and future.
-
 From sustainability and human rights - to entrepeneurship and making music - there's something different to look forward to every week.
 
 ## FCR Plymouth Listeners Hear Them First
