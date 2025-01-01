@@ -37,7 +37,6 @@ title = "James Davidson"
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
-    {name = "github", url = "https://github.com/jamesericdavidson"},
   ]
 
 [menu]
@@ -77,12 +76,6 @@ title = "James Davidson"
     weight = 12
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
-
-  [[menu.main]]
-    identifier = "GitHub"
-    weight = 13
-    url = "https://github.com/jamesericdavidson"
-    pre = "<span data-feather='github'></span>"
 
 [markup]
   [markup.tableOfContents]
