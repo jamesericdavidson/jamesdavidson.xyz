@@ -6,7 +6,6 @@ defaultContentLanguage = "en"
 # Automatically generated RSS was broken by Hugo v0.134.x
 disableKinds = "RSS"
 enableEmoji = true
-# enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
 title = "James Davidson"

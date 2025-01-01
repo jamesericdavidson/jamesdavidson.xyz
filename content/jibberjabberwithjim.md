@@ -6,6 +6,7 @@ aliases:
 date: 2024-12-27
 description: "From sustainability and human rights - to entrepeneurship and making music - there's something different to look forward to every week."
 image: "/images/dj.webp"
+lastmod: 2025-01-01
 showTableOfContents: true
 slug: "jibberjabberwithjim"
 title: "Jibber Jabber with Jim - Putting the Screws on Pithy People"
