@@ -38,7 +38,6 @@ title = "James Davidson"
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
-    {name = "codeberg", url = "https://codeberg.org/jamesericdavidson"},
   ]
 
 [menu]
@@ -84,12 +83,6 @@ title = "James Davidson"
     weight = 13
     url = "https://github.com/jamesericdavidson"
     pre = "<span data-feather='github'></span>"
-
-  [[menu.main]]
-    identifier = "Codeberg"
-    weight = 14
-    url = "https://codeberg.org/jamesericdavidson"
-    pre = "<span data-feather='code'></span>"
 
 [markup]
   [markup.tableOfContents]
