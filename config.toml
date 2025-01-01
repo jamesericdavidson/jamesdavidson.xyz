@@ -34,8 +34,8 @@ title = "James Davidson"
   showBackToTopButton = true
 
   socialIcons = [
-    {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
     {name = "github", url = "https://github.com/jamesericdavidson"},
   ]
@@ -61,16 +61,16 @@ title = "James Davidson"
     pre = "<span data-feather='headphones'></span>"
 
   [[menu.main]]
-    identifier = "LinkedIn"
-    weight = 10
-    url = "https://www.linkedin.com/in/jamesericdavidson"
-    pre = "<span data-feather='linkedin'></span>"
-
-  [[menu.main]]
     identifier = "YouTube"
-    weight = 11
+    weight = 10
     url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"
     pre = "<span data-feather='youtube'></span>"
+
+  [[menu.main]]
+    identifier = "LinkedIn"
+    weight = 11
+    url = "https://www.linkedin.com/in/jamesericdavidson"
+    pre = "<span data-feather='linkedin'></span>"
 
   [[menu.main]]
     identifier = "Email"
