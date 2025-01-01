@@ -25,7 +25,7 @@ title = "James Davidson"
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
 
-  avatarSize = "size-m"
+  avatarSize = "size-s"
   avatarURL = "/images/avatar.webp"
   # dateFormat = "2006-01-02"
   description = "Host of Jibber Jabber with Jim, as heard on Swing with Jim"
