@@ -19,6 +19,10 @@ title = "James Davidson"
   [[module.imports]]
     path = 'github.com/gokarna-theme/gokarna-hugo'
 
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+
 [params]
 
   # https://gohugo.io/methods/site/params/
