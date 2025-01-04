@@ -30,7 +30,6 @@ Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with
 
 | Date | Guest | Promo |
 | ---- | ----- | ----- |
-| 2025-01-02 | Selina Wells | [![Selina tells all on global citizenship, the value of cultural export, and the importance of identity](/images/promos/selina-wells.webp)](/images/promos/selina-wells.webp) |
 | 2025-01-09 | Phil Poole (Doomsday Outlaw) | [![Phil joins me on a deep dive into Doomsday Outlaw’s latest album, how it was made, and their future goals.](/images/promos/phil-poole-doomsday-outlaw.webp)](/images/promos/phil-poole-doomsday-outlaw.webp) |
 | 2025-01-16 | Leo Carr (Study Dog) | [![Leo speaks on the impact of shortened attention spans in schoolchildren, and how Study Dog is ameliorating revision.](/images/promos/leo-carr-study-dog.webp)](/images/promos/leo-carr-study-dog.webp) |
 | 2025-01-23 | Brian Jepson (SinatraLennon) | [![Brian talks about voice acting, changing careers at 32, and how he achieved 35,000 subscribers... by shaving in his bathroom!?](/images/promos/brian-jepson-sinatralennon.webp)](/images/promos/brian-jepson-sinatralennon.webp) |
