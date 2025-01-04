@@ -36,3 +36,5 @@ Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with
 | 2025-01-23 | Brian Jepson (SinatraLennon) | [![Brian talks about voice acting, changing careers at 32, and how he achieved 35,000 subscribers... by shaving in his bathroom!?](/images/promos/brian-jepson-sinatralennon.webp)](/images/promos/brian-jepson-sinatralennon.webp) |
 | 2025-02-06 | Euan Chan (Value Match) | [![Euan sheds light on why he became a human rights consultant, creating social value, and why he left Hong Kong.](/images/promos/euan-chan.webp)](/images/promos/euan-chan.webp) |
 | 2025-02-13 | Jorge Castro (Universal Blue) |
+
+The last week of the month is reserved for two hours of back-to-back big band hits on the [Swing with Jim](/swingwithjim) show!
