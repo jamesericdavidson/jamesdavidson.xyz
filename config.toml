@@ -70,6 +70,12 @@ title = "James Davidson"
     pre = "<span data-feather='edit-3'></span>"
 
   [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 5
+    pre = "<span data-feather='book'></span>"
+
+  [[menu.main]]
     identifier = "YouTube"
     weight = 10
     url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"
