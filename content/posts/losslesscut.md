@@ -4,7 +4,7 @@ date: 2025-01-04
 image: "/images/losslesscut.webp"
 showTableOfContents: true
 #slug: ""
-#tags: [""]
+tags: [ "losslesscut" ]
 title: "Video editing is for idiots - use LosslessCut instead"
 type: "post"
 ---
