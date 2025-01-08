@@ -29,3 +29,5 @@ type: "page"
 > A truly professional experience that was fun and well hosted.
 >
 > Thank you for having me on your fabulous show.
+
+{{< youtube p5hlr1TacBI >}}
