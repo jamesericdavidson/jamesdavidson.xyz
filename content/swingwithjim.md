@@ -22,6 +22,7 @@ Replay the shows from Mixcloud, find your favourite songs on the Spotify playlis
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
+| 2025-01-09 | Coming soon! | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/4nYpr91Fcs5Ce9FGg7ASXc) | Coming soon! |
 | 2025-01-02 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-020124/) | | [![YouTube](/svg/icons/youtube.svg "Interview with Selina Wells")](https://youtu.be/p5hlr1TacBI) |
 | 2024-12-26 |
 | 2024-12-19 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-random-radio-show-191224/) | | [![YouTube](/svg/icons/youtube.svg "Interview with Sean Tilson")](https://youtu.be/nlXkMwipTmg) |
