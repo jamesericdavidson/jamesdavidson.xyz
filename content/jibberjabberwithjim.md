@@ -1,9 +1,4 @@
 ---
-aliases:
-    - "interviews"
-    - "jibberjabber"
-    - "jjwj"
-    - "youtube"
 date: 2024-12-27
 description: "Hear from subject matter experts on sustainability, human rights, entrepeneurship, and more when you tune into the Swing with Jim show."
 image: "/images/dj.webp"
