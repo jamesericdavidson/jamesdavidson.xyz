@@ -1,10 +1,12 @@
 ---
 date: 2025-01-03
-description: "Jibber Jabber with Jim guests detail their experience on the podcast - as heard on Swing with Jim."
+description: "Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim show."
 slug: "testimonials"
 title: "Testimonials - Jibber Jabber with Jim"
 type: "page"
 ---
+
+Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim show.
 
 ## Sean Tilson
 
