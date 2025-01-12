@@ -34,3 +34,13 @@ Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim sh
 > Thank you for having me on your fabulous show.
 
 {{< youtube p5hlr1TacBI >}}
+
+## Phil Poole (Doomsday Outlaw)
+
+> Really enjoyed the whole experience.
+
+### Ellie Wild
+
+> ... a really deep and thorough interview, hat tilt to both the presenter James and Doomsday Phil.
+>
+> The right questions and gentle approach can elicit some excellent interaction and James, clearly a fan of the band approached the interview from a place of knowledge and research, it absolutely showed.
