@@ -5,7 +5,7 @@ image: "/images/dj.webp"
 lastmod: 2025-01-01
 showTableOfContents: true
 slug: "jibberjabberwithjim"
-title: "Jibber Jabber with Jim - Putting the Screws on Pithy People"
+title: "Jibber Jabber with Jim - Interviews with Interesting Individuals"
 type: "page"
 ---
 
