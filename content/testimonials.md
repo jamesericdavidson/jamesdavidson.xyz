@@ -39,6 +39,8 @@ Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim sh
 
 > Really enjoyed the whole experience.
 
+{{< youtube Nxx1XQ3SIZo >}}
+
 ### Ellie Wild
 
 > ... a really deep and thorough interview, hat tilt to both the presenter James and Doomsday Phil.
