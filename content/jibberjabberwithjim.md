@@ -25,7 +25,6 @@ Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with
 
 | Date | Guest | Promo |
 | ---- | ----- | ----- |
-| 2025-01-16 | Leo Carr (Study Dog) | [![Leo speaks on the impact of shortened attention spans in schoolchildren, and how Study Dog is ameliorating revision.](/images/promos/leo-carr-study-dog.webp)](/images/promos/leo-carr-study-dog.webp) |
 | 2025-01-23 | Brian Jepson (SinatraLennon) | [![Brian talks about voice acting, changing careers at 32, and how he achieved 35,000 subscribers... by shaving in his bathroom!?](/images/promos/brian-jepson-sinatralennon.webp)](/images/promos/brian-jepson-sinatralennon.webp) |
 | 2025-02-06 | Euan Chan (Value Match) | [![Euan sheds light on why he became a human rights consultant, creating social value, and why he left Hong Kong.](/images/promos/euan-chan.webp)](/images/promos/euan-chan.webp) |
 | 2025-02-13 | Jorge Castro (Universal Blue) | [![The Universal Blue project are creating the next generation of no-nonsense computing - Jorge is on the show to tell us all about it.](/images/promos/jorge-castro-universal-blue.webp)](/images/promos/jorge-castro-universal-blue.webp) |
