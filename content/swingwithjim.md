@@ -18,7 +18,7 @@ Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin,
 
 ## Catch Up on Swing with Jim {#catchup}
 
-Replay the shows from Mixcloud, find your favourite songs on the Spotify playlist, or watch the [Jibber Jabber with Jim](/jibberjabberwithjim/) segments on YouTube.
+Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), find your favourite songs on the Spotify playlist, or watch the [Jibber Jabber with Jim](/jibberjabberwithjim/) segments on [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
 | Date | Mixcloud | Spotify | YouTube |
 | ---- | :------: | :-----: | :-----: |
