@@ -7,7 +7,7 @@ title: "Testimonials - Jibber Jabber with Jim"
 type: "page"
 ---
 
-Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim show.
+Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard on the [Swing with Jim](/swingwithjim/) show.
 
 ## Sean Tilson
 
