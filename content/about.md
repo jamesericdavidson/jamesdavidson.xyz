@@ -47,10 +47,10 @@ How does it work?
 
 All these [testimonials](/testimonials/) can't be wrong.
 
-> A truly professional experience that was fun and well hosted.
+> A truly professional experience that was fun and well hosted. - Selina Wells
 
-> [James] has a knack for teasing the best responses from you and is kind in character and nature.
+> [James] has a knack for teasing the best responses from you and is kind in character and nature. - Sean Tilson
 
-> It also gave me some insights into my business I hadn’t thought about before.
+> It also gave me some insights into my business I hadn’t thought about before. - Leo Carr (Director, Study Dog)
 
-> The right questions and gentle approach can elicit some excellent interaction and James ... approached the interview from a place of knowledge and research ...
+> The right questions and gentle approach can elicit some excellent interaction and James ... approached the interview from a place of knowledge and research ... - Ellie Wild
