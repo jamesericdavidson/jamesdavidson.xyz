@@ -51,4 +51,6 @@ All these [testimonials](/testimonials/) can't be wrong.
 
 > [James] has a knack for teasing the best responses from you and is kind in character and nature.
 
+> It also gave me some insights into my business I hadn’t thought about before.
+
 > The right questions and gentle approach can elicit some excellent interaction and James ... approached the interview from a place of knowledge and research ...
