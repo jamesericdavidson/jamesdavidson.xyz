@@ -35,6 +35,14 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube p5hlr1TacBI >}}
 
+## Leo Carr (Study Dog)
+
+> I thoroughly enjoyed my conversation with James on Jibber Jabber.
+>
+> We discussed many interesting topics and I had a lovely trip down memory lane! It also gave me some insights into my business I hadn't thought about before.
+>
+> Thank you James for hosting such a wonderful show!
+
 ## Phil Poole (Doomsday Outlaw)
 
 > Really enjoyed the whole experience.
