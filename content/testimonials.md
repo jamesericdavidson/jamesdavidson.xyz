@@ -35,7 +35,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube p5hlr1TacBI >}}
 
-## Leo Carr (Study Dog)
+## Leo Carr (Director, Study Dog) {#leo-carr}
 
 > I thoroughly enjoyed my conversation with James on Jibber Jabber.
 >
@@ -45,7 +45,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube 6ferLH7L6mQ >}}
 
-## Phil Poole (Doomsday Outlaw)
+## Phil Poole (Frontman, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
 
