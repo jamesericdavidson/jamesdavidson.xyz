@@ -43,6 +43,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 >
 > Thank you James for hosting such a wonderful show!
 
+{{< youtube 6ferLH7L6mQ >}}
+
 ## Phil Poole (Doomsday Outlaw)
 
 > Really enjoyed the whole experience.
