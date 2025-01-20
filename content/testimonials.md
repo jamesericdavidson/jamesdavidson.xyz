@@ -23,6 +23,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
+{{< spotify 4RMX6BrcZBhN4dQYMzMmNf >}}
+
 ## Selina Wells
 
 > What an enjoyable evening I spent with James at FCR.
@@ -35,6 +37,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube id=p5hlr1TacBI loading=lazy >}}
 
+{{< spotify 1yCjFAz3fSS1cRJNTmpmg6 >}}
+
 ## Leo Carr (Director, Study Dog) {#leo-carr}
 
 > I thoroughly enjoyed my conversation with James on Jibber Jabber.
@@ -45,11 +49,15 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
+{{< spotify 02FJGX2ntLtM5YyKFNiRWr >}}
+
 ## Phil Poole (Frontman, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
 
 {{< youtube id=Nxx1XQ3SIZo loading=lazy >}}
+
+{{< spotify 6VTTOdcWNLESsJjY7jece1 >}}
 
 ### Ellie Wild
 

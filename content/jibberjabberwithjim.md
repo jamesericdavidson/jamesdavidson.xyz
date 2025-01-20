@@ -17,6 +17,8 @@ Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
+{{< spotify 02FJGX2ntLtM5YyKFNiRWr >}}
+
 ## Hear It First on Swing with Jim {#swingwithjim}
 
 {{< include "/content/index-about.md" >}}
