@@ -15,7 +15,7 @@ New episodes are uploaded to [YouTube](https://www.youtube.com/channel/UCPiMq6YL
 
 Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with Jim show.
 
-{{< youtube Nxx1XQ3SIZo >}}
+{{< youtube 6ferLH7L6mQ >}}
 
 ## Hear It First on Swing with Jim {#swingwithjim}
 
