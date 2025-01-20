@@ -17,7 +17,7 @@ Here's what I'm up to in 2025.
 
 ![Jibber Jabber with Jim watermark](/images/watermark.webp)
 
-[Jibber Jabber with Jim](/jibberjabberwithjim/) is a podcast where I interview interesting individuals - including subject matter experts on sustainability, human rights, and entrepeneurship.
+[Jibber Jabber with Jim](/jibberjabberwithjim/) is a podcast where I interview interesting individuals - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
 You can hear new episodes weekly (except for the last Thursday of the month). Every episode is different - take a [sneak peek](/jibberjabberwithjim/#sneakpeek).
 
