@@ -76,14 +76,8 @@ title = "James Davidson"
     pre = "<span data-feather='user'></span>"
 
   [[menu.main]]
-    identifier = "LinkedIn"
-    weight = 10
-    url = "https://www.linkedin.com/in/jamesericdavidson"
-    pre = "<span data-feather='linkedin'></span>"
-
-  [[menu.main]]
     identifier = "Email"
-    weight = 11
+    weight = 10
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
