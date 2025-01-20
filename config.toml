@@ -40,6 +40,8 @@ title = "James Davidson"
   socialIcons = [
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "spotify", url = "https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8?si=BJI8302FShq0xyIG00-NpQ"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
+    {name = "protonmail", url = "mailto:james@jamesdavidson.xyz"},
   ]
 
 [menu]
