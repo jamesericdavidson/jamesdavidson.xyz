@@ -21,7 +21,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 >
 > I couldn't recommend my experience enough!
 
-{{< youtube nlXkMwipTmg >}}
+{{< youtube id=nlXkMwipTmg loading=lazy >}}
 
 ## Selina Wells
 
@@ -33,7 +33,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 >
 > Thank you for having me on your fabulous show.
 
-{{< youtube p5hlr1TacBI >}}
+{{< youtube id=p5hlr1TacBI loading=lazy >}}
 
 ## Leo Carr (Director, Study Dog) {#leo-carr}
 
@@ -43,13 +43,13 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard
 >
 > Thank you James for hosting such a wonderful show!
 
-{{< youtube 6ferLH7L6mQ >}}
+{{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
 ## Phil Poole (Frontman, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
 
-{{< youtube Nxx1XQ3SIZo >}}
+{{< youtube id=Nxx1XQ3SIZo loading=lazy >}}
 
 ### Ellie Wild
 
