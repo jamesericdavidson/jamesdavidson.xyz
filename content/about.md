@@ -51,6 +51,6 @@ All these [testimonials](/testimonials/) can't be wrong.
 
 > [James] has a knack for teasing the best responses from you and is kind in character and nature. - Sean Tilson
 
-> It also gave me some insights into my business I hadn’t thought about before. - Leo Carr (Director, Study Dog)
+> [The podcast] ... gave me some insights into my business I hadn’t thought about before. - Leo Carr (Director, Study Dog Ltd)
 
 > The right questions and gentle approach can elicit some excellent interaction and James ... approached the interview from a place of knowledge and research ... - Ellie Wild
