@@ -1,7 +1,7 @@
-Tune in to [Swing with Jim](/swingwithjim/) every Thursday, between 19:00 and 21:00 (GMT/BST).
+Tune in to the [Swing with Jim](/swingwithjim/) show every Thursday, between 19:00 and 21:00 (GMT/BST).
+
+*Courtesy of [FCR Plymouth](https://www.fcradio.co.uk/) (Ferndale Community Radio).*
 
 {{< radio >}}
 
-The show gets repeated every Sunday, between 15:00 and 17:00.
-
-*Courtesy of [FCR Plymouth](https://www.fcradio.co.uk/) (Ferndale Community Radio).*
+From Frank Sinatra and Dean Martin - to Nat King Cole and Tony Bennett - all your favourite big band and swing musicians are here!

@@ -14,7 +14,7 @@ type: "page"
 
 {{< include "/content/index-about.md" >}}
 
-Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!
+Listen live, or catch up on past broadcasts. The show gets repeated every Sunday, between 15:00 and 17:00.
 
 ## Catch Up on Swing with Jim {#catchup}
 
