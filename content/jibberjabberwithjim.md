@@ -34,4 +34,4 @@ Hear interviews early by [catching up](/swingwithjim/#catchup) on the Swing with
 | 2025-03-13 | Theresa Bakken (Desideratum Podcast) | Coming soon! |
 | 2025-03-20 | Elena Brake | Coming soon! |
 
-The last week of the month is reserved for two hours of back-to-back big band hits on the [Swing with Jim](/swingwithjim) show!
+The last Thursday of the month is reserved for two hours of back-to-back big band hits on the [Swing with Jim](/swingwithjim) show!
