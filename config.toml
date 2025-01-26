@@ -72,13 +72,13 @@ title = "James Davidson"
     pre = "<span data-feather='edit-3'></span>"
 
   [[menu.main]]
-    name = "About Me"
+    name = "About"
     url = "/about/"
     weight = 5
     pre = "<span data-feather='user'></span>"
 
   [[menu.main]]
-    identifier = "Email"
+    name = "Contact"
     weight = 10
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
