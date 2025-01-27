@@ -3,8 +3,6 @@
 baseURL = "https://jamesdavidson.xyz/"
 copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)."
 defaultContentLanguage = "en"
-# Automatically generated RSS was broken by Hugo v0.134.x
-disableKinds = "RSS"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
