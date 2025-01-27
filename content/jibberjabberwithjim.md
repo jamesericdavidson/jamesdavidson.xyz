@@ -13,9 +13,9 @@ type: "page"
 
 New episodes are uploaded to [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg) and [Spotify Podcasts](https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8?si=BJI8302FShq0xyIG00-NpQ) on Monday 17:00 (GMT/BST).
 
-{{< youtube id=6ferLH7L6mQ loading=lazy >}}
+{{< youtube id=IcaLpb1wLKg loading=lazy >}}
 
-{{< spotify 02FJGX2ntLtM5YyKFNiRWr >}}
+{{< spotify 5cQuh13KzwYBmE02MWhlhj >}}
 
 ## Hear It First on Swing with Jim {#swingwithjim}
 
