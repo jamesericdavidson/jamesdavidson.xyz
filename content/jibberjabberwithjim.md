@@ -11,7 +11,7 @@ type: "page"
 
 ## Latest Episode {#latest}
 
-New episodes are uploaded to [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg) and [Spotify Podcasts](https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8?si=BJI8302FShq0xyIG00-NpQ) on Monday 17:00 (GMT/BST).
+New episodes are uploaded to [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg) and [Spotify](https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8?si=BJI8302FShq0xyIG00-NpQ) on Monday 17:00 (GMT/BST).
 
 {{< youtube id=IcaLpb1wLKg loading=lazy >}}
 
