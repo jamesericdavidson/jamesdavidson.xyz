@@ -1,5 +1,3 @@
-# https://gohugo.io/getting-started/configuration/
-
 baseURL = "https://jamesdavidson.xyz/"
 copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)."
 defaultContentLanguage = "en"
@@ -8,25 +6,7 @@ enableRobotsTXT = true
 languageCode = "en"
 title = "James Davidson"
 
-[minify]
-  # https://gohugo.io/getting-started/configuration/#configure-minify
-  # https://gohugo.io/hugo-pipes/minification/
-  minifyOutput = true
-
-[module]
-  [[module.imports]]
-    path = 'github.com/gokarna-theme/gokarna-hugo'
-
-[privacy]
-  [privacy.youtube]
-    privacyEnhanced = true
-
 [params]
-
-  # https://gohugo.io/methods/site/params/
-  # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
-  # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
-
   avatarSize = "size-xs"
   avatarURL = "/images/avatar.webp"
   description = "Radio Presenter and Podcast Host"
@@ -86,3 +66,14 @@ title = "James Davidson"
     startLevel = 2
     endLevel = 3
     ordered = false
+
+[minify]
+  minifyOutput = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/gokarna-theme/gokarna-hugo"
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
