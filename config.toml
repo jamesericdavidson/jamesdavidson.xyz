@@ -27,7 +27,7 @@ title = "James Davidson"
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-basics/
   # https://gokarna-hugo.netlify.app/posts/theme-documentation-advanced/
 
-  avatarSize = "size-s"
+  avatarSize = "size-xs"
   avatarURL = "/images/avatar.webp"
   description = "Radio Presenter and Podcast Host"
   fontSize = "20px"
