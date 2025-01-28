@@ -2,6 +2,8 @@
 date: 2025-01-03
 description: "Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim show."
 showTableOfContents: true
+sitemap:
+  disable: true
 slug: "testimonials"
 title: "Testimonials - Jibber Jabber with Jim"
 type: "page"

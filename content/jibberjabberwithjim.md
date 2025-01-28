@@ -4,6 +4,8 @@ description: "Hear from subject matter experts on sustainability, human rights, 
 image: "/images/watermark.webp"
 lastmod: 2025-01-01
 showTableOfContents: true
+sitemap:
+  priority: 1.0
 slug: "jibberjabberwithjim"
 title: "Jibber Jabber with Jim - Interviews with Interesting Individuals"
 type: "page"

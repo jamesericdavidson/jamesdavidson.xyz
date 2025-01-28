@@ -67,6 +67,9 @@ title = "James Davidson"
     endLevel = 3
     ordered = false
 
+[sitemap]
+  changeFreq = "weekly"
+
 [minify]
   minifyOutput = true
 
