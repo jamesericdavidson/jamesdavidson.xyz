@@ -32,13 +32,13 @@ title = "James Davidson"
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Jibber Jabber with Jim"
+    name = "Podcast"
     url = "/jibberjabberwithjim/"
     weight = 2
     pre = "<span data-feather='mic'></span>"
 
   [[menu.main]]
-    name = "Swing with Jim"
+    name = "Radio"
     url = "/swingwithjim/"
     weight = 3
     pre = "<span data-feather='headphones'></span>"
