@@ -7,7 +7,7 @@ description: "Listen live, or catch up on past broadcasts. From Frank Sinatra an
 image: "/images/dj.webp"
 lastmod: 2025-01-01
 slug: "swingwithjim"
-title: "Swing with Jim - The Best of Big Band Music"
+title: "Swing with Jim - The Best of Big Band"
 type: "page"
 ---
 
