@@ -1,6 +1,7 @@
 ---
 aliases:
     - "about"
+    - "podcast"
 date: 2024-12-27
 description: "Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship."
 image: "/images/watermark.webp"
