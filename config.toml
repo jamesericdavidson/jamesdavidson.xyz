@@ -51,7 +51,7 @@ title = "James Davidson"
 
   [[menu.main]]
     name = "Contact"
-    weight = 10
+    weight = 99
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
