@@ -1,15 +1,15 @@
 ---
 date: 2025-01-03
-description: "Praise for the Jibber Jabber with Jim podcast, as heard on the Swing with Jim show."
+description: "Praise for the Jibber Jabber with Jim podcast."
 showTableOfContents: true
 sitemap:
   disable: true
 slug: "testimonials"
-title: "Testimonials - Jibber Jabber with Jim"
+title: "Testimonials"
 type: "page"
 ---
 
-Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast, as heard on the [Swing with Jim](/swingwithjim/) show.
+Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 ## Sean Tilson
 
