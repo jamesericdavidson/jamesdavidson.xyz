@@ -35,6 +35,6 @@ Up to four episodes a month. Available on [Spotify](https://open.spotify.com/sho
 | 2025-02-06 | Euan Chan (Value Match) | [![Euan sheds light on why he became a human rights consultant, creating social value, and why he left Hong Kong.](/images/promos/euan-chan.webp)](/images/promos/euan-chan.webp) |
 | 2025-02-13 | Jorge Castro (Universal Blue) | [![The Universal Blue project are creating the next generation of no-nonsense computing - Jorge is on the show to tell us all about it.](/images/promos/jorge-castro-universal-blue.webp)](/images/promos/jorge-castro-universal-blue.webp) |
 | 2025-02-20 | Dan Cooper (With Empathy Copy) | [![He used to play in a Ska band?! Listen to our conflab about music, running, copywriting, and everything in-between.](/images/promos/dan-cooper-with-empathy-copy.webp)](/images/promos/dan-cooper-with-empathy-copy.webp) |
-| 2025-03-06 | Sune Nightingale (Firepower Heating) | Coming soon! |
-| 2025-03-13 | Theresa Bakken (Desideratum Podcast) | Coming soon! |
-| 2025-03-20 | Elena Brake (Fishtek) | Coming soon! |
+| 2025-03-13 | Sune Nightingale (Firepower Heating) | Coming soon! |
+| 2025-03-20 | Theresa Bakken (Desideratum Podcast) | Coming soon! |
+| 2025-04-03 | Elena Brake (Fishtek) | Coming soon! |
