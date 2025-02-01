@@ -18,7 +18,7 @@ type: "page"
 
 Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
-Up to four episodes a month. Available on [Spotify](https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8) and [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
+Up to four episodes a month. Available on [Spotify](https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8), [Apple Podcasts](https://podcasts.apple.com/us/podcast/jibber-jabber-with-jim/id1793881233), and [YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
 {{< spotify 5cQuh13KzwYBmE02MWhlhj >}}
 
