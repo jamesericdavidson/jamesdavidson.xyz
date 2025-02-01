@@ -22,6 +22,8 @@ Up to four episodes a month. Available on [Spotify](https://open.spotify.com/sho
 
 {{< spotify 5cQuh13KzwYBmE02MWhlhj >}}
 
+{{< applepodcasts interview-with-brian-jepson-sinatralennon-jibber 1000687758516 >}}
+
 {{< youtube id=IcaLpb1wLKg loading=lazy >}}
 
 ## Hear It First on Swing with Jim {#swingwithjim}

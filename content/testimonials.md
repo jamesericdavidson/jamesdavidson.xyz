@@ -25,6 +25,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< spotify 4RMX6BrcZBhN4dQYMzMmNf >}}
 
+{{< applepodcasts interview-with-sean-tilson-jibber-jabber-with-jim-episode-2 1000687758567 >}}
+
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
 ## Selina Wells
@@ -39,6 +41,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< spotify 1yCjFAz3fSS1cRJNTmpmg6 >}}
 
+{{< applepodcasts interview-with-selina-wells-jibber-jabber-with-jim 1000687758422 >}}
+
 {{< youtube id=p5hlr1TacBI loading=lazy >}}
 
 ## Leo Carr (Director, Study Dog) {#leo-carr}
@@ -51,6 +55,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< spotify 02FJGX2ntLtM5YyKFNiRWr >}}
 
+{{< applepodcasts interview-with-leo-carr-study-dog-jibber-jabber-with 1000687758640 >}}
+
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
 ## Phil Poole (Frontman, Doomsday Outlaw) {#phil-poole}
@@ -58,6 +64,8 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 > Really enjoyed the whole experience.
 
 {{< spotify 6VTTOdcWNLESsJjY7jece1 >}}
+
+{{< applepodcasts interview-with-phil-poole-doomsday-outlaw-jibber 1000687758549 >}}
 
 {{< youtube id=Nxx1XQ3SIZo loading=lazy >}}
 
