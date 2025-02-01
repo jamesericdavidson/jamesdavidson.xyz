@@ -18,6 +18,7 @@ title = "James Davidson"
 
   socialIcons = [
     {name = "spotify", url = "https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8"},
+    {name = "applepodcasts", url = "https://podcasts.apple.com/us/podcast/jibber-jabber-with-jim/id1793881233"},
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz"}
