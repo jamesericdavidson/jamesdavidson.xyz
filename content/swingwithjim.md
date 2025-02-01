@@ -3,7 +3,7 @@ aliases:
     - "radio"
     - "radio-show-archive"
 date: 2024-09-13
-description: "Listen live, or catch up on past broadcasts. From Frank Sinatra and Dean Martin, to Nat King Cole and Tony Bennett: all your favourite big band, swing, and jazz musicians are here!"
+description: "Love big band and jazz? Tune in to Swing with Jim every Thursday between 19:00 and 21:00 (GMT/BST)."
 image: "/images/dj.webp"
 lastmod: 2025-01-01
 slug: "swingwithjim"
