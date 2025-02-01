@@ -1,6 +1,5 @@
 ---
 date: 2025-01-03
-description: "Praise for the Jibber Jabber with Jim podcast."
 showTableOfContents: true
 sitemap:
   disable: true
