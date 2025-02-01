@@ -11,7 +11,7 @@ title: "Swing with Jim - The Best of Big Band"
 type: "page"
 ---
 
-{{< include "/content/index-about.md" >}}
+{{< include "/content/_index.md" >}}
 
 Listen live, or catch up on past broadcasts. The show gets repeated every Sunday, between 15:00 and 17:00.
 

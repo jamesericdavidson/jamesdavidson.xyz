@@ -28,7 +28,7 @@ Up to four episodes a month. Available on [Spotify](https://open.spotify.com/sho
 
 ## Hear It First on Swing with Jim {#swingwithjim}
 
-{{< include "/content/index-about.md" >}}
+{{< include "/content/_index.md" >}}
 
 ## Sneak Peek at New Episodes {#sneakpeek}
 
