@@ -17,7 +17,7 @@ title = "James Davidson"
   showBackToTopButton = true
 
   socialIcons = [
-    {name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8"},
+    {name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/"},
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
     {name = "linkedin", url = "https://www.linkedin.com/in/jamesericdavidson"},
     {name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz"}
