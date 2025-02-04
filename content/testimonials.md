@@ -52,7 +52,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
-## Phil Poole (Frontman, Doomsday Outlaw) {#phil-poole}
+## Phil Poole (Lead Singer, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
 
