@@ -5,11 +5,14 @@ aliases:
 date: 2024-01-01
 description: "Love big band and jazz? Tune in to Swing with Jim every Thursday between 19:00 and 21:00 (GMT/BST)."
 image: "/images/dj.webp"
+showTableOfContents: true
 lastmod: 2025-01-01
 slug: "swingwithjim"
 title: "Swing with Jim - The Best of Big Band"
 type: "page"
 ---
+
+## Helping You Relax Into Friday {#tunein}
 
 {{< include "/content/_index.md" >}}
 
