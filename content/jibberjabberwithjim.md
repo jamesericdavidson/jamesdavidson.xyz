@@ -37,3 +37,5 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 | 2025-03-13 | Sune Nightingale (Firepower Heating) | Coming soon! |
 | 2025-03-20 | Theresa Bakken (Desideratum Podcast) | Coming soon! |
 | 2025-04-03 | Elena Brake (Fishtek) | Coming soon! |
+
+The last Thursday of the month is reserved for two hours of big band hits on the [Swing with Jim](/swingwithjim) show!
