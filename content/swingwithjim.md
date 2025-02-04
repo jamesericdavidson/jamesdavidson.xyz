@@ -21,7 +21,7 @@ Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), and fi
 
 | Date | Mixcloud | Spotify |
 | ---- | :------: | :-----: |
-| 2025-01-30 | Coming soon! | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/0Stpzijaj3DFEvf8zrt1iG) |
+| 2025-01-30 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/0Stpzijaj3DFEvf8zrt1iG) |
 | 2025-01-23 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2CXHxpnRZgG0FkDMp2RgcT) |
 | 2025-01-16 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2sB6heFlh5MvXCuJfI6hl2) |
 | 2025-01-09 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-davidsons-radio-show-090124/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/4nYpr91Fcs5Ce9FGg7ASXc) |
