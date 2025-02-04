@@ -13,7 +13,7 @@ type: "page"
 
 {{< include "/content/_index.md" >}}
 
-The show gets repeated every Sunday, between 15:00 and 17:00.
+Missed the show? Hear it again every Sunday from 15:00.
 
 ## Home of Jibber Jabber with Jim {#jibberjabberwithjim}
 
@@ -23,7 +23,7 @@ The show gets repeated every Sunday, between 15:00 and 17:00.
 
 [Hear human interest stories](/jibberjabberwithjim/) from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
-[New episodes](/jibberjabberwithjim/#sneakpeek) air every Thursday at 19:00 (GMT/BST; excluding the last Thursday of the month).
+[New episodes](/jibberjabberwithjim/#sneakpeek) air every Thursday at 19:00 GMT (excluding the last Thursday of the month).
 
 ## Catch Up on Swing with Jim {#catchup}
 
