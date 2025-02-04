@@ -47,7 +47,7 @@ title = "James Davidson"
     name = "Testimonials"
     url = "/testimonials/"
     weight = 4
-    pre = "<span data-feather='edit-3'></span>"
+    pre = "<span data-feather='star'></span>"
 
   [[menu.main]]
     name = "Contact"
