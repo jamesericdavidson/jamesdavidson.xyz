@@ -1,7 +1,7 @@
-Love big band and jazz?
+If you **love** big band and jazz...
 
 {{< player >}}
 
-Tune in to [Swing with Jim](/swingwithjim/) every Thursday between 19:00 and 21:00 (GMT/BST).
+Then tune in to the [Swing with Jim](/swingwithjim/) show every Thursday from 19:00 GMT.
 
-Courtesy of [FCR Plymouth](https://www.fcradio.co.uk/) (Ferndale Community Radio).
+Only on [FCR Plymouth](https://www.fcradio.co.uk/).
