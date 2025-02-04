@@ -24,7 +24,7 @@ The show gets repeated every Sunday, between 15:00 and 17:00.
 
 > [The podcast] ... gave me some insights into my business I hadn’t thought about before. - [Leo Carr](/testimonials/#leo-carr) (Director, Study Dog)
 
-Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
+[Hear human interest stories](/jibberjabberwithjim/) from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
 [New episodes](/jibberjabberwithjim/#sneakpeek) air every Thursday at 19:00 (GMT/BST; excluding the last Thursday of the month).
 
