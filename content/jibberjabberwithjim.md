@@ -13,7 +13,11 @@ title: "Jibber Jabber with Jim - Interviews with Interesting Individuals"
 type: "page"
 ---
 
-## Latest Episode {#latest}
+## Catch the Latest Episode {#latest}
+
+> [James] has a knack for teasing the best responses from you ...
+>
+> \- [Sean Tilson](/testimonials/#sean-tilson)
 
 Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
@@ -25,9 +29,17 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 
 ## Hear It First on Swing with Jim {#swingwithjim}
 
+> A truly professional experience that was fun and well hosted.
+>
+> \- [Selina Wells](/testimonials/#selina-wells)
+
 {{< include "/content/_index.md" >}}
 
-## Sneak Peek at New Episodes {#sneakpeek}
+## Take a Sneak Peek at New Episodes {#sneakpeek}
+
+> Really enjoyed the whole experience.
+>
+> \- [Phil Poole](/testimonials/#phil-poole) (Lead Singer, Doomsday Outlaw)
 
 | Date | Guest | Promo |
 | ---- | ----- | ----- |
