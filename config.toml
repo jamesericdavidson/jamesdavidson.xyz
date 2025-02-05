@@ -12,8 +12,8 @@ title = "James Davidson"
   description = "Radio Presenter and Podcast Host"
   fontSize = "20px"
   footer = "James Davidson"
-  metaKeywords = ["swing with jim", "jibber jabber with jim", "fcr plymouth",
-      "ferndale community radio"]
+  metaKeywords = [ "jibber jabber with jim", "swing with jim",
+      "ferndale community radio" ]
   showBackToTopButton = true
 
   socialIcons = [
