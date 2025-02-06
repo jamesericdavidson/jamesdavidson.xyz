@@ -3,7 +3,7 @@ aliases:
     - "radio"
     - "radio-show-archive"
 date: 2024-01-01
-description: "Love big band and jazz? Tune in to Swing with Jim every Thursday between 19:00 and 21:00 (GMT/BST)."
+description: "If you love big band and jazz, then tune in to Swing with Jim every Thursday from 19:00 GMT."
 image: "/images/dj.webp"
 lastmod: 2025-01-01
 slug: "swingwithjim"
