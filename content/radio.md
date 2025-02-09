@@ -29,6 +29,8 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), and find your favourite songs on the Spotify playlist.
 
+**Notice**: In January, Ferndale Community Radio's broadcasting platform experienced an outage; recordings may not appear consistently.
+
 | Date | Mixcloud | Spotify |
 | ---- | :------: | :-----: |
 | 2025-01-30 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/0Stpzijaj3DFEvf8zrt1iG) |
