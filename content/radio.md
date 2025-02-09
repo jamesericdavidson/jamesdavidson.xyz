@@ -33,6 +33,7 @@ Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), and fi
 
 | Date | Mixcloud | Spotify |
 | ---- | :------: | :-----: |
+| 2025-02-06 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/6MKhGvjjnwBXQXk7jDkrGu) |
 | 2025-01-30 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/0Stpzijaj3DFEvf8zrt1iG) |
 | 2025-01-23 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2CXHxpnRZgG0FkDMp2RgcT) |
 | 2025-01-16 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2sB6heFlh5MvXCuJfI6hl2) |
