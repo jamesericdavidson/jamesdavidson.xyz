@@ -23,8 +23,6 @@ Hear human interest stories from across the globe - including subject matter exp
 
 Up to four episodes a month. Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
-{{< spotify 5cQuh13KzwYBmE02MWhlhj >}}
-
 {{< youtube id=tW9PnG5_oSE loading=lazy >}}
 
 ## Hear It First on Swing with Jim {#swingwithjim}
