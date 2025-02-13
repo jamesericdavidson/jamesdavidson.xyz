@@ -43,8 +43,5 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 | ---- | ----- | ----- |
 | 2025-02-13 | Jorge Castro (Universal Blue) | [![The Universal Blue project are creating the next generation of no-nonsense computing - Jorge is on the show to tell us all about it.](/images/promos/jorge-castro-universal-blue.webp)](/images/promos/jorge-castro-universal-blue.webp) |
 | 2025-02-20 | Dan Cooper (With Empathy Copy) | [![He used to play in a Ska band?! Listen to our conflab about music, running, copywriting, and everything in-between.](/images/promos/dan-cooper-with-empathy-copy.webp)](/images/promos/dan-cooper-with-empathy-copy.webp) |
-| 2025-03-13 | Theresa Bakken (Desideratum Podcast) | Coming soon! |
-| TBA | Sune Nightingale (Firepower Heating) | Coming soon! |
-| TBA | Elena Brake (Fishtek) | Coming soon! |
 
 The last Thursday of the month is reserved for two hours of big band hits on the [Swing with Jim](/swingwithjim) show!
