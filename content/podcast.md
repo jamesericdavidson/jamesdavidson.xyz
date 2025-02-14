@@ -39,9 +39,8 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 >
 > \- [Phil Poole](/testimonials/#phil-poole) (Lead Singer, Doomsday Outlaw)
 
-| Date | Guest | Promo |
-| ---- | ----- | ----- |
-| 2025-02-13 | Jorge Castro (Universal Blue) | [![The Universal Blue project are creating the next generation of no-nonsense computing - Jorge is on the show to tell us all about it.](/images/promos/jorge-castro-universal-blue.webp)](/images/promos/jorge-castro-universal-blue.webp) |
-| 2025-02-20 | Dan Cooper (With Empathy Copy) | [![He used to play in a Ska band?! Listen to our conflab about music, running, copywriting, and everything in-between.](/images/promos/dan-cooper-with-empathy-copy.webp)](/images/promos/dan-cooper-with-empathy-copy.webp) |
+| Date | Guest |
+| ---- | ----- |
+| 2025-02-20 | Dan Cooper (With Empathy Copy) |
 
 The last Thursday of the month is reserved for two hours of big band hits on the [Swing with Jim](/swingwithjim) show!
