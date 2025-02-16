@@ -5,6 +5,7 @@ aliases:
 date: 2024-01-01
 description: "Tune in to the Swing with Jim show every Thursday from 19:00 GMT. Featuring two hours of big band hits, and interviews with interesting individuals."
 image: "/images/dj.webp"
+showTableOfContents: true
 lastmod: 2025-01-01
 slug: "swingwithjim"
 title: "Swing with Jim - The Best of Big Band"
