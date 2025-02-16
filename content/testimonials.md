@@ -24,7 +24,7 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
-## Selina Wells
+## Selina Wells (Yellow Rhino Coaching)
 
 > What an enjoyable evening I spent with James at FCR.
 >
