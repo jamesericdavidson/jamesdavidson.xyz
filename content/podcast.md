@@ -25,7 +25,7 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 
 {{< youtube id=tW9PnG5_oSE loading=lazy >}}
 
-## Hear It First on Swing with Jim {#swingwithjim}
+## Hear It First on Swing with Jim {#swing-with-jim}
 
 > A truly professional experience that was fun and well hosted.
 >
@@ -33,7 +33,7 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 
 {{< include "/content/_index.md" >}}
 
-## Take a Sneak Peek at New Episodes {#sneakpeek}
+## Take a Sneak Peek at New Episodes {#sneak-peek}
 
 > Really enjoyed the whole experience.
 >
