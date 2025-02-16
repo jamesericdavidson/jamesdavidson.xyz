@@ -31,11 +31,9 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), and find your favourite songs on the Spotify playlist.
 
-**Notice**: In January, Ferndale Community Radio's broadcasting platform experienced an outage; recordings may not appear consistently.
-
 | Date | Mixcloud | Spotify |
-| ---- | :------: | :-----: |
-| 2025-02-13 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/1gUDMNEV8mLtVRQT9rEs2y) |
+| :--: | :------: | :-----: |
+| 2025-02-13 | [![Mixcloud](/svg/icons/mixcloud.svg)](https://www.mixcloud.com/ferndale-ctg/fcr-radio-plymouth-presents-james-swing-radio-show-130225/) | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/1gUDMNEV8mLtVRQT9rEs2y) |
 | 2025-02-06 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/6MKhGvjjnwBXQXk7jDkrGu) |
 | 2025-01-30 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/0Stpzijaj3DFEvf8zrt1iG) |
 | 2025-01-23 | | [![Spotify](/svg/icons/spotify.svg)](https://open.spotify.com/playlist/2CXHxpnRZgG0FkDMp2RgcT) |
