@@ -25,6 +25,8 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 [New episodes](/jibberjabberwithjim/#sneakpeek) air every Thursday at 19:00 GMT (excluding the last Thursday of the month).
 
+> ... [James] provided me with a space to express my passion and deliver my message to help others on their [sustainability] journey! - [Maisy Webb](/testimonials/#maisy-webb) (Taste of Zero Waste)
+
 ## Catch Up on Swing with Jim {#catchup}
 
 Replay the shows from [Mixcloud](https://www.mixcloud.com/ferndale-ctg/), and find your favourite songs on the Spotify playlist.

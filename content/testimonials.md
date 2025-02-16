@@ -46,6 +46,14 @@ Praise for the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
+## Maisy Webb (Taste of Zero Waste) {#maisy-webb}
+
+> Speaking with James on his radio show was a fantastic opportunity,  once we settled in with a cuppa and went over the structure of the show we were away!
+>
+> Having never spoken on the radio before I had some nerves but was very quickly put at ease, he provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
+
+{{< youtube id=UNNN_JIzmeg loading=lazy >}}
+
 ## Phil Poole (Lead Singer, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
