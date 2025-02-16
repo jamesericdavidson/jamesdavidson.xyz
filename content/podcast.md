@@ -21,7 +21,9 @@ type: "page"
 
 Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
 
-Up to four episodes a month. Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
+Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
+
+Fresh episodes every Monday at 17:00 GMT.
 
 {{< youtube id=tW9PnG5_oSE loading=lazy >}}
 
@@ -30,6 +32,8 @@ Up to four episodes a month. Listen from your [favourite podcast app](https://cr
 > A truly professional experience that was fun and well hosted.
 >
 > \- [Selina Wells](/testimonials/#selina-wells)
+
+Can't wait for Monday?
 
 {{< include "/content/_index.md" >}}
 
