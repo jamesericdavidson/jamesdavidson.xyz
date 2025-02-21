@@ -45,6 +45,8 @@ Can't wait for Monday?
 
 | Date | Guest |
 | ---- | ----- |
-| 2025-02-20 | Dan Cooper (With Empathy Copy) |
+| 2025-03-13 | Elena Brake (Fishtek) |
+| 2025-03-20 | Bryce Hagman (Cloud Casket) |
+| 2025-04-03 | Alicia Exworthy |
 
 The last Thursday of the month is reserved for two hours of big band hits on the [Swing with Jim](/swingwithjim) show!
