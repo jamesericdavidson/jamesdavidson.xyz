@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-description: "Whether they're musicians, voice actors, or educators - these are some of the inspiring guests I've featured on the Jibber Jabber with Jim podcast."
+description: "Whether they're musicians, educators, or innovators - these are some of the inspiring guests featured on the Jibber Jabber with Jim podcast."
 showTableOfContents: true
 sitemap:
   disable: true
@@ -9,7 +9,7 @@ title: "Testimonials"
 type: "page"
 ---
 
-Whether they're [musicians](#phil-poole), voice actors, or [educators](#leo-carr) - these are some of the inspiring guests I've featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
+Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - these are some of the inspiring guests featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 ## Sean Tilson
 
