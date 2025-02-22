@@ -25,7 +25,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
-## Selina Wells (Yellow Rhino Coaching)
+## Selina Wells (Yellow Rhino Coaching) {#selina-wells}
 
 > What an enjoyable evening I spent with James at FCR.
 >
