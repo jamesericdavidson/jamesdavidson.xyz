@@ -16,6 +16,12 @@ title = "James Davidson"
       "ferndale community radio" ]
   showBackToTopButton = true
 
+  customHeadHTML = '''
+    <style>
+        .home-content { width: 66%; }
+    </style>
+  '''
+
   socialIcons = [
     {name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/"},
     {name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"},
