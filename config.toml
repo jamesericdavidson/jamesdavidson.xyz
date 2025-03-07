@@ -9,7 +9,7 @@ title = "James Davidson"
 [params]
   avatarSize = "size-xs"
   avatarURL = "/images/avatar.webp"
-  description = "Radio Presenter and Podcast Host"
+  description = "Broadcasting human interest stories"
   fontSize = "20px"
   footer = "James Davidson"
   metaKeywords = [ "jibber jabber with jim", "swing with jim",
