@@ -19,7 +19,7 @@ type: "page"
 >
 > \- [Sean Tilson](/testimonials/#sean-tilson)
 
-Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship.
+Hear human interest stories from across the globe - including subject matter experts on [sustainability](/testimonials/#maisy-webb), human rights, and [entrepreneurship](/testimonials/#sean-tilson).
 
 Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
