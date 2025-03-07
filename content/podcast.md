@@ -43,8 +43,8 @@ Can't wait for Monday?
 >
 > \- [Phil Poole](/testimonials/#phil-poole) (Lead Singer, Doomsday Outlaw)
 
-| Air Date | Guest |
-| -------- | ----- |
-| 2025-03-13 | Elena Brake (Fishtek) |
-| 2025-03-20 | Bryce Hagman (Cloud Casket) |
-| 2025-03-27 | Alicia Exworthy |
+| Air Date | Guest | Topic |
+| -------- | ----- | ----- |
+| 2025-03-13 | Elena Brake (Fishtek) | Engineering |
+| 2025-03-20 | Bryce Hagman (Cloud Casket) | Music |
+| 2025-03-27 | Alicia Exworthy | Mindset |
