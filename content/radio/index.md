@@ -25,7 +25,7 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 {{< include "/content/podcast/description.md" >}}
 
-[New episodes](/jibberjabberwithjim/#sneak-peek) air every Thursday at 19:00 GMT (excluding the last Thursday of the month).
+[New episodes](/jibberjabberwithjim/#sneak-peek) air every Thursday at 20:00 GMT.
 
 > ... [James] provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
 >
