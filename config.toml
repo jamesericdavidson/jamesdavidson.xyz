@@ -64,29 +64,6 @@ title = "James Davidson"
     url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
-  [[menu.main]]
-    name = "Spotify"
-    url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/"
-    weight = 10
-    pre = "<span data-feather='rss'></span>"
-    [menu.main.params]
-        newPage = true
-
-  [[menu.main]]
-    name = "YouTube"
-    url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg"
-    weight = 11
-    pre = "<span data-feather='youtube'></span>"
-    [menu.main.params]
-        newPage = true
-
-  [[menu.main]]
-    name = "Bluesky"
-    url = "https://bsky.app/profile/jamesdavidson.xyz"
-    weight = 12
-    [menu.main.params]
-        newPage = true
-
 [markup]
   [markup.tableOfContents]
     startLevel = 2
