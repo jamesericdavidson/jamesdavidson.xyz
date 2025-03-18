@@ -17,7 +17,7 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 ## Home of Jibber Jabber with Jim {#jibber-jabber-with-jim}
 
-[![James Davidson Presents: Jibber Jabber with Jim - Interviews with Interesting Individuals](/images/banner.webp)](/jibberjabberwithjim/)
+[![James Davidson Presents: Jibber Jabber with Jim - Interviews with Interesting Individuals](banner.webp)](/jibberjabberwithjim/)
 
 > [The podcast] ... gave me some insights into my business I hadn’t thought about before.
 >
