@@ -23,7 +23,7 @@ Missed the show? Hear it again every Sunday from 15:00.
 >
 > \- [Leo Carr](/testimonials/#leo-carr) (Director, Study Dog)
 
-Hear human interest stories from across the globe - including subject matter experts on [sustainability](/testimonials/#maisy-webb), human rights, and [entrepreneurship](/testimonials/#sean-tilson).
+{{< include "/content/podcast/description.md" >}}
 
 [New episodes](/jibberjabberwithjim/#sneak-peek) air every Thursday at 19:00 GMT (excluding the last Thursday of the month).
 
