@@ -23,7 +23,7 @@ type: "page"
 
 Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
-New episodes every Monday at 17:00 GMT.
+New episodes arrive every Monday at 17:00 GMT.
 
 {{< youtube id=KuNjYnRWN0g loading=lazy >}}
 
