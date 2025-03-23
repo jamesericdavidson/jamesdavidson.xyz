@@ -43,6 +43,6 @@ Can't wait for Monday?
 >
 > \- [Phil Poole](/testimonials/#phil-poole) (Lead Singer, Doomsday Outlaw)
 
-| Air Date | Guest | Topic |
-| -------- | ----- | ----- |
-| 2025-03-27 | Alicia Exworthy | Mindset |
+[Follow on Bluesky](https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz) for updates!
+
+{{< bluesky link="https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz/post/3ll257zkxls2h" >}}
