@@ -45,5 +45,4 @@ Can't wait for Monday?
 
 | Air Date | Guest | Topic |
 | -------- | ----- | ----- |
-| 2025-03-20 | Bryce Hagman (Cloud Casket) | Music |
 | 2025-03-27 | Alicia Exworthy | Mindset |
