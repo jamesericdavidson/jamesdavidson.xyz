@@ -25,7 +25,7 @@ Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/j
 
 New episodes arrive every Monday at 17:00 GMT.
 
-{{< youtube id=KuNjYnRWN0g loading=lazy >}}
+{{< youtube id=4dPSx70LRpU loading=lazy >}}
 
 ## Hear It First on Swing with Jim {#swing-with-jim}
 
