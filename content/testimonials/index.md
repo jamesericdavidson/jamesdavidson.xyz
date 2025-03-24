@@ -47,6 +47,14 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
+## Alicia Exworthy {#alicia-exworthy}
+
+> It was a great experience getting to do this with James.
+>
+> His process is very thoughtful and considered but also informal and relaxed.
+>
+> Highly recommend if anyone else is considering it!
+
 ## Maisy Webb (Taste of Zero Waste) {#maisy-webb}
 
 > Speaking with James on his radio show was a fantastic opportunity, once we settled in with a cuppa and went over the structure of the show we were away!
