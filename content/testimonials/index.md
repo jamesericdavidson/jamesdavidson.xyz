@@ -63,6 +63,14 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=UNNN_JIzmeg loading=lazy >}}
 
+## Jorge Castro (Universal Blue) {#jorge-castro}
+
+> Jim really forced me to rethink the angles I approached my own project with.
+>
+> It's great to have a fresh, insightful new perspective!
+
+{{< youtube id=AvQdFjpniJ4 loading=lazy >}}
+
 ## Phil Poole (Lead Singer, Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
