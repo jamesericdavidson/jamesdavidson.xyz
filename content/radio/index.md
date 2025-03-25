@@ -20,7 +20,7 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 > [The podcast] ... gave me some insights into my business I hadn’t thought about before.
 >
-> \- [Leo Carr](/testimonials/#leo-carr) (Director, Study Dog)
+> \- [Leo Carr](/testimonials/#leo-carr) ([Study Dog](https://www.studydog.co.uk/))
 
 {{< include "/content/podcast/description.md" >}}
 
@@ -28,4 +28,4 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 > ... [James] provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
 >
-> \- [Maisy Webb](/testimonials/#maisy-webb) (Taste of Zero Waste)
+> \- [Maisy Webb](/testimonials/#maisy-webb) ([Taste of Zero Waste](https://www.instagram.com/tasteofzerowasteuk/))

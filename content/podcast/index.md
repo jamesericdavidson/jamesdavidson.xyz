@@ -31,7 +31,7 @@ New episodes arrive every Monday at 17:00 GMT.
 
 > A truly professional experience that was fun and well hosted.
 >
-> \- [Selina Wells](/testimonials/#selina-wells)
+> \- [Selina Wells](/testimonials/#selina-wells) ([Yellow Rhino Coaching](https://yellowrhinoltd.wixsite.com/website))
 
 Can't wait for Monday?
 
@@ -39,9 +39,9 @@ Can't wait for Monday?
 
 ## Take a Sneak Peek at New Episodes {#sneak-peek}
 
-> Really enjoyed the whole experience.
+> Highly recommended if anyone else is considering it!
 >
-> \- [Phil Poole](/testimonials/#phil-poole) (Lead Singer, Doomsday Outlaw)
+> \- [Alicia Exworthy](/testimonials/#alicia-exworthy)
 
 [Follow on Bluesky](https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz) for updates!
 

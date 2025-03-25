@@ -9,6 +9,10 @@ title: "Testimonials"
 type: "page"
 ---
 
+> Jim really forced me to rethink the angles I approached my own project with.
+>
+> \- [Jorge Castro](#jorge-castro) ([Universal Blue](https://universal-blue.org/))
+
 Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - these are some of the inspiring guests featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 ## Sean Tilson
@@ -37,7 +41,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=p5hlr1TacBI loading=lazy >}}
 
-## Leo Carr (Director, Study Dog) {#leo-carr}
+## Leo Carr (Study Dog) {#leo-carr}
 
 > I thoroughly enjoyed my conversation with James on Jibber Jabber.
 >
@@ -71,7 +75,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=AvQdFjpniJ4 loading=lazy >}}
 
-## Phil Poole (Lead Singer, Doomsday Outlaw) {#phil-poole}
+## Phil Poole (Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
 
