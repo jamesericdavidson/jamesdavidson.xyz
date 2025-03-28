@@ -45,4 +45,4 @@ Can't wait for Monday?
 
 [Follow on Bluesky](https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz) for updates!
 
-{{< bluesky link="https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz/post/3ll4sfzsm3s2v" >}}
+{{< bluesky link="https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz/post/3llhb6vg7vc24" >}}
