@@ -75,6 +75,16 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=AvQdFjpniJ4 loading=lazy >}}
 
+## Bryce Hagman (Cloud Casket) {#bryce-hagman}
+
+> ... talking to Jim was time well spent.
+>
+> He asked me questions I enjoyed answering ... and I’m very grateful I had the opportunity to chat with him, and I hope to do it again in the future!
+>
+> Thank you again for a wonderful interview!
+
+{{< youtube id=4dPSx70LRpU loading=lazy >}}
+
 ## Phil Poole (Doomsday Outlaw) {#phil-poole}
 
 > Really enjoyed the whole experience.
