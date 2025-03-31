@@ -29,6 +29,18 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
+## Dan Cooper (With Empathy Copy) {#dan-cooper}
+
+> Appearing on the Jibber Jabber with Jim podcast was fantastic.
+>
+> Jim is a wonderful host who knows when to ask questions and when to sit back and let guests speak on their chosen subject.
+>
+> I think this speaks to both his skills as a listener, and as a host who knows how to get the most from his time with guests.
+>
+> The future of talk radio is safe with James at the helm.
+
+{{< youtube id=OYdkR-8A84o loading=lazy >}}
+
 ## Selina Wells (Yellow Rhino Coaching) {#selina-wells}
 
 > What an enjoyable evening I spent with James at FCR.
