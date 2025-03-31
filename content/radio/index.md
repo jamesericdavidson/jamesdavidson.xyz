@@ -18,14 +18,14 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 [![James Davidson Presents: Jibber Jabber with Jim - Interviews with Interesting Individuals](banner.webp)](/jibberjabberwithjim/)
 
-> [The podcast] ... gave me some insights into my business I hadn’t thought about before.
+> The future of talk radio is safe with James at the helm.
 >
-> \- [Leo Carr](/testimonials/#leo-carr) ([Study Dog](https://www.studydog.co.uk/))
+> \- [Dan Cooper](/testimonials/#dan-cooper) ([With Empathy Copy](https://withempathycopy.com/))
 
 {{< include "/content/podcast/description.md" >}}
 
 [New episodes](/jibberjabberwithjim/#sneak-peek) air every Thursday at 20:00 GMT.
 
-> ... [James] provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
+> Speaking with James on his radio show was a fantastic opportunity ...
 >
 > \- [Maisy Webb](/testimonials/#maisy-webb) ([Taste of Zero Waste](https://www.instagram.com/tasteofzerowasteuk/))
