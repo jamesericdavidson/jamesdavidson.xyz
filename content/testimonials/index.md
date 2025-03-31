@@ -59,6 +59,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > Highly recommend if anyone else is considering it!
 
+{{< youtube id=e_SqCV7Znwg loading=lazy >}}
+
 ## Maisy Webb (Taste of Zero Waste) {#maisy-webb}
 
 > Speaking with James on his radio show was a fantastic opportunity, once we settled in with a cuppa and went over the structure of the show we were away!
