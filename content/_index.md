@@ -1,4 +1,4 @@
-Tune in to the [Swing with Jim](/swingwithjim/) show every Thursday from 19:00 GMT.
+Tune in to the [Swing with Jim](/swingwithjim/) show every Thursday from 19:00 BST.
 
 {{< player >}}
 
