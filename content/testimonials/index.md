@@ -41,6 +41,18 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=OYdkR-8A84o loading=lazy >}}
 
+## Elena Brake {#elena-brake}
+
+> I was really honoured to be invited to share my story on the Jibber Jabber with Jim Podcast.
+>
+> James took care to explain the process well and made sure I was relaxed and ready for my first ever talk radio appearance – the nerves subsided quickly and I really enjoyed the process!
+>
+> Jim made the interview feel as easy as a conversation between friends, which helped me to really open up.
+>
+> Thank you, James, for this opportunity to be featured on your podcast!
+
+{{< youtube id=KuNjYnRWN0g loading=lazy >}}
+
 ## Selina Wells (Yellow Rhino Coaching) {#selina-wells}
 
 > What an enjoyable evening I spent with James at FCR.
