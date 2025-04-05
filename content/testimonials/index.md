@@ -15,7 +15,7 @@ type: "page"
 
 Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - these are some of the inspiring guests featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
-## Sean Tilson
+## Sean Tilson - Entrepeneur {#sean-tilson}
 
 > I thoroughly enjoyed my time speaking with James on his show.
 >
@@ -29,7 +29,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=nlXkMwipTmg loading=lazy >}}
 
-## Dan Cooper (With Empathy Copy) {#dan-cooper}
+## Dan Cooper - Founder of With Empathy Copy {#dan-cooper}
 
 > Appearing on the Jibber Jabber with Jim podcast was fantastic.
 >
@@ -41,7 +41,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=OYdkR-8A84o loading=lazy >}}
 
-## Elena Brake {#elena-brake}
+## Elena Brake - Trainee Engineer at Fishtek {#elena-brake}
 
 > I was really honoured to be invited to share my story on the Jibber Jabber with Jim Podcast.
 >
@@ -53,7 +53,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=KuNjYnRWN0g loading=lazy >}}
 
-## Selina Wells (Yellow Rhino Coaching) {#selina-wells}
+## Selina Wells - Founder of Yellow Rhino Coaching {#selina-wells}
 
 > What an enjoyable evening I spent with James at FCR.
 >
@@ -65,7 +65,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=p5hlr1TacBI loading=lazy >}}
 
-## Leo Carr (Study Dog) {#leo-carr}
+## Leo Carr - Founder of Study Dog {#leo-carr}
 
 > I thoroughly enjoyed my conversation with James on Jibber Jabber.
 >
@@ -75,7 +75,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
-## Alicia Exworthy {#alicia-exworthy}
+## Alicia Exworthy - Mindset Coach {#alicia-exworthy}
 
 > It was a great experience getting to do this with James.
 >
@@ -85,7 +85,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=e_SqCV7Znwg loading=lazy >}}
 
-## Maisy Webb (Taste of Zero Waste) {#maisy-webb}
+## Maisy Webb - Founder at Taste of Zero Waste {#maisy-webb}
 
 > Speaking with James on his radio show was a fantastic opportunity, once we settled in with a cuppa and went over the structure of the show we were away!
 >
@@ -93,7 +93,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=UNNN_JIzmeg loading=lazy >}}
 
-## Jorge Castro (Universal Blue) {#jorge-castro}
+## Jorge Castro - Founder of Universal Blue {#jorge-castro}
 
 > Jim really forced me to rethink the angles I approached my own project with.
 >
@@ -101,7 +101,7 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=AvQdFjpniJ4 loading=lazy >}}
 
-## Bryce Hagman (Cloud Casket) {#bryce-hagman}
+## Bryce Hagman - Vocalist for Cloud Casket {#bryce-hagman}
 
 > ... talking to Jim was time well spent.
 >
@@ -111,13 +111,13 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=4dPSx70LRpU loading=lazy >}}
 
-## Phil Poole (Doomsday Outlaw) {#phil-poole}
+## Phil Poole - Vocalist for Doomsday Outlaw {#phil-poole}
 
 > Really enjoyed the whole experience.
 
 {{< youtube id=Nxx1XQ3SIZo loading=lazy >}}
 
-### Ellie Wild
+### Ellie Wild - Music Journalist {#ellie-wild}
 
 > ... a really deep and thorough interview, hat tilt to both the presenter James and Doomsday Phil.
 >
