@@ -12,8 +12,7 @@ title = "James Davidson"
   description = "Broadcasting human interest stories"
   fontSize = "20px"
   footer = "James Davidson"
-  metaKeywords = [ "jibber jabber with jim", "swing with jim",
-      "ferndale community radio" ]
+  metaKeywords = [ "jibber jabber with jim" ]
   showBackToTopButton = true
 
   customHeadHTML = '''
