@@ -15,9 +15,9 @@ type: "page"
 
 ## Catch the Latest Episode {#latest}
 
-> [James] has a knack for teasing the best responses from you ...
+> He has a knack for teasing the best responses from you ...
 >
-> \- [Sean Tilson](/testimonials/#sean-tilson)
+> \- [Sean Tilson](/testimonials/#sean-tilson), [Entrepeneur](https://www.linkedin.com/in/sean-tilson/)
 
 {{< include "/content/podcast/description.md" >}}
 
@@ -31,7 +31,7 @@ New episodes arrive every Monday at 17:00 BST.
 
 > A truly professional experience that was fun and well hosted.
 >
-> \- [Selina Wells](/testimonials/#selina-wells) ([Yellow Rhino Coaching](https://yellowrhinoltd.wixsite.com/website))
+> \- [Selina Wells](/testimonials/#selina-wells), Founder of [Yellow Rhino Coaching](https://yellowrhinoltd.wixsite.com/website)
 
 Can't wait for Monday?
 
@@ -41,7 +41,7 @@ Can't wait for Monday?
 
 > Highly recommended if anyone else is considering it!
 >
-> \- [Alicia Exworthy](/testimonials/#alicia-exworthy)
+> \- [Alicia Exworthy](/testimonials/#alicia-exworthy), [Mindset Coach](https://www.aliciaexworthy.com/)
 
 [Follow on Bluesky](https://bsky.app/profile/jibberjabberwith.jamesdavidson.xyz) for updates!
 

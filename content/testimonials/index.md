@@ -11,7 +11,7 @@ type: "page"
 
 > Jim really forced me to rethink the angles I approached my own project with.
 >
-> \- [Jorge Castro](#jorge-castro) ([Universal Blue](https://universal-blue.org/))
+> \- [Jorge Castro](#jorge-castro), Founder of [Universal Blue](https://universal-blue.org/)
 
 Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - these are some of the inspiring guests featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 

@@ -20,12 +20,12 @@ Missed the show? Hear it again every Sunday from 15:00.
 
 > The future of talk radio is safe with James at the helm.
 >
-> \- [Dan Cooper](/testimonials/#dan-cooper) ([With Empathy Copy](https://withempathycopy.com/))
+> \- [Dan Cooper](/testimonials/#dan-cooper), Founder of [With Empathy Copy](https://withempathycopy.com/)
 
 {{< include "/content/podcast/description.md" >}}
 
 [New episodes](/jibberjabberwithjim/#sneak-peek) air every Thursday at 20:00 BST.
 
-> Speaking with James on his radio show was a fantastic opportunity ...
+> Jim made the interview feel as easy as a conversation between friends ...
 >
-> \- [Maisy Webb](/testimonials/#maisy-webb) ([Taste of Zero Waste](https://www.instagram.com/tasteofzerowasteuk/))
+> \- [Elena Brake](/testimonials/#elena-brake), Trainee Engineer at Fishtek
