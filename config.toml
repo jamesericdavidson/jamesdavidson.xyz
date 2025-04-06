@@ -19,7 +19,10 @@ title = "James Davidson"
       <style>
         @media only screen and (min-width: 820px)
         {
-          .home-content { width: 66%; }
+          .home-content
+          {
+            width: 66%;
+          }
         }
       </style>
   '''
