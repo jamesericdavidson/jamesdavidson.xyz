@@ -2,8 +2,6 @@
 date: 2025-01-01
 description: "Whether they're musicians, educators, or innovators - these are some of the inspiring guests featured on the Jibber Jabber with Jim podcast."
 showTableOfContents: true
-sitemap:
-  disable: true
 slug: "testimonials"
 title: "Testimonials"
 type: "page"
