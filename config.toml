@@ -1,5 +1,5 @@
 baseURL = "https://jamesdavidson.xyz/"
-#copyright = "This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0)."
+copyright = "| Artwork by [Luna Jay](https://lunajay.co.uk/)"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
