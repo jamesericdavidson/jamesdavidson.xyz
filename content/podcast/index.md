@@ -10,10 +10,6 @@ title: "Jibber Jabber with Jim - Interviews with Interesting Individuals"
 type: "page"
 ---
 
-## Catch the Latest Episode {#latest}
-
-{{< youtube id=e_SqCV7Znwg loading=lazy >}}
-
 ![Testimonial for the Jibber Jabber with Jim podcast. Sean Tilson writes: 'He has a knack for teasing the best responses from you ...'](sean-tilson-testimonial.webp)
 
 {{< include "/content/podcast/description.md" >}}
@@ -21,6 +17,10 @@ type: "page"
 Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/).
 
 New episodes arrive every Monday at 17:00 BST.
+
+## Catch the Latest Episode {#latest}
+
+{{< youtube id=e_SqCV7Znwg loading=lazy >}}
 
 ## Hear It First on Swing with Jim {#swing-with-jim}
 
