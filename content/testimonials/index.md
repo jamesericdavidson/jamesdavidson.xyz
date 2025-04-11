@@ -33,6 +33,22 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > The future of talk radio is safe with James at the helm.
 
+{{< youtube id=OYdkR-8A84o loading=lazy >}}
+
+## Euan Chan - Lead Consultant at Value Match {#euan-chan}
+
+> My interview with James Davidson went very smoothly and I really enjoyed it.
+>
+> His experience in conducting these shows through in how he works and discusses with you about topics and discussion points for the interview, allowing you to craft and guide your interview's agenda however much or little as you like.
+>
+> During the interview itself, the questions he asks are insightful and meaningful, leading to a much richer discussion that explores perspectives and experiences rather than just facts.
+>
+> He shows a very strong interest in what you talk about, and his questions shows that he's genuinely chewing on what you're saying to then dig deeper.
+>
+> I very much enjoyed the experience!
+
+{{< youtube id=tW9PnG5_oSE loading=lazy >}}
+
 ## Elena Brake - Trainee Engineer at Fishtek {#elena-brake}
 
 > I was really honoured to be invited to share my story on the Jibber Jabber with Jim Podcast.
