@@ -23,6 +23,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > I couldn't recommend my experience enough!
 
+{{< youtube id=nlXkMwipTmg loading=lazy >}}
+
 ## Dan Cooper - Founder of With Empathy Copy {#dan-cooper}
 
 > Appearing on the Jibber Jabber with Jim podcast was fantastic.
@@ -59,6 +61,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > Thank you, James, for this opportunity to be featured on your podcast!
 
+{{< youtube id=KuNjYnRWN0g loading=lazy >}}
+
 ## Selina Wells - Founder of Yellow Rhino Coaching {#selina-wells}
 
 > What an enjoyable evening I spent with James at FCR.
@@ -69,6 +73,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > Thank you for having me on your fabulous show.
 
+{{< youtube id=p5hlr1TacBI loading=lazy >}}
+
 ## Leo Carr - Founder of Study Dog {#leo-carr}
 
 > I thoroughly enjoyed my conversation with James on Jibber Jabber.
@@ -76,6 +82,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 > We discussed many interesting topics and I had a lovely trip down memory lane! It also gave me some insights into my business I hadn't thought about before.
 >
 > Thank you James for hosting such a wonderful show!
+
+{{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
 ## Alicia Exworthy - Mindset Coach {#alicia-exworthy}
 
@@ -85,17 +93,23 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > Highly recommend if anyone else is considering it!
 
+{{< youtube id=e_SqCV7Znwg loading=lazy >}}
+
 ## Maisy Webb - Founder at Taste of Zero Waste {#maisy-webb}
 
 > Speaking with James on his radio show was a fantastic opportunity, once we settled in with a cuppa and went over the structure of the show we were away!
 >
 > Having never spoken on the radio before I had some nerves but was very quickly put at ease, he provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
 
+{{< youtube id=UNNN_JIzmeg loading=lazy >}}
+
 ## Jorge Castro - Founder of Universal Blue {#jorge-castro}
 
 > Jim really forced me to rethink the angles I approached my own project with.
 >
 > It's great to have a fresh, insightful new perspective!
+
+{{< youtube id=AvQdFjpniJ4 loading=lazy >}}
 
 ## Bryce Hagman - Vocalist for Cloud Casket {#bryce-hagman}
 
@@ -105,9 +119,13 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 >
 > Thank you again for a wonderful interview!
 
+{{< youtube id=4dPSx70LRpU loading=lazy >}}
+
 ## Phil Poole - Vocalist for Doomsday Outlaw {#phil-poole}
 
 > Really enjoyed the whole experience.
+
+{{< youtube id=Nxx1XQ3SIZo loading=lazy >}}
 
 ### Ellie Wild - Music Journalist {#ellie-wild}
 
