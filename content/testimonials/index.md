@@ -8,7 +8,7 @@ title: "Testimonials - Jibber Jabber with Jim | Podcast Reviews"
 type: "page"
 ---
 
-{{< img src="teaser.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Jorge Castro writes: 'Jim really forced me to rethink the angles I approached my own project with.'" loading="eager" >}}
+{{< img src="teaser.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Dan Cooper writes: '... a host who knows how to get the most from his time with guests.'" loading="eager" >}}
 
 Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - here's what guests and fans have to say about the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast...
 
@@ -121,6 +121,8 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 {{< youtube id=UNNN_JIzmeg loading=lazy >}}
 
 ## Jorge Castro - Founder of Universal Blue {#jorge-castro}
+
+{{< img src="jorge-castro-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Jorge Castro writes: 'Jim really forced me to rethink the angles I approached my own project with.'" >}}
 
 > Jim really forced me to rethink the angles I approached my own project with.
 >
