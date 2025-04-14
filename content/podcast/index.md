@@ -20,7 +20,7 @@ New episodes arrive every Monday at 17:00 BST.
 
 ## Catch the Latest Episode {#latest}
 
-{{< youtube id=e_SqCV7Znwg loading=lazy >}}
+{{< youtube id=VkWs3PwJ4xU loading=lazy >}}
 
 ## Hear It First on Swing with Jim {#swing-with-jim}
 
