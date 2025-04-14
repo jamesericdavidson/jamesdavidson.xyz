@@ -6,7 +6,7 @@ date: 2025-01-01
 description: "Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship."
 image: "/jibberjabberwithjim/sean-tilson-testimonial.webp"
 slug: "jibberjabberwithjim"
-title: "Jibber Jabber with Jim - Human Interest Stories Every Week!"
+title: "Jibber Jabber with Jim - Human Interest Stories Every Week"
 type: "page"
 ---
 
