@@ -1,16 +1,16 @@
 ---
 date: 2025-01-01
-description: "Whether they're musicians, educators, or innovators - these are some of the inspiring guests featured on the Jibber Jabber with Jim podcast."
+description: "Whether they're musicians, educators, or innovators - here's what guests and fans have to say about the Jibber Jabber with Jim podcast..."
 showTableOfContents: true
 image: "/testimonials/teaser.webp"
 slug: "testimonials"
-title: "Testimonials - Jibber Jabber with Jim"
+title: "Testimonials - Jibber Jabber with Jim | Podcast Reviews"
 type: "page"
 ---
 
 {{< img src="teaser.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Jorge Castro writes: 'Jim really forced me to rethink the angles I approached my own project with.'" loading="eager" >}}
 
-Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - these are some of the inspiring guests featured on the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
+Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - here's what guests and fans have to say about the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast...
 
 ## Sean Tilson - Entrepeneur {#sean-tilson}
 
