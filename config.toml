@@ -1,0 +1,84 @@
+baseURL = "https://jamesdavidson.xyz/"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = "en"
+title = "James Davidson"
+disableKinds = [ "rss", "taxonomy", "term" ]
+
+[params]
+  avatarSize = "size-xs"
+  avatarURL = "/images/avatar.webp"
+  description = "Broadcasting human interest stories"
+  fontSize = "20px"
+  footer = "James Davidson"
+  metaKeywords = [ "jibber jabber with jim" ]
+  showBackToTopButton = true
+
+  customHeadHTML = '''
+      <style>
+        @media only screen and (min-width: 820px)
+        {
+          .home-content
+          {
+            width: 66%;
+          }
+        }
+      </style>
+  '''
+
+  socialIcons = [
+    { name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/" },
+    { name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg" },
+    { name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz" },
+    { name = "email",   url = "mailto:james@jamesdavidson.xyz" }
+  ]
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+    pre = "<span data-feather='home'></span>"
+
+  [[menu.main]]
+    name = "Radio"
+    url = "/swingwithjim/"
+    weight = 2
+    pre = "<span data-feather='headphones'></span>"
+
+  [[menu.main]]
+    name = "Podcast"
+    url = "/jibberjabberwithjim/"
+    weight = 3
+    pre = "<span data-feather='mic'></span>"
+
+  [[menu.main]]
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 4
+    pre = "<span data-feather='thumbs-up'></span>"
+
+  [[menu.main]]
+    name = "Contact"
+    weight = 5
+    url = "mailto:james@jamesdavidson.xyz"
+    pre = "<span data-feather='mail'></span>"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[minify]
+  minifyOutput = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/gokarna-theme/gokarna-hugo"
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
