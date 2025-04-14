@@ -6,7 +6,7 @@ date: 2025-01-01
 description: "Tune in to the Swing with Jim show every Thursday from 19:00 BST. Featuring two hours of big band hits, and interviews with interesting individuals."
 image: "/swingwithjim/dan-cooper-testimonial.webp"
 slug: "swingwithjim"
-title: "Swing with Jim - Only on Ferndale Community Radio"
+title: "The Swing with Jim Show - Only on Ferndale Community Radio"
 type: "page"
 ---
 
