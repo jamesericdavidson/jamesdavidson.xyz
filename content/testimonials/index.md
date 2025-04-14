@@ -10,7 +10,7 @@ type: "page"
 
 {{< img src="teaser.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Dan Cooper writes: '... a host who knows how to get the most from his time with guests.'" loading="eager" >}}
 
-Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - here's what guests and fans have to say about the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast...
+Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators](#sean-tilson) - here's what guests and fans have to say about the [Jibber Jabber with Jim](/jibberjabberwithjim/) podcast.
 
 ## Sean Tilson - Entrepeneur {#sean-tilson}
 
