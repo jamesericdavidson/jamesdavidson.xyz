@@ -20,10 +20,6 @@ Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/j
 
 New episodes arrive every Monday at 17:00 BST.
 
-## Catch the Latest Episode {#latest}
-
-{{< youtube id=VkWs3PwJ4xU loading=lazy >}}
-
 ## Hear It First on Swing with Jim {#swing-with-jim}
 
 {{< img src="euan-chan-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Euan Chan writes: '... the questions he asks are insightful and meaningful, leading to a much richer discussion ...'" >}}
