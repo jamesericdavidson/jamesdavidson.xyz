@@ -4,7 +4,7 @@ description: "Whether they're musicians, educators, or innovators - here's what 
 showTableOfContents: true
 image: "/testimonials/teaser.webp"
 slug: "testimonials"
-title: "Testimonials - Jibber Jabber with Jim | Podcast Reviews"
+title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
 ---
 
