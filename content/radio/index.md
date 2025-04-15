@@ -4,9 +4,11 @@ aliases:
     - "radio-show-archive"
 date: 2025-01-01
 description: "Tune in to the Swing with Jim show every Thursday from 19:00 BST. Featuring two hours of big band hits, and interviews with interesting individuals."
+h1: "The Swing with Jim Show"
 image: "/swingwithjim/dan-cooper-testimonial.webp"
 slug: "swingwithjim"
-title: "The Swing with Jim Show - Only on Ferndale Community Radio"
+tags: [ "the swing with jim show", "jibber jabber with jim" ]
+title: "The Swing with Jim Show - Home of Jibber Jabber with Jim"
 type: "page"
 ---
 

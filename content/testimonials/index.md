@@ -2,8 +2,10 @@
 date: 2025-01-01
 description: "Whether they're musicians, educators, or innovators - here's what guests and fans have to say about the Jibber Jabber with Jim podcast..."
 showTableOfContents: true
+h1: "Testimonials and Reviews"
 image: "/testimonials/teaser.webp"
 slug: "testimonials"
+tags: [ "jibber jabber with jim" ]
 title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
 ---

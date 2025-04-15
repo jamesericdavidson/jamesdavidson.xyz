@@ -4,9 +4,11 @@ aliases:
     - "podcast"
 date: 2025-01-01
 description: "Hear human interest stories from across the globe - including subject matter experts on sustainability, human rights, and entrepreneurship."
+h1: "Jibber Jabber with Jim"
 image: "/jibberjabberwithjim/sean-tilson-testimonial.webp"
 slug: "jibberjabberwithjim"
-title: "Jibber Jabber with Jim - Human Interest Stories Every Week"
+tags: [ "jibber jabber with jim" ]
+title: "Jibber Jabber with Jim - Interviews with Interesting Individuals"
 type: "page"
 ---
 

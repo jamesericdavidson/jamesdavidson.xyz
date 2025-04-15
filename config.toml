@@ -12,7 +12,7 @@ disableKinds = [ "rss", "taxonomy", "term" ]
   description = "Broadcasting human interest stories"
   fontSize = "20px"
   footer = "James Davidson"
-  metaKeywords = [ "jibber jabber with jim" ]
+  metaKeywords = [ "jibber jabber with jim", "the swing with jim show" ]
   showBackToTopButton = true
 
   customHeadHTML = '''
