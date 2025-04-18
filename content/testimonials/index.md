@@ -100,6 +100,18 @@ Whether they're [musicians](#phil-poole), [educators](#leo-carr), or [innovators
 
 {{< youtube id=6ferLH7L6mQ loading=lazy >}}
 
+## Theresa Bakken - Audiobook Narrator {#theresa-bakken}
+
+{{< img src="theresa-bakken-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Theresa Bakken writes: '... he asks the questions that get to the heart of each guest’s story.'" >}}
+
+> An audiobook narrator’s dream... James is a great listener!
+>
+> And, I am sure all his listeners will agree, he asks the questions that get to the heart of each guest’s story.
+>
+> Thanks for asking and for really listening James. It’s a gift to feel heard.
+
+{{< youtube id=VkWs3PwJ4xU loading=lazy >}}
+
 ## Alicia Exworthy - Mindset Coach {#alicia-exworthy}
 
 {{< img src="alicia-exworthy-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Alicia Exworthy writes: 'His process is very thoughtful and considered but also informal and relaxed.'" >}}
