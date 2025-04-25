@@ -9,7 +9,7 @@ disableKinds = [ "rss", "taxonomy", "term" ]
 [params]
   avatarSize = "size-xs"
   avatarURL = "/images/avatar.webp"
-  description = "Broadcasting human interest stories"
+  description = "Producing weekly podcast and radio shows"
   fontSize = "20px"
   footer = "James Davidson"
   metaKeywords = [ "jibber jabber with jim", "the swing with jim show" ]
