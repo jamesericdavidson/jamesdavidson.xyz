@@ -63,7 +63,7 @@ disableKinds = [ "rss", "taxonomy", "term" ]
   [[menu.main]]
     name = "Contact"
     weight = 5
-    url = "mailto:james@jamesdavidson.xyz"
+    url = "/contact/"
     pre = "<span data-feather='mail'></span>"
 
 [markup]
