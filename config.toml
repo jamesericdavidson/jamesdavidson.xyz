@@ -28,9 +28,9 @@ disableKinds = [ "rss", "taxonomy", "term" ]
   '''
 
   socialIcons = [
-    { name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/" },
-    { name = "youtube", url = "https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg" },
-    { name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz" },
+    { name = "spotify", url = "/spotify/" },
+    { name = "youtube", url = "/youtube/" },
+    { name = "bluesky", url = "/bluesky/" },
     { name = "email",   url = "/contact/" }
   ]
 
