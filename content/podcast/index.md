@@ -18,12 +18,12 @@ type: "page"
 
 Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
 
-New episodes arrive every Monday at 17:00 BST.
+New episodes arrive on Monday at 17:00 BST.
 
 ## Hear It First on Swing with Jim {#swing-with-jim}
 
 {{< img src="euan-chan-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Euan Chan writes: '... the questions he asks are insightful and meaningful, leading to a much richer discussion ...'" >}}
 
-Can't wait for Monday?
+Can't wait for Monday? You can listen to interviews **four days early** when you...
 
 {{< include "/content/_index.md" >}}
