@@ -20,6 +20,6 @@ Missed the show? Catch the repeat every Sunday from 15:00 BST.
 
 {{< img src="dan-cooper-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Dan Cooper writes: 'The future of talk radio is safe with James at the helm.'" loading="eager" >}}
 
-Listen to [Jibber Jabber with Jim](/jibberjabberwithjim/) interviews **four days early** when you tune in to the Swing with Jim show!
+Listen to [interviews with interesting individuals](/jibberjabberwithjim/) **four days early** when you tune in to the Swing with Jim show!
 
 {{< include "/content/podcast/description.md" >}}

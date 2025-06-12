@@ -24,6 +24,6 @@ New episodes arrive on Monday at 17:00 BST.
 
 {{< img src="euan-chan-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Euan Chan writes: '... the questions he asks are insightful and meaningful, leading to a much richer discussion ...'" >}}
 
-Can't wait for Monday? You can listen to interviews **four days early** when you...
+Can't wait for Monday? You can listen to interviews with interesting individuals **four days early** when you...
 
 {{< include "/content/_index.md" >}}
