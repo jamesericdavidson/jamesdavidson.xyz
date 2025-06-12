@@ -16,7 +16,7 @@ type: "page"
 
 {{< include "/content/podcast/description.md" >}}
 
-Listen from your [favourite podcast app](https://creators.spotify.com/pod/show/jibberjabberwithjim/), or [watch on YouTube](https://www.youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg).
+Listen from your [favourite podcast app](/spotify/), or [watch on YouTube](/youtube/).
 
 New episodes arrive on Monday at 17:00 BST.
 
