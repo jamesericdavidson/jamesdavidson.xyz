@@ -1,7 +1,3 @@
-Tune in to the Swing with Jim show every Thursday from 19:00 BST.
+I speak to entrepreneurs, innovators, and creators.
 
-{{< player >}}
-
-Hear [the best of jazz](/swingwithjim/) and [interviews with interesting individuals](/jibberjabberwithjim/).
-
-Only on [Ferndale Community Radio](https://www.fcradio.co.uk/).
+Listen from wherever you get your podcasts.

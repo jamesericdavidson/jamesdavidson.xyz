@@ -9,10 +9,10 @@ disableKinds = [ "rss", "taxonomy", "term" ]
 [params]
   avatarSize = "size-xs"
   avatarURL = "/images/avatar.webp"
-  description = "Producing radio shows and podcasts"
+  description = "Interviewing interesting individuals"
   fontSize = "20px"
   footer = "James Davidson"
-  metaKeywords = [ "jibber jabber with jim", "the swing with jim show" ]
+  metaKeywords = [ "jibber jabber with jim" ]
   showBackToTopButton = true
 
   customHeadHTML = '''
@@ -21,17 +21,18 @@ disableKinds = [ "rss", "taxonomy", "term" ]
         {
           .home-content
           {
-            width: 66%;
+            text-align: center;
+            width: 50%;
           }
         }
       </style>
   '''
 
   socialIcons = [
-    { name = "spotify", url = "/spotify/" },
-    { name = "youtube", url = "/youtube/" },
-    { name = "bluesky", url = "/bluesky/" },
-    { name = "email",   url = "/contact/" }
+    { name = "spotify", url = "https://creators.spotify.com/pod/show/jibberjabberwithjim/" },
+    { name = "youtube", url = "https://youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg" },
+    { name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz" },
+    { name = "email",   url = "mailto:james@jamesdavidson.xyz" }
   ]
 
 [menu]
@@ -43,27 +44,15 @@ disableKinds = [ "rss", "taxonomy", "term" ]
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
-    name = "Radio"
-    url = "/swingwithjim/"
-    weight = 2
-    pre = "<span data-feather='headphones'></span>"
-
-  [[menu.main]]
-    name = "Podcast"
-    url = "/jibberjabberwithjim/"
-    weight = 3
-    pre = "<span data-feather='mic'></span>"
-
-  [[menu.main]]
     name = "Testimonials"
     url = "/testimonials/"
-    weight = 4
+    weight = 10
     pre = "<span data-feather='thumbs-up'></span>"
 
   [[menu.main]]
     name = "Contact"
-    weight = 5
-    url = "/contact/"
+    weight = 99
+    url = "mailto:james@jamesdavidson.xyz"
     pre = "<span data-feather='mail'></span>"
 
 [markup]
