@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
-title = "James Davidson"
+title = "Jibber Jabber with Jim"
 disableKinds = [ "rss", "taxonomy", "term" ]
 
 [params]
