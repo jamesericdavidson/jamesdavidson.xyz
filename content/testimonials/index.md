@@ -7,8 +7,6 @@ type: "page"
 
 ## Sean Tilson - Business Analyst at Hunter Douglas {#sean-tilson}
 
-{{< img src="sean-tilson-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Sean Tilson writes: '... he’s easy to talk to and demonstrates genuine interest ...'" loading="eager" >}}
-
 > I thoroughly enjoyed my time speaking with James on his show.
 >
 > James is a natural conversationalist - he's easy to talk to and demonstrates genuine interest, and I found our discussion to be deeply engaging.
@@ -22,8 +20,6 @@ type: "page"
 {{< spotify episode 4RMX6BrcZBhN4dQYMzMmNf >}}
 
 ## Euan Chan - Lead Consultant at Value Match {#euan-chan}
-
-{{< img src="euan-chan-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Euan Chan writes: '... his questions shows that he’s genuinely chewing on what you’re saying to then dig deeper.'" >}}
 
 > My interview with James Davidson went very smoothly and I really enjoyed it.
 >
@@ -39,8 +35,6 @@ type: "page"
 
 ## Theresa Bakken - Audiobook Narrator {#theresa-bakken}
 
-{{< img src="theresa-bakken-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Theresa Bakken writes: '... he asks the questions that get to the heart of each guest’s story.'" >}}
-
 > An audiobook narrator’s dream... James is a great listener!
 >
 > And, I am sure all his listeners will agree, he asks the questions that get to the heart of each guest’s story.
@@ -50,8 +44,6 @@ type: "page"
 {{< spotify episode 49KtAj39MoXMTghTD4lkHW >}}
 
 ## Elena Brake - Trainee Engineer at Fishtek {#elena-brake}
-
-{{< img src="elena-brake-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Dan Cooper writes: 'Jim made the interview feel as easy as a conversation between friends ...'" >}}
 
 > I was really honoured to be invited to share my story on the Jibber Jabber with Jim Podcast.
 >
@@ -65,8 +57,6 @@ type: "page"
 
 ## Alicia Exworthy - Mindset Coach {#alicia-exworthy}
 
-{{< img src="alicia-exworthy-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Alicia Exworthy writes: 'His process is very thoughtful and considered but also informal and relaxed.'" >}}
-
 > It was a great experience getting to do this with James.
 >
 > His process is very thoughtful and considered but also informal and relaxed.
@@ -76,8 +66,6 @@ type: "page"
 {{< spotify episode 4xAdbtbqc5aXPAVFEwzAA7 >}}
 
 ## Selina Wells - Founder of Yellow Rhino Coaching {#selina-wells}
-
-{{< img src="selina-wells-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Selina Wells writes: 'James made me feel at ease and took interest in my subject.'" >}}
 
 > What an enjoyable evening I spent with James at FCR.
 >
@@ -90,8 +78,6 @@ type: "page"
 {{< spotify episode 1yCjFAz3fSS1cRJNTmpmg6 >}}
 
 ## Maisy Webb - Founder at Taste of Zero Waste {#maisy-webb}
-
-{{< img src="maisy-webb-testimonial.webp" alt="Testimonial for the Jibber Jabber with Jim podcast. Maisy Webb writes: '... I had some nerves but was very quickly put at ease ...'" >}}
 
 > Speaking with James on his radio show was a fantastic opportunity, once we settled in with a cuppa and went over the structure of the show we were away!
 >
