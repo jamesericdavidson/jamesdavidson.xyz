@@ -22,7 +22,7 @@ disableKinds = [ "rss", "taxonomy", "term" ]
           .home-content
           {
             text-align: center;
-            width: 50%;
+            width: 66%;
           }
         }
       </style>
