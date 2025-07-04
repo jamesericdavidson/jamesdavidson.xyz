@@ -1,6 +1,5 @@
 ---
 date: 2025-01-01
-slug: "testimonials"
 tags: [ "jibber jabber with jim" ]
 title: "Testimonials"
 type: "page"
@@ -20,7 +19,7 @@ type: "page"
 >
 > I couldn't recommend my experience enough!
 
-{{< youtube id=nlXkMwipTmg loading=lazy >}}
+{{< spotify episode 4RMX6BrcZBhN4dQYMzMmNf >}}
 
 ## Euan Chan - Lead Consultant at Value Match {#euan-chan}
 
@@ -36,7 +35,7 @@ type: "page"
 >
 > I very much enjoyed the experience!
 
-{{< youtube id=tW9PnG5_oSE loading=lazy >}}
+{{< spotify episode 1guEUllXybiOynmojmafzg >}}
 
 ## Theresa Bakken - Audiobook Narrator {#theresa-bakken}
 
@@ -48,7 +47,7 @@ type: "page"
 >
 > Thanks for asking and for really listening James. It’s a gift to feel heard.
 
-{{< youtube id=VkWs3PwJ4xU loading=lazy >}}
+{{< spotify episode 49KtAj39MoXMTghTD4lkHW >}}
 
 ## Elena Brake - Trainee Engineer at Fishtek {#elena-brake}
 
@@ -62,7 +61,7 @@ type: "page"
 >
 > Thank you, James, for this opportunity to be featured on your podcast!
 
-{{< youtube id=KuNjYnRWN0g loading=lazy >}}
+{{< spotify episode 1iKA3blBPPuVNxmVxi3I1z >}}
 
 ## Alicia Exworthy - Mindset Coach {#alicia-exworthy}
 
@@ -74,7 +73,7 @@ type: "page"
 >
 > Highly recommend if anyone else is considering it!
 
-{{< youtube id=e_SqCV7Znwg loading=lazy >}}
+{{< spotify episode 4xAdbtbqc5aXPAVFEwzAA7 >}}
 
 ## Selina Wells - Founder of Yellow Rhino Coaching {#selina-wells}
 
@@ -88,7 +87,7 @@ type: "page"
 >
 > Thank you for having me on your fabulous show.
 
-{{< youtube id=p5hlr1TacBI loading=lazy >}}
+{{< spotify episode 1yCjFAz3fSS1cRJNTmpmg6 >}}
 
 ## Maisy Webb - Founder at Taste of Zero Waste {#maisy-webb}
 
@@ -98,7 +97,7 @@ type: "page"
 >
 > Having never spoken on the radio before I had some nerves but was very quickly put at ease, he provided me with a space to express my passion and deliver my message to help others on their sustainability journey!
 
-{{< youtube id=UNNN_JIzmeg loading=lazy >}}
+{{< spotify episode 0z4944IAO1B6A948i2b6z7 >}}
 
 ## Leo Carr - Founder of Study Dog {#leo-carr}
 
@@ -108,7 +107,7 @@ type: "page"
 >
 > Thank you James for hosting such a wonderful show!
 
-{{< youtube id=6ferLH7L6mQ loading=lazy >}}
+{{< spotify episode 02FJGX2ntLtM5YyKFNiRWr >}}
 
 ## Jorge Castro - Founder of Universal Blue {#jorge-castro}
 
@@ -116,4 +115,4 @@ type: "page"
 >
 > It's great to have a fresh, insightful new perspective!
 
-{{< youtube id=AvQdFjpniJ4 loading=lazy >}}
+{{< spotify episode 2mVupYzTiHY1BiWIbXceQW >}}
