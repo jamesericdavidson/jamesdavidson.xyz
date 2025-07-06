@@ -12,7 +12,7 @@ description: "Every episode is different, with guests offering unique perspectiv
 h1: "About the Podcast"
 showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
-title: "About the Podcast & FAQs"
+title: "About the Podcast | FAQs - Jibber Jabber with Jim"
 type: "page"
 ---
 
