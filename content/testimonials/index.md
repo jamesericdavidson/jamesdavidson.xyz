@@ -1,7 +1,8 @@
 ---
 date: 2025-01-01
+h1: "Testimonials"
 tags: [ "jibber jabber with jim" ]
-title: "Testimonials"
+title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
 ---
 
