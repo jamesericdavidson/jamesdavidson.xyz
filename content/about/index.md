@@ -8,7 +8,7 @@ aliases:
     - "swingwithjim"
     - "the-swing-with-jim-show"
 date: 2025-01-01
-description: "Every episode is different, with guests offering unique perspectives on their specialism. Make no mistake - my guests are 100% of the talent behind this podcast."
+description: "Make no mistake - my guests are 100% of the talent behind this podcast."
 h1: "About the Podcast"
 showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
