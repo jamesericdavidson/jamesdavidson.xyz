@@ -46,6 +46,12 @@ disableKinds = [ "rss", "taxonomy", "term" ]
     pre = "<span data-feather='home'></span>"
 
   [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+    pre = "<span data-feather='user'></span>"
+
+  [[menu.main]]
     name = "Testimonials"
     url = "/testimonials/"
     weight = 90

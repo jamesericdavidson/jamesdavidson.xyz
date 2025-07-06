@@ -1,12 +1,4 @@
 ---
-aliases:
-    - "radio"
-    - "radio-show-archive"
-    - "swingwithjim"
-    - "the-swing-with-jim-show"
-    - "jibberjabberwithjim"
-    - "about"
-    - "podcast"
 date: 2025-01-01
 tags: [ "jibber jabber with jim" ]
 title: "Testimonials"
