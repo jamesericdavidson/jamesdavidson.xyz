@@ -17,14 +17,10 @@ disableKinds = [ "rss", "taxonomy", "term" ]
 
   customHeadHTML = '''
       <style>
-        @media only screen and (min-width: 820px)
-        {
-          .home-content
+        .home-content
           {
             text-align: center;
-            width: 66%;
           }
-        }
       </style>
   '''
 
