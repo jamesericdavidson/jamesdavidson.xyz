@@ -30,7 +30,7 @@ I'm not interested in producing the three-hour roundtables you've seen elsewhere
 
 Your time is too valuable for that.
 
-I work closely with guests to make every interview worth a listen.
+I work closely with guests to make every interview worth listening to.
 
 Make no mistake - my guests are 100% of the talent behind this podcast.
 
@@ -40,28 +40,30 @@ Make no mistake - my guests are 100% of the talent behind this podcast.
 
 ### Guest Appearances
 
-- I'd like to appear on the show. How does it work?
+- It's my turn for a jibber jabber. How can I appear on the show?
 
-    [Send me an email](mailto:james@jamesdavidson.xyz), and we'll go over the details!
+    [Send me your pitch](mailto:james@jamesdavidson.xyz), and we'll go over the details.
 
-- I want to contact one of your guests, how do I do that?
+- I like the cut of your guest's jib. How can I buy what they're selling?
 
-    My guests' social media channels are listed in the episode description (or show notes, for you podcast nerds).
-
-    Let them know I sent you! :sunglasses:
+    Check out the episode description for their social media channels!
 
 ### Monetisation
 
+- I love the podcast - can I throw money at it?
+
+    I can grow the podcast and release exclusive content with your support. Interested? [Let me know](mailto:james@jamesdavidson.xyz).
+
 - I hate ads; is the podcast ad-supported?
 
-    Me too. Jibber Jabber with Jim isn't monetised (yet).
-
-- I love the podcast - can I throw some money at it?
-
-    If you want to see the podcast grow *and* receive exclusive benefits, [let me know!](mailto:james@jamesdavidson.xyz)
+    Me too. Jibber Jabber with Jim isn't monetised yet.
 
 ### Feedback
 
-- Your podcast sucks, how do I let you know?
+- Something isn't working. Who can I blame?
+
+    Spotify, Apple Podcasts, or YouTube. You should probably [tell me](mailto:james@jamesdavidson.xyz) about it, though.
+
+- Your podcast sucks - how can I pass the message on?
 
     Oh no! [Leave a comment here](https://youtu.be/dQw4w9WgXcQ).
