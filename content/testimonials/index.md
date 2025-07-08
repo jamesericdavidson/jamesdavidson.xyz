@@ -69,7 +69,7 @@ type: "page"
 
 ## Selina Wells - Founder of Yellow Rhino Coaching {#selina-wells}
 
-> What an enjoyable evening I spent with James at FCR.
+> What an enjoyable evening I spent with James at [FCR](https://www.fcradio.co.uk/).
 >
 > The time flew as we chatted, whilst James made me feel at ease and took interest in my subject.
 >
