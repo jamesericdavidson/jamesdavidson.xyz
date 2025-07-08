@@ -1,6 +1,7 @@
 ---
 date: 2025-01-01
 h1: "Testimonials"
+showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
 title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
