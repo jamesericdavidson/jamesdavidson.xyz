@@ -12,7 +12,7 @@ description: "Make no mistake - my guests are 100% of the talent behind this pod
 h1: "About the Podcast"
 showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
-title: "About the Podcast | FAQs - Jibber Jabber with Jim"
+title: "About the Podcast & FAQs - Jibber Jabber with Jim"
 type: "page"
 ---
 
@@ -24,26 +24,15 @@ Telling human interest stories.
 
 From the [human rights consultant](https://open.spotify.com/episode/1guEUllXybiOynmojmafzg) who witnessed the 2019 Hong Kong protests, to the [teacher](https://open.spotify.com/episode/02FJGX2ntLtM5YyKFNiRWr) who's transforming the way children revise.
 
-## *Another* podcast? Really?
+### *Another* podcast? Really?
 
 I'm not interested in producing the three-hour roundtables you've seen elsewhere.
 
 Your time is too valuable for that.
 
-To make every interview worth absorbing, I collaborate with guests:
-
-We hand-pick engaging topics of conversation, highlight unique perspectives on their specialism, and deliver the positive messages we want people to hear.
-
-And I **love** the results.
-
-## See you there!
+I work closely with guests to make every interview worth a listen.
 
 Make no mistake - my guests are 100% of the talent behind this podcast.
-
-I hope you enjoy listening as much as I enjoy producing.
-
-Love,
-Jim
 
 ---
 
