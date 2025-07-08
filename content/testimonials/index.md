@@ -7,6 +7,10 @@ title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
 ---
 
+From Detroit to Exeter, I've spoken with a few remarkable people.
+
+Here's what they have to say about appearing on the Jibber Jabber with Jim podcast...
+
 ## Sean Tilson - Business Analyst at Hunter Douglas {#sean-tilson}
 
 > I thoroughly enjoyed my time speaking with James on his show.
