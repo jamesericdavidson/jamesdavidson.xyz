@@ -8,7 +8,7 @@ aliases:
     - "swingwithjim"
     - "the-swing-with-jim-show"
 date: 2025-01-01
-description: "Make no mistake - my guests are 100% of the talent behind this podcast."
+description: "Make no mistake, my guests are 100% of the talent behind this podcast."
 h1: "About the Podcast"
 showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
@@ -26,13 +26,11 @@ From the [human rights consultant](https://open.spotify.com/episode/1guEUllXybiO
 
 ### *Another* podcast? Really?
 
-I'm not interested in producing the three-hour roundtables you've seen elsewhere.
+Your time is valuable - you want to gain insight, and hear fresh perspectives. All in under 60 minutes.
 
-Your time is too valuable for that.
+To deliver that, I speak to different guests about distinct topics. Week in, week out.
 
-I work closely with guests to make every interview worth listening to.
-
-Make no mistake - my guests are 100% of the talent behind this podcast.
+Make no mistake, my guests are 100% of the talent behind this podcast.
 
 ---
 
