@@ -57,13 +57,3 @@ Make no mistake - my guests are 100% of the talent behind this podcast.
 - I hate ads; is the podcast ad-supported?
 
     Me too. Jibber Jabber with Jim isn't monetised yet.
-
-### Feedback
-
-- Something isn't working. Who can I blame?
-
-    Spotify, Apple Podcasts, or YouTube. You should probably [tell me](mailto:james@jamesdavidson.xyz) about it, though.
-
-- Your podcast sucks - how can I pass the message on?
-
-    Oh no! [Leave a comment here](https://youtu.be/dQw4w9WgXcQ).
