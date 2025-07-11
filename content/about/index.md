@@ -50,7 +50,9 @@ Make no mistake, my guests are 100% of the talent behind this podcast.
 
 - I love the podcast - can I throw money at it?
 
-    I can grow the podcast and release exclusive content with your support. Interested? [Let me know](mailto:james@jamesdavidson.xyz).
+    I can grow the podcast **and** produce exclusive content with your support.
+
+    Interested? [Let me know](mailto:james@jamesdavidson.xyz).
 
 - I hate ads; is the podcast ad-supported?
 
