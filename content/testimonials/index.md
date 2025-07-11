@@ -7,7 +7,7 @@ title: "Testimonials and Reviews - Jibber Jabber with Jim"
 type: "page"
 ---
 
-From Detroit, Michigan to Exeter (England, not New Hampshire), I've spoken with a few remarkable people.
+I've spoken with a few remarkable people - from Detroit, Michigan to Exeter, England.
 
 Here's what they have to say about appearing on the Jibber Jabber with Jim podcast.
 
