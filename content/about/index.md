@@ -1,12 +1,16 @@
 ---
 aliases:
+    - "bluesky"
+    - "contact"
     - "faq"
     - "jibberjabberwithjim"
     - "podcast"
     - "radio"
     - "radio-show-archive"
+    - "spotify"
     - "swingwithjim"
     - "the-swing-with-jim-show"
+    - "youtube"
 date: 2025-01-01
 description: "Make no mistake, my guests are 100% of the talent behind this podcast."
 h1: "About the Podcast"
