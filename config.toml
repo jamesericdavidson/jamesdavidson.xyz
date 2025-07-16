@@ -7,7 +7,7 @@ title = "Jibber Jabber with Jim"
 disableKinds = [ "rss", "taxonomy", "term" ]
 
 [params]
-  avatarSize = "size-xs"
+  avatarSize = "size-s"
   avatarURL = "/images/avatar.webp"
   description = "Interviewing interesting individuals"
   fontSize = "1.25rem"
