@@ -13,7 +13,7 @@ aliases:
     - "youtube"
 date: 2025-01-01
 description: "Make no mistake, my guests are 100% of the talent behind this podcast."
-h1: "About the Podcast"
+h1: "About the Podcast & FAQs"
 showTableOfContents: true
 tags: [ "jibber jabber with jim" ]
 title: "About the Podcast & FAQs - Jibber Jabber with Jim"
