@@ -20,7 +20,7 @@ title: "About the Podcast & FAQs - Jibber Jabber with Jim"
 type: "page"
 ---
 
-![Jibber Jabber with Jim logo](logo-1500.webp)
+![Jibber Jabber with Jim logo](logo.webp)
 
 ## What is Jibber Jabber with Jim?
 
