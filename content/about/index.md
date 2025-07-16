@@ -20,6 +20,8 @@ title: "About the Podcast & FAQs - Jibber Jabber with Jim"
 type: "page"
 ---
 
+![Jibber Jabber with Jim logo](logo-1500.webp)
+
 ## What is Jibber Jabber with Jim?
 
 I was interviewing [Brian Jepson](https://open.spotify.com/episode/5cQuh13KzwYBmE02MWhlhj) when he described what I do:
