@@ -101,6 +101,16 @@ Here's what they have to say about appearing on the Jibber Jabber with Jim podca
 
 {{< spotify episode 02FJGX2ntLtM5YyKFNiRWr >}}
 
+## Andrew Clapp - Music Producer at Smoke Signal Productions {#andrew-clapp}
+
+> I had a lot of fun on Jibber Jabber with Jim.
+>
+> Excellent conversation that has great insight into my instrumental process, as well as lore and business about Smoke Signal Productions.
+>
+> I'm looking forward to sharing our conversation.
+
+{{< spotify episode 3Rh4wyzlO4jQpB57FvMYWB >}}
+
 ## Jorge Castro - Founder of Universal Blue {#jorge-castro}
 
 > Jim really forced me to rethink the angles I approached my own project with.
