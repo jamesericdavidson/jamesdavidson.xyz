@@ -101,13 +101,11 @@ Here's what they have to say about appearing on the Jibber Jabber with Jim podca
 
 {{< spotify episode 02FJGX2ntLtM5YyKFNiRWr >}}
 
-## Andrew Clapp - Music Producer at Smoke Signal Productions {#andrew-clapp}
+## Andrew Clapp - Founder of Smoke Signal Productions {#andrew-clapp}
 
-> I had a lot of fun on Jibber Jabber with Jim.
+> I had an authentic experience on Jibber Jabber with Jim.
 >
-> Excellent conversation that has great insight into my instrumental process, as well as lore and business about Smoke Signal Productions.
->
-> I'm looking forward to sharing our conversation.
+> His interview style made it quickly feel like a fun conversation with a friend, and I appreciate how easy he made the process.
 
 {{< spotify episode 3Rh4wyzlO4jQpB57FvMYWB >}}
 
