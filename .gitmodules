@@ -1,0 +1,3 @@
+[submodule "faviconick"]
+	path = faviconick
+	url = https://codeberg.org/jamesericdavidson/faviconick.git
