@@ -35,8 +35,6 @@ disableKinds = [ "rss", "taxonomy", "term" ]
     { name = "spotify", url = "https://open.spotify.com/show/47spEPWboBabi1uI8WeOA8" },
     { name = "applepodcasts", url = "https://podcasts.apple.com/us/podcast/jibber-jabber-with-jim/id1793881233" },
     { name = "youtube", url = "https://youtube.com/channel/UCPiMq6YLZieMieOuZ8GJfrg" },
-    { name = "bluesky", url = "https://bsky.app/profile/jamesdavidson.xyz" },
-    { name = "instagram", url = "https://www.instagram.com/jibberjabber.withjim/" },
     { name = "email",   url = "mailto:james@jamesdavidson.xyz" }
   ]
 
